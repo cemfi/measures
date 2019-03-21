@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei">
+    <meiHead>
+        <fileDesc>
+            <titleStmt/>
+            <pubStmt/>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="surface_1e700cf4-de65-40b5-9402-a39eafc5b7c6" n="1" ulx="0" uly="0" lrx="1240" lry="1754">
+                <graphic xml:id="graphic_3d5ae930-edd8-4705-aedd-634d3d893835" target="IMSLP35925-PMLP80343-Auf_den_H__hen_Schjelderup-0001.jpg" type="facsimile" width="1240" height="1754"/>
+                <zone xml:id="zone_84e4f73a-fdd2-4448-adc3-1c70aaf1545e" type="measure" ulx="112" uly="346" lrx="418" lry="897"/>
+                <zone xml:id="zone_f3ad1be5-1c7b-4e64-b43d-45b37346a037" type="measure" ulx="388" uly="346" lrx="533" lry="897"/>
+                <zone xml:id="zone_1e5aa2fb-81bb-447c-8278-54af195e0958" type="measure" ulx="503" uly="346" lrx="647" lry="897"/>
+                <zone xml:id="zone_41acf633-8550-4e30-99ae-fead9acbdc5e" type="measure" ulx="617" uly="346" lrx="815" lry="897"/>
+                <zone xml:id="zone_78fe310a-81c1-4943-8b75-c70c3d615d6a" type="measure" ulx="785" uly="346" lrx="1159" lry="897"/>
+                <zone xml:id="zone_be676039-3970-461b-9dba-547d0d300b13" type="measure" ulx="83" uly="901" lrx="508" lry="1489"/>
+                <zone xml:id="zone_8ce7a08c-b49b-4483-ab52-0dab24890b1b" type="measure" ulx="478" uly="901" lrx="826" lry="1489"/>
+                <zone xml:id="zone_81e0158f-bdc9-4844-994a-4a535846379c" type="measure" ulx="796" uly="901" lrx="1172" lry="1489"/>
+            </surface>
+            <surface xml:id="surface_d6b66c61-a9fe-4326-abc8-c4a063e6467b" n="2" ulx="0" uly="0" lrx="1240" lry="1754">
+                <graphic xml:id="graphic_ce105805-fcb1-44c1-adf8-8dde360b1755" target="IMSLP35925-PMLP80343-Auf_den_H__hen_Schjelderup-0002.jpg" type="facsimile" width="1240" height="1754"/>
+                <zone xml:id="zone_94bc595c-7e9e-4dde-a027-9222821b318c" type="measure" ulx="97" uly="204" lrx="527" lry="793"/>
+                <zone xml:id="zone_9339ca6f-a8d7-4220-8fac-324ee12b051e" type="measure" ulx="497" uly="204" lrx="857" lry="793"/>
+                <zone xml:id="zone_34a62dfd-a6ad-4704-a966-84d25ccf28b5" type="measure" ulx="827" uly="204" lrx="1170" lry="793"/>
+                <zone xml:id="zone_ca97ff93-bf1d-49dd-9b9c-d7a87fe07a68" type="measure" ulx="98" uly="822" lrx="516" lry="1449"/>
+                <zone xml:id="zone_cb09b7c3-f737-4256-8ecb-cf4200ee29ae" type="measure" ulx="486" uly="822" lrx="839" lry="1449"/>
+                <zone xml:id="zone_ce75b778-c64d-4dc0-bfc8-1dadb555f15b" type="measure" ulx="809" uly="822" lrx="1150" lry="1449"/>
+            </surface>
+            <surface xml:id="surface_eecefabe-b75a-4bae-84da-adcb81da1618" n="3" ulx="0" uly="0" lrx="1240" lry="1754">
+                <graphic xml:id="graphic_84e4ed1c-b569-4869-b6fc-4afb7748aed8" target="IMSLP35925-PMLP80343-Auf_den_H__hen_Schjelderup-0003.jpg" type="facsimile" width="1240" height="1754"/>
+                <zone xml:id="zone_4df8b886-f882-49c2-bbc5-d558a705c453" type="measure" ulx="86" uly="215" lrx="503" lry="846"/>
+                <zone xml:id="zone_299f37e3-7eef-4f94-a12d-9ff4a8ce0e74" type="measure" ulx="473" uly="215" lrx="812" lry="846"/>
+                <zone xml:id="zone_8960a929-4f98-472b-9b63-af4e91cf12a1" type="measure" ulx="782" uly="215" lrx="1152" lry="846"/>
+                <zone xml:id="zone_4e0d6511-2a94-491a-9fd7-7ae831195771" type="measure" ulx="82" uly="840" lrx="515" lry="1510"/>
+                <zone xml:id="zone_85e44f10-3017-4651-81ac-24537d86ba95" type="measure" ulx="485" uly="840" lrx="838" lry="1510"/>
+                <zone xml:id="zone_61517628-0084-4dd4-9386-0ac778a42eaa" type="measure" ulx="808" uly="840" lrx="1148" lry="1510"/>
+            </surface>
+            <surface xml:id="surface_e2492335-dc27-48cf-9959-bcde89d2ebef" n="4" ulx="0" uly="0" lrx="1240" lry="1754">
+                <graphic xml:id="graphic_7b1514e0-8d9c-40e3-9a90-09725dd8c7e1" target="IMSLP35925-PMLP80343-Auf_den_H__hen_Schjelderup-0004.jpg" type="facsimile" width="1240" height="1754"/>
+                <zone xml:id="zone_d0f06cd5-d502-488a-a8f4-cf7037901225" type="measure" ulx="97" uly="203" lrx="511" lry="820"/>
+                <zone xml:id="zone_f1644202-0989-4f67-996d-f90f25f3ee5b" type="measure" ulx="481" uly="203" lrx="824" lry="820"/>
+                <zone xml:id="zone_382724a8-b259-4982-bc00-44cb91d99d32" type="measure" ulx="794" uly="203" lrx="1171" lry="820"/>
+                <zone xml:id="zone_bbebc594-63c2-4d32-ab3b-904f56dc64e3" type="measure" ulx="97" uly="849" lrx="537" lry="1471"/>
+                <zone xml:id="zone_825f8c42-bd90-49ef-9434-ba38c1d46868" type="measure" ulx="507" uly="849" lrx="856" lry="1471"/>
+                <zone xml:id="zone_83510982-b179-425e-8a16-df417ef7a76f" type="measure" ulx="826" uly="849" lrx="1170" lry="1471"/>
+            </surface>
+            <surface xml:id="surface_673c0849-8344-4efc-87d7-7ee89be85888" n="5" ulx="0" uly="0" lrx="1240" lry="1754">
+                <graphic xml:id="graphic_053a2050-c101-43cb-bbee-2c164862b739" target="IMSLP35925-PMLP80343-Auf_den_H__hen_Schjelderup-0005.jpg" type="facsimile" width="1240" height="1754"/>
+                <zone xml:id="zone_76a62ba3-54a2-444b-aa66-8c616726122b" type="measure" ulx="95" uly="209" lrx="549" lry="789"/>
+                <zone xml:id="zone_838b8322-845e-4928-a9ce-9629d2ee54b6" type="measure" ulx="519" uly="209" lrx="873" lry="789"/>
+                <zone xml:id="zone_dd3bbde6-14cd-42b2-b1b3-587760fc08b5" type="measure" ulx="843" uly="209" lrx="1121" lry="789"/>
+                <zone xml:id="zone_9d30d91f-8398-4587-bea0-aec0bddeb8cf" type="measure" ulx="55" uly="781" lrx="482" lry="1175"/>
+                <zone xml:id="zone_b95e7986-c2b6-427f-80a8-639ee0215aad" type="measure" ulx="452" uly="781" lrx="706" lry="1175"/>
+                <zone xml:id="zone_97f9b326-4f02-4a49-b64d-78a167852180" type="measure" ulx="676" uly="781" lrx="924" lry="1175"/>
+                <zone xml:id="zone_975c5615-cd99-4063-973b-5bbdd2f158f3" type="measure" ulx="894" uly="781" lrx="1170" lry="1175"/>
+                <zone xml:id="zone_14e70b6d-d953-45ee-8c79-a4bd5e14f84a" type="measure" ulx="88" uly="1172" lrx="381" lry="1560"/>
+                <zone xml:id="zone_fadf52e4-ce9a-4035-a39c-aafc1f8adc66" type="measure" ulx="351" uly="1172" lrx="628" lry="1560"/>
+                <zone xml:id="zone_aea58c5f-826a-4bbb-8a78-00dc9f8ba62c" type="measure" ulx="598" uly="1172" lrx="905" lry="1560"/>
+                <zone xml:id="zone_5b275674-8c3a-45d2-a5c5-d68ba998a247" type="measure" ulx="875" uly="1172" lrx="1165" lry="1560"/>
+            </surface>
+            <surface xml:id="surface_6a9c8108-20b3-4177-8ef2-9211dd6e75f1" n="6" ulx="0" uly="0" lrx="1240" lry="1754">
+                <graphic xml:id="graphic_89cfb111-704f-48dc-bd8b-2b74dff13b96" target="IMSLP35925-PMLP80343-Auf_den_H__hen_Schjelderup-0006.jpg" type="facsimile" width="1240" height="1754"/>
+                <zone xml:id="zone_f2d28c16-8efb-4085-9319-01df222a0415" type="measure" ulx="105" uly="161" lrx="371" lry="708"/>
+                <zone xml:id="zone_5278ca36-bb4f-42f0-a18c-571543751c2e" type="measure" ulx="341" uly="161" lrx="520" lry="708"/>
+                <zone xml:id="zone_6c49e5d4-3a69-4570-8de3-2e6c6bf0c40b" type="measure" ulx="490" uly="161" lrx="699" lry="708"/>
+                <zone xml:id="zone_60a707d7-7d50-42f6-9892-9879134c4245" type="measure" ulx="669" uly="161" lrx="930" lry="708"/>
+                <zone xml:id="zone_3ff5e5d6-e7eb-4942-9d48-4c12ba735585" type="measure" ulx="900" uly="161" lrx="1176" lry="708"/>
+                <zone xml:id="zone_d3985ae4-53ac-4be4-89b4-68a5cde0b1d4" type="measure" ulx="104" uly="684" lrx="461" lry="1036"/>
+                <zone xml:id="zone_104d5e63-2ad3-4a85-8f6d-f8535cfac0d8" type="measure" ulx="431" uly="684" lrx="664" lry="1036"/>
+                <zone xml:id="zone_91c14929-7159-4b93-9c6d-b3a60f5cef1c" type="measure" ulx="634" uly="684" lrx="907" lry="1036"/>
+                <zone xml:id="zone_2ed67a04-f586-4fd7-b8dc-b76601466462" type="measure" ulx="877" uly="684" lrx="1154" lry="1036"/>
+                <zone xml:id="zone_fcecd2e9-a76d-4080-9215-0970f4e7b5cd" type="measure" ulx="97" uly="1014" lrx="460" lry="1528"/>
+                <zone xml:id="zone_02a0e622-7b20-4d95-b581-6da51d7f6b55" type="measure" ulx="430" uly="1014" lrx="711" lry="1528"/>
+                <zone xml:id="zone_865a8296-8745-4064-9de8-e4af17544b57" type="measure" ulx="681" uly="1014" lrx="968" lry="1528"/>
+                <zone xml:id="zone_a110fe8a-5dab-479d-8dcd-008fea8afb8a" type="measure" ulx="938" uly="1014" lrx="1170" lry="1528"/>
+            </surface>
+            <surface xml:id="surface_901fe92c-445e-458b-b581-c5a67ebdd1e8" n="7" ulx="0" uly="0" lrx="1240" lry="1754">
+                <graphic xml:id="graphic_381c65fc-4511-4f31-a153-3e8e0f64b72e" target="IMSLP35925-PMLP80343-Auf_den_H__hen_Schjelderup-0007.jpg" type="facsimile" width="1240" height="1754"/>
+                <zone xml:id="zone_204828f4-8f7d-41f8-a6ab-f23224b8274d" type="measure" ulx="89" uly="179" lrx="370" lry="828"/>
+                <zone xml:id="zone_46e70d59-088f-4380-96a3-9664b9ef4b86" type="measure" ulx="340" uly="179" lrx="499" lry="828"/>
+                <zone xml:id="zone_56d5f114-6806-485a-bc1f-dd56e07de9dc" type="measure" ulx="469" uly="179" lrx="583" lry="828"/>
+                <zone xml:id="zone_b53b25e6-c984-4af1-b063-b1b6c227707d" type="measure" ulx="553" uly="179" lrx="721" lry="828"/>
+                <zone xml:id="zone_9787c882-4cf3-4586-8fa4-dc64fb5159dc" type="measure" ulx="691" uly="179" lrx="1193" lry="828"/>
+                <zone xml:id="zone_439bd3dc-b9f0-4e5d-ae9d-1f24e3bc3031" type="measure" ulx="90" uly="841" lrx="514" lry="1432"/>
+                <zone xml:id="zone_ae034b00-07d3-4b08-b7f6-b10d133694d3" type="measure" ulx="484" uly="841" lrx="832" lry="1432"/>
+                <zone xml:id="zone_c7b34d49-07a8-4a19-ad7e-57ab22f61169" type="measure" ulx="802" uly="841" lrx="1188" lry="1432"/>
+            </surface>
+            <surface xml:id="surface_8ad6ded1-7fda-466b-9e61-f8cc52f13e7d" n="8" ulx="0" uly="0" lrx="1240" lry="1754">
+                <graphic xml:id="graphic_7fd36f76-3425-4e46-8a35-ebd430f10bbf" target="IMSLP35925-PMLP80343-Auf_den_H__hen_Schjelderup-0008.jpg" type="facsimile" width="1240" height="1754"/>
+                <zone xml:id="zone_7bc342c5-eca2-4365-850c-e478e1461f47" type="measure" ulx="90" uly="193" lrx="526" lry="819"/>
+                <zone xml:id="zone_2aab0f5e-18ce-4e9d-b204-2a05879ebf97" type="measure" ulx="496" uly="193" lrx="846" lry="819"/>
+                <zone xml:id="zone_217d23ed-518b-4421-a1b1-0a6dcb903368" type="measure" ulx="816" uly="193" lrx="1183" lry="819"/>
+                <zone xml:id="zone_9a6108a9-c88e-4502-b988-19dc3a55415c" type="measure" ulx="87" uly="843" lrx="512" lry="1456"/>
+                <zone xml:id="zone_308697a4-6cea-4925-a431-ef409bf9c5cf" type="measure" ulx="482" uly="843" lrx="835" lry="1456"/>
+                <zone xml:id="zone_3d2a99f9-9648-4850-a5b7-012678f12cc0" type="measure" ulx="805" uly="843" lrx="1186" lry="1456"/>
+            </surface>
+            <surface xml:id="surface_75749112-85f8-4c60-b074-9907d6dc7ff6" n="9" ulx="0" uly="0" lrx="1240" lry="1754">
+                <graphic xml:id="graphic_89c27cda-a60a-43f2-bf52-abcb4b59cf38" target="IMSLP35925-PMLP80343-Auf_den_H__hen_Schjelderup-0009.jpg" type="facsimile" width="1240" height="1754"/>
+                <zone xml:id="zone_d6fb331e-d698-45d6-aa80-abd092564f32" type="measure" ulx="70" uly="194" lrx="484" lry="816"/>
+                <zone xml:id="zone_0ae8b45d-fe64-4833-8c85-abb3f90c7cc8" type="measure" ulx="454" uly="194" lrx="795" lry="816"/>
+                <zone xml:id="zone_510769d1-c207-4d01-9cc3-13091c4fdf38" type="measure" ulx="765" uly="194" lrx="1161" lry="816"/>
+                <zone xml:id="zone_048c0976-9191-4975-8518-1b8d2984d1ed" type="measure" ulx="77" uly="827" lrx="503" lry="1496"/>
+                <zone xml:id="zone_a7568013-b5e3-46e3-a509-37a7688532aa" type="measure" ulx="473" uly="827" lrx="824" lry="1496"/>
+                <zone xml:id="zone_04feab19-e8c8-49c6-85a4-da63762afe44" type="measure" ulx="794" uly="827" lrx="1151" lry="1496"/>
+            </surface>
+            <surface xml:id="surface_88003b95-561b-437c-b3eb-8bcf0c0ba183" n="10" ulx="0" uly="0" lrx="1240" lry="1754">
+                <graphic xml:id="graphic_59c723ae-1854-4d29-9df3-0714ac6dcdaa" target="IMSLP35925-PMLP80343-Auf_den_H__hen_Schjelderup-0010.jpg" type="facsimile" width="1240" height="1754"/>
+                <zone xml:id="zone_1e607ae0-c5bc-4da1-82ca-5ee53dc26958" type="measure" ulx="76" uly="200" lrx="517" lry="828"/>
+                <zone xml:id="zone_65a095ff-b38a-4c11-8fca-70952ed741f7" type="measure" ulx="487" uly="200" lrx="830" lry="828"/>
+                <zone xml:id="zone_2f794122-fa77-401a-86b3-328aa07ac5dd" type="measure" ulx="800" uly="200" lrx="1169" lry="828"/>
+                <zone xml:id="zone_baab2fcd-b02f-4b87-a505-fd3c1e50cd6a" type="measure" ulx="73" uly="847" lrx="684" lry="1494"/>
+                <zone xml:id="zone_c637983b-c349-4bdf-9885-4673bfd93e9a" type="measure" ulx="654" uly="847" lrx="1182" lry="1494"/>
+            </surface>
+            <surface xml:id="surface_e9cbdc6c-cb3a-457e-ac5d-d56d5781d320" n="11" ulx="0" uly="0" lrx="1240" lry="1754">
+                <graphic xml:id="graphic_0464136b-0a6d-4755-a732-7ab3443fcc8f" target="IMSLP35925-PMLP80343-Auf_den_H__hen_Schjelderup-0011.jpg" type="facsimile" width="1240" height="1754"/>
+                <zone xml:id="zone_ae83246a-0006-4c66-b23e-13f9f5815fe1" type="measure" ulx="82" uly="215" lrx="734" lry="779"/>
+                <zone xml:id="zone_f0aef47d-c73e-40d9-94c1-6181336fa597" type="measure" ulx="704" uly="215" lrx="1167" lry="779"/>
+                <zone xml:id="zone_ae5dd7e4-6e13-4e0c-b480-e5d3ca5f425a" type="measure" ulx="70" uly="742" lrx="394" lry="1039"/>
+                <zone xml:id="zone_8613e661-ea03-4907-bf83-ee892eb995b0" type="measure" ulx="364" uly="742" lrx="1164" lry="1039"/>
+                <zone xml:id="zone_076ddfe0-e281-469c-a15a-41b1d200651f" type="measure" ulx="85" uly="998" lrx="342" lry="1269"/>
+                <zone xml:id="zone_ac5bf74c-d260-477f-a03d-79e239b86e33" type="measure" ulx="312" uly="998" lrx="1159" lry="1269"/>
+                <zone xml:id="zone_26ea2273-62d6-43d1-87ee-a43502c91459" type="measure" ulx="81" uly="1275" lrx="477" lry="1547"/>
+                <zone xml:id="zone_6fdeb91f-92b0-46dd-bcfe-5e53049306fd" type="measure" ulx="447" uly="1275" lrx="766" lry="1547"/>
+                <zone xml:id="zone_0f944a8e-e3a9-4b13-87b1-98fa7ea12143" type="measure" ulx="736" uly="1275" lrx="973" lry="1547"/>
+                <zone xml:id="zone_fa2a49c6-28f1-4984-b77b-8237f86f0d2e" type="measure" ulx="943" uly="1275" lrx="1167" lry="1547"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="page_93ec28fa-7859-46a3-90f7-e711a43b2dcc" n="1" label="">
+                <score>
+                    <scoreDef/>
+                    <section>
+                        <pb/>
+                        <measure n="1" label="1" xml:id="measure_29796708-f880-4f20-8b88-5827f5edd0ff" facs="#zone_84e4f73a-fdd2-4448-adc3-1c70aaf1545e"/>
+                        <measure n="2" label="2" xml:id="measure_53ae20b6-1876-40ef-a215-ea18142359f8" facs="#zone_f3ad1be5-1c7b-4e64-b43d-45b37346a037"/>
+                        <measure n="3" label="3" xml:id="measure_ec71c120-0096-4f43-b3ee-a83c0a0de135" facs="#zone_1e5aa2fb-81bb-447c-8278-54af195e0958"/>
+                        <measure n="4" label="4" xml:id="measure_2bddb4e3-5e18-4e70-91f4-0f3f3e60cb05" facs="#zone_41acf633-8550-4e30-99ae-fead9acbdc5e"/>
+                        <measure n="5" label="5" xml:id="measure_5af7c355-425c-4183-be18-fad139472dd9" facs="#zone_78fe310a-81c1-4943-8b75-c70c3d615d6a"/>
+                        <sb/>
+                        <measure n="6" label="6" xml:id="measure_f7fc441b-601c-4d4e-bde3-3a016f91e250" facs="#zone_be676039-3970-461b-9dba-547d0d300b13"/>
+                        <measure n="7" label="7" xml:id="measure_b4475c65-1811-4d37-8cb2-4439f2679f2a" facs="#zone_8ce7a08c-b49b-4483-ab52-0dab24890b1b"/>
+                        <measure n="8" label="8" xml:id="measure_cb475509-e7b2-4671-997c-4bae78aa74f0" facs="#zone_81e0158f-bdc9-4844-994a-4a535846379c"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="9" label="9" xml:id="measure_174a80b5-7d4d-4216-86ef-fee03e4b450c" facs="#zone_94bc595c-7e9e-4dde-a027-9222821b318c"/>
+                        <measure n="10" label="10" xml:id="measure_9df894f2-0304-4bc6-8605-25a724ede510" facs="#zone_9339ca6f-a8d7-4220-8fac-324ee12b051e"/>
+                        <measure n="11" label="11" xml:id="measure_091ab346-dadd-41c7-acbb-467adf5e1c9f" facs="#zone_34a62dfd-a6ad-4704-a966-84d25ccf28b5"/>
+                        <sb/>
+                        <measure n="12" label="12" xml:id="measure_42bbd68d-eb9b-4bf2-835f-1310783f182e" facs="#zone_ca97ff93-bf1d-49dd-9b9c-d7a87fe07a68"/>
+                        <measure n="13" label="13" xml:id="measure_eea70bd8-015d-42a9-a8cf-4d7971e87727" facs="#zone_cb09b7c3-f737-4256-8ecb-cf4200ee29ae"/>
+                        <measure n="14" label="14" xml:id="measure_2f6090ee-1f7a-4629-9458-7ebc1b8f4c90" facs="#zone_ce75b778-c64d-4dc0-bfc8-1dadb555f15b"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="15" label="15" xml:id="measure_16ee5649-921a-40e7-a957-78b1a9454363" facs="#zone_4df8b886-f882-49c2-bbc5-d558a705c453"/>
+                        <measure n="16" label="16" xml:id="measure_50bb1901-c394-4a1e-aa85-ffe2fd669348" facs="#zone_299f37e3-7eef-4f94-a12d-9ff4a8ce0e74"/>
+                        <measure n="17" label="17" xml:id="measure_ba4138ad-57ff-4f9b-aa50-b14e7f470ee2" facs="#zone_8960a929-4f98-472b-9b63-af4e91cf12a1"/>
+                        <sb/>
+                        <measure n="18" label="18" xml:id="measure_01201218-7a38-463f-b275-680301d0de04" facs="#zone_4e0d6511-2a94-491a-9fd7-7ae831195771"/>
+                        <measure n="19" label="19" xml:id="measure_feb88c20-1e6a-4096-bac3-8ca49442b269" facs="#zone_85e44f10-3017-4651-81ac-24537d86ba95"/>
+                        <measure n="20" label="20" xml:id="measure_f20b6505-5060-4bdb-89c8-768195bae4f7" facs="#zone_61517628-0084-4dd4-9386-0ac778a42eaa"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="21" label="21" xml:id="measure_697c7d1f-ce5e-4000-9e99-98d6558633b8" facs="#zone_d0f06cd5-d502-488a-a8f4-cf7037901225"/>
+                        <measure n="22" label="22" xml:id="measure_2a24a2ff-a9d4-4676-ac06-509d4df612fa" facs="#zone_f1644202-0989-4f67-996d-f90f25f3ee5b"/>
+                        <measure n="23" label="23" xml:id="measure_db660273-9d85-4663-8c48-248447371730" facs="#zone_382724a8-b259-4982-bc00-44cb91d99d32"/>
+                        <sb/>
+                        <measure n="24" label="24" xml:id="measure_ab42ea39-9b2d-42a7-93e6-612982065891" facs="#zone_bbebc594-63c2-4d32-ab3b-904f56dc64e3"/>
+                        <measure n="25" label="25" xml:id="measure_3ee09976-ea59-49b1-88ff-fbd172535bf2" facs="#zone_825f8c42-bd90-49ef-9434-ba38c1d46868"/>
+                        <measure n="26" label="26" xml:id="measure_12287212-dfaf-4803-8f80-b8e300e97221" facs="#zone_83510982-b179-425e-8a16-df417ef7a76f"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="27" label="27" xml:id="measure_19b8b34b-fc25-42e7-81e9-3742e6e695ea" facs="#zone_76a62ba3-54a2-444b-aa66-8c616726122b"/>
+                        <measure n="28" label="28" xml:id="measure_c7159583-5a86-4dbe-976f-89a2e623c615" facs="#zone_838b8322-845e-4928-a9ce-9629d2ee54b6"/>
+                        <measure n="29" label="29" xml:id="measure_83502db3-1e63-425b-980c-ee95065b8e48" facs="#zone_dd3bbde6-14cd-42b2-b1b3-587760fc08b5"/>
+                        <sb/>
+                        <measure n="30" label="30" xml:id="measure_8412745d-22c5-48c1-a13f-f019364d096c" facs="#zone_9d30d91f-8398-4587-bea0-aec0bddeb8cf"/>
+                        <measure n="31" label="31" xml:id="measure_a5768aea-96c0-445c-b443-ee002943bea2" facs="#zone_b95e7986-c2b6-427f-80a8-639ee0215aad"/>
+                        <measure n="32" label="32" xml:id="measure_f1795aaa-e56d-4b1c-93f0-00821dd22ed5" facs="#zone_97f9b326-4f02-4a49-b64d-78a167852180"/>
+                        <measure n="33" label="33" xml:id="measure_1cb6f702-7521-4874-8fd9-831c6c273998" facs="#zone_975c5615-cd99-4063-973b-5bbdd2f158f3"/>
+                        <sb/>
+                        <measure n="34" label="34" xml:id="measure_9c6f319e-738d-471a-a4fb-f3ca4556ef6d" facs="#zone_14e70b6d-d953-45ee-8c79-a4bd5e14f84a"/>
+                        <measure n="35" label="35" xml:id="measure_7a5843ec-dca6-4488-8e9d-f4e1c956075b" facs="#zone_fadf52e4-ce9a-4035-a39c-aafc1f8adc66"/>
+                        <measure n="36" label="36" xml:id="measure_94893ea9-2749-4583-831d-85f936a18f80" facs="#zone_aea58c5f-826a-4bbb-8a78-00dc9f8ba62c"/>
+                        <measure n="37" label="37" xml:id="measure_b53da105-4427-4ff9-b169-ca548f92039d" facs="#zone_5b275674-8c3a-45d2-a5c5-d68ba998a247"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="38" label="38" xml:id="measure_09acfb88-a148-4ce0-9f32-6b4d65e76030" facs="#zone_f2d28c16-8efb-4085-9319-01df222a0415"/>
+                        <measure n="39" label="39" xml:id="measure_972fdc69-1435-41c6-a65a-374446a50bc9" facs="#zone_5278ca36-bb4f-42f0-a18c-571543751c2e"/>
+                        <measure n="40" label="40" xml:id="measure_be93c690-b81d-4669-9f29-168efbcb1cc8" facs="#zone_6c49e5d4-3a69-4570-8de3-2e6c6bf0c40b"/>
+                        <measure n="41" label="41" xml:id="measure_17c25bfb-8d62-4e4f-9c7e-d0189f9a3e07" facs="#zone_60a707d7-7d50-42f6-9892-9879134c4245"/>
+                        <measure n="42" label="42" xml:id="measure_706c41f5-90f5-4fa6-b857-83f7cc5e983c" facs="#zone_3ff5e5d6-e7eb-4942-9d48-4c12ba735585"/>
+                        <sb/>
+                        <measure n="43" label="43" xml:id="measure_b07b2e97-97e9-48ed-8cbb-7ef6cd5778d4" facs="#zone_d3985ae4-53ac-4be4-89b4-68a5cde0b1d4"/>
+                        <measure n="44" label="44" xml:id="measure_b71b5904-97ce-4996-b8de-9b1e26049451" facs="#zone_104d5e63-2ad3-4a85-8f6d-f8535cfac0d8"/>
+                        <measure n="45" label="45" xml:id="measure_407678d7-2de9-4d0d-b7fd-d57ffff27cc7" facs="#zone_91c14929-7159-4b93-9c6d-b3a60f5cef1c"/>
+                        <measure n="46" label="46" xml:id="measure_eb793880-6749-4f06-9801-641cbfa9f1e6" facs="#zone_2ed67a04-f586-4fd7-b8dc-b76601466462"/>
+                        <sb/>
+                        <measure n="47" label="47" xml:id="measure_154ff1d2-6fb4-423f-b21d-e3fb091663cb" facs="#zone_fcecd2e9-a76d-4080-9215-0970f4e7b5cd"/>
+                        <measure n="48" label="48" xml:id="measure_03e412ff-f9a4-4da3-908e-7e278960d3ec" facs="#zone_02a0e622-7b20-4d95-b581-6da51d7f6b55"/>
+                        <measure n="49" label="49" xml:id="measure_efe6136f-6ffd-4f62-92f0-aff9b47d34d5" facs="#zone_865a8296-8745-4064-9de8-e4af17544b57"/>
+                        <measure n="50" label="50" xml:id="measure_93c176c1-0059-4736-b9a5-6144106c8d8d" facs="#zone_a110fe8a-5dab-479d-8dcd-008fea8afb8a"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="51" label="51" xml:id="measure_2ed28ddf-99d4-4762-abe4-41e190ee7467" facs="#zone_204828f4-8f7d-41f8-a6ab-f23224b8274d"/>
+                        <measure n="52" label="52" xml:id="measure_aeafb767-de1c-41f9-81ea-e189a7b1f16a" facs="#zone_46e70d59-088f-4380-96a3-9664b9ef4b86"/>
+                        <measure n="53" label="53" xml:id="measure_1ccbabce-7184-41c2-9905-a451978bf188" facs="#zone_56d5f114-6806-485a-bc1f-dd56e07de9dc"/>
+                        <measure n="54" label="54" xml:id="measure_fc98abf5-9bfb-4363-b8e8-b503259be28b" facs="#zone_b53b25e6-c984-4af1-b063-b1b6c227707d"/>
+                        <measure n="55" label="55" xml:id="measure_09f2daa0-bf35-4843-9eea-810b37179411" facs="#zone_9787c882-4cf3-4586-8fa4-dc64fb5159dc"/>
+                        <sb/>
+                        <measure n="56" label="56" xml:id="measure_5152159c-af42-4ad6-b745-72f3d619b6e6" facs="#zone_439bd3dc-b9f0-4e5d-ae9d-1f24e3bc3031"/>
+                        <measure n="57" label="57" xml:id="measure_efc0e830-bf8b-48bf-839b-5df299a58df2" facs="#zone_ae034b00-07d3-4b08-b7f6-b10d133694d3"/>
+                        <measure n="58" label="58" xml:id="measure_14103664-3b0c-4bc7-b928-b64430b9fa43" facs="#zone_c7b34d49-07a8-4a19-ad7e-57ab22f61169"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="59" label="59" xml:id="measure_566d87ab-ac5d-422f-ad90-e53da7a8f074" facs="#zone_7bc342c5-eca2-4365-850c-e478e1461f47"/>
+                        <measure n="60" label="60" xml:id="measure_70a4cd23-aac6-40e3-8a88-8cd6d51322e8" facs="#zone_2aab0f5e-18ce-4e9d-b204-2a05879ebf97"/>
+                        <measure n="61" label="61" xml:id="measure_ab011899-70e3-4ef4-9d6d-3155b9b68b82" facs="#zone_217d23ed-518b-4421-a1b1-0a6dcb903368"/>
+                        <sb/>
+                        <measure n="62" label="62" xml:id="measure_7825fb93-535c-462c-b0b2-eb95e1c1525e" facs="#zone_9a6108a9-c88e-4502-b988-19dc3a55415c"/>
+                        <measure n="63" label="63" xml:id="measure_290b0033-75f0-43e5-9f43-89fb6168b205" facs="#zone_308697a4-6cea-4925-a431-ef409bf9c5cf"/>
+                        <measure n="64" label="64" xml:id="measure_0e4f5fe9-7443-4e5d-8b32-d96281e126ac" facs="#zone_3d2a99f9-9648-4850-a5b7-012678f12cc0"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="65" label="65" xml:id="measure_dce4ef18-ed2b-4429-a21c-0237eba929a1" facs="#zone_d6fb331e-d698-45d6-aa80-abd092564f32"/>
+                        <measure n="66" label="66" xml:id="measure_b6eb7677-34fd-4254-bd5b-c1f6280e00ea" facs="#zone_0ae8b45d-fe64-4833-8c85-abb3f90c7cc8"/>
+                        <measure n="67" label="67" xml:id="measure_933e65cb-4dd5-4488-8fc3-f540ca7c8698" facs="#zone_510769d1-c207-4d01-9cc3-13091c4fdf38"/>
+                        <sb/>
+                        <measure n="68" label="68" xml:id="measure_c63ddcf0-f048-4478-a571-ea1ee1b281ee" facs="#zone_048c0976-9191-4975-8518-1b8d2984d1ed"/>
+                        <measure n="69" label="69" xml:id="measure_19b64de2-8fde-417c-b2f9-55106fc84ff8" facs="#zone_a7568013-b5e3-46e3-a509-37a7688532aa"/>
+                        <measure n="70" label="70" xml:id="measure_97fbeeee-2627-498e-9624-8ffd2c971c83" facs="#zone_04feab19-e8c8-49c6-85a4-da63762afe44"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="71" label="71" xml:id="measure_f04cccca-9146-4623-8d5a-967cdd13eb4a" facs="#zone_1e607ae0-c5bc-4da1-82ca-5ee53dc26958"/>
+                        <measure n="72" label="72" xml:id="measure_a7bfcf12-77e4-4126-bac5-2003b39314ca" facs="#zone_65a095ff-b38a-4c11-8fca-70952ed741f7"/>
+                        <measure n="73" label="73" xml:id="measure_fa7ca6ad-0f7b-4a6e-8fde-0278029381b0" facs="#zone_2f794122-fa77-401a-86b3-328aa07ac5dd"/>
+                        <sb/>
+                        <measure n="74" label="74" xml:id="measure_52f8fb63-5b8c-4745-803f-fbf3ed422cb0" facs="#zone_baab2fcd-b02f-4b87-a505-fd3c1e50cd6a"/>
+                        <measure n="75" label="75" xml:id="measure_03a0bcf8-d8d8-43fa-9713-6affbd84ea7b" facs="#zone_c637983b-c349-4bdf-9885-4673bfd93e9a"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="76" label="76" xml:id="measure_df0219d1-4a88-4851-af64-00ef94a18460" facs="#zone_ae83246a-0006-4c66-b23e-13f9f5815fe1"/>
+                        <measure n="77" label="77" xml:id="measure_7b13b6da-9617-4f45-9d14-115b0de40164" facs="#zone_f0aef47d-c73e-40d9-94c1-6181336fa597"/>
+                        <sb/>
+                        <measure n="78" label="78" xml:id="measure_f09125c0-5b25-4661-815a-b7aeb9d26e5a" facs="#zone_ae5dd7e4-6e13-4e0c-b480-e5d3ca5f425a"/>
+                        <measure n="79" label="79" xml:id="measure_ff376419-8edf-4fc1-b457-75fa7403947e" facs="#zone_8613e661-ea03-4907-bf83-ee892eb995b0"/>
+                        <sb/>
+                        <measure n="80" label="80" xml:id="measure_8c48f21f-b1df-44d5-91f6-73fce4d4a32a" facs="#zone_076ddfe0-e281-469c-a15a-41b1d200651f"/>
+                        <measure n="81" label="81" xml:id="measure_b6f4132c-4452-4e54-ac9e-95e66460c383" facs="#zone_ac5bf74c-d260-477f-a03d-79e239b86e33"/>
+                        <sb/>
+                        <measure n="82" label="82" xml:id="measure_e9fdb37e-c098-4366-9c22-903b54b7f234" facs="#zone_26ea2273-62d6-43d1-87ee-a43502c91459"/>
+                        <measure n="83" label="83" xml:id="measure_5a85c817-485c-473a-a370-67ae548c0d00" facs="#zone_6fdeb91f-92b0-46dd-bcfe-5e53049306fd"/>
+                        <measure n="84" label="84" xml:id="measure_8acca300-3a40-4f3b-84f1-2a5a4b95005a" facs="#zone_0f944a8e-e3a9-4b13-87b1-98fa7ea12143"/>
+                        <measure n="85" label="85" xml:id="measure_57955e80-0324-42f3-aa88-72583676f8d7" facs="#zone_fa2a49c6-28f1-4984-b77b-8237f86f0d2e"/>
+                        <sb/>
+                        <pb/>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

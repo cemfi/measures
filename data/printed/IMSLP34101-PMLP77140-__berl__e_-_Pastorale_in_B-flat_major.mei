@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei">
+    <meiHead>
+        <fileDesc>
+            <titleStmt/>
+            <pubStmt/>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="surface_439e7a90-8bc5-4b3c-9654-b2ba22a29de9" n="1" ulx="0" uly="0" lrx="3024" lry="3900">
+                <graphic xml:id="graphic_335a15ed-c203-4204-ad13-8c25849d2d69" target="IMSLP34101-PMLP77140-__berl__e_-_Pastorale_in_B-flat_major-0000.jpg" type="facsimile" width="3024" height="3900"/>
+                <zone xml:id="zone_ea29dfb9-7868-4b3d-80c5-4116f7388ae3" type="measure" ulx="839" uly="664" lrx="1943" lry="1398"/>
+                <zone xml:id="zone_f9d9e937-d3ca-45aa-82ae-49dd48c91bcb" type="measure" ulx="1883" uly="664" lrx="2774" lry="1398"/>
+                <zone xml:id="zone_75917706-f510-4cfc-994b-73a77defa0b5" type="measure" ulx="312" uly="1463" lrx="1316" lry="2141"/>
+                <zone xml:id="zone_eee7002c-2c42-4acb-8b5b-4c73430dbcf5" type="measure" ulx="1256" uly="1463" lrx="2030" lry="2141"/>
+                <zone xml:id="zone_011f2ae5-ec49-46f5-bcab-aa2b42422914" type="measure" ulx="1970" uly="1463" lrx="2769" lry="2141"/>
+                <zone xml:id="zone_83e0b82b-28e0-4a34-a1c4-ecc4252ab591" type="measure" ulx="296" uly="2135" lrx="1321" lry="2757"/>
+                <zone xml:id="zone_19164885-23a0-4c16-ba5b-b6e2882ecb87" type="measure" ulx="1261" uly="2135" lrx="2019" lry="2757"/>
+                <zone xml:id="zone_98f14072-1f9f-48e6-aab4-09f3bf5d0b6e" type="measure" ulx="1959" uly="2135" lrx="2793" lry="2757"/>
+                <zone xml:id="zone_15ae3d6f-adb4-45ed-b25b-4e9d3699d43d" type="measure" ulx="300" uly="2778" lrx="1330" lry="3486"/>
+                <zone xml:id="zone_f9a69166-f6b8-4d70-bb5d-412b817e227b" type="measure" ulx="1270" uly="2778" lrx="2061" lry="3486"/>
+                <zone xml:id="zone_cf3e59f1-0aaa-4587-82de-5e2aa70e5797" type="measure" ulx="2001" uly="2778" lrx="2790" lry="3486"/>
+            </surface>
+            <surface xml:id="surface_d3116a11-c172-4cdb-9a0a-63cf9c9a836e" n="2" ulx="0" uly="0" lrx="2944" lry="3728">
+                <graphic xml:id="graphic_a4045322-9704-4242-89ff-b0eaf3a54a3b" target="IMSLP34101-PMLP77140-__berl__e_-_Pastorale_in_B-flat_major-0001.jpg" type="facsimile" width="2944" height="3728"/>
+                <zone xml:id="zone_b1034582-761f-4af7-bcfb-19aaa28277e5" type="measure" ulx="199" uly="266" lrx="1198" lry="1012"/>
+                <zone xml:id="zone_8991a089-b64b-40fa-87d1-367be3af6955" type="measure" ulx="1138" uly="266" lrx="1892" lry="1012"/>
+                <zone xml:id="zone_1fa1e505-739b-4b72-9e47-3831d9e27216" type="measure" ulx="1832" uly="266" lrx="2666" lry="1012"/>
+                <zone xml:id="zone_220e613b-6373-4407-abac-ec7cdf6feeca" type="measure" ulx="199" uly="1012" lrx="1196" lry="1822"/>
+                <zone xml:id="zone_103bfa32-d88a-4624-9a75-44a8f9c004dc" type="measure" ulx="1136" uly="1012" lrx="1901" lry="1822"/>
+                <zone xml:id="zone_7ee59686-55d3-4739-b2b0-52fe3f8d7413" type="measure" ulx="1841" uly="1012" lrx="2666" lry="1822"/>
+                <zone xml:id="zone_7ca07368-3154-42c7-8631-2303a14d178c" type="measure" ulx="199" uly="1822" lrx="1174" lry="2596"/>
+                <zone xml:id="zone_b77b2ee8-2680-4757-b97b-3ee328b174c6" type="measure" ulx="1114" uly="1822" lrx="1929" lry="2596"/>
+                <zone xml:id="zone_ebed136a-1e53-4f93-afa6-e4b093392ec8" type="measure" ulx="1869" uly="1822" lrx="2666" lry="2596"/>
+                <zone xml:id="zone_b5f35001-cee7-492e-a8e6-ecb891e7aa68" type="measure" ulx="199" uly="2596" lrx="1077" lry="3374"/>
+                <zone xml:id="zone_3001919f-4d29-4762-811d-ca49f9a185c6" type="measure" ulx="1017" uly="2596" lrx="1665" lry="3374"/>
+                <zone xml:id="zone_2bbc5945-a47b-4878-938e-92dfe06de399" type="measure" ulx="1605" uly="2596" lrx="2290" lry="3374"/>
+                <zone xml:id="zone_df3668ca-5f7b-481a-bab7-eb1a5ed53ac4" type="measure" ulx="2230" uly="2596" lrx="2666" lry="3374"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="page_ad2c57ad-b41e-4725-ac11-4d130d453e14" n="1" label="">
+                <score>
+                    <scoreDef/>
+                    <section>
+                        <pb/>
+                        <measure n="1" label="1" xml:id="measure_38eafc96-5820-411f-a091-d66c19214b5f" facs="#zone_ea29dfb9-7868-4b3d-80c5-4116f7388ae3"/>
+                        <measure n="2" label="2" xml:id="measure_80ab18e2-ae87-40a3-b781-7a09f83373cb" facs="#zone_f9d9e937-d3ca-45aa-82ae-49dd48c91bcb"/>
+                        <sb/>
+                        <measure n="3" label="3" xml:id="measure_67ba3dc6-9f38-4920-9601-5191c5f03d3d" facs="#zone_75917706-f510-4cfc-994b-73a77defa0b5"/>
+                        <measure n="4" label="4" xml:id="measure_3597f414-a5bf-4b32-b4e2-d5300a142584" facs="#zone_eee7002c-2c42-4acb-8b5b-4c73430dbcf5"/>
+                        <measure n="5" label="5" xml:id="measure_ec2b49a1-11c2-49f8-87aa-3211fe39e481" facs="#zone_011f2ae5-ec49-46f5-bcab-aa2b42422914"/>
+                        <sb/>
+                        <measure n="6" label="6" xml:id="measure_99ba3c95-a066-4c1e-8b75-1d44a1b24be2" facs="#zone_83e0b82b-28e0-4a34-a1c4-ecc4252ab591"/>
+                        <measure n="7" label="7" xml:id="measure_fe5a29c2-1597-4c77-96e1-fe7b9413507f" facs="#zone_19164885-23a0-4c16-ba5b-b6e2882ecb87"/>
+                        <measure n="8" label="8" xml:id="measure_ac6ff0d7-9b36-4178-99eb-0e2d4c9c44ff" facs="#zone_98f14072-1f9f-48e6-aab4-09f3bf5d0b6e"/>
+                        <sb/>
+                        <measure n="9" label="9" xml:id="measure_cf4ce7d4-7624-4b55-82b4-95d09cc769c2" facs="#zone_15ae3d6f-adb4-45ed-b25b-4e9d3699d43d"/>
+                        <measure n="10" label="10" xml:id="measure_2576aa06-1b33-4761-93c6-5ca38367443b" facs="#zone_f9a69166-f6b8-4d70-bb5d-412b817e227b"/>
+                        <measure n="11" label="11" xml:id="measure_fd8b9f31-276f-4511-9d2c-4ba59861d998" facs="#zone_cf3e59f1-0aaa-4587-82de-5e2aa70e5797"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="12" label="12" xml:id="measure_5bfa53cf-4415-4de3-a325-de5104c83da8" facs="#zone_b1034582-761f-4af7-bcfb-19aaa28277e5"/>
+                        <measure n="13" label="13" xml:id="measure_70332bac-49f1-4611-973b-681d199c9fc7" facs="#zone_8991a089-b64b-40fa-87d1-367be3af6955"/>
+                        <measure n="14" label="14" xml:id="measure_0963f36c-e6ac-4952-9c15-2e620e904459" facs="#zone_1fa1e505-739b-4b72-9e47-3831d9e27216"/>
+                        <sb/>
+                        <measure n="15" label="15" xml:id="measure_a35e638c-25c7-4ad3-a6ff-930f57d9e5d5" facs="#zone_220e613b-6373-4407-abac-ec7cdf6feeca"/>
+                        <measure n="16" label="16" xml:id="measure_a1ed479b-24b5-4788-a998-221202544194" facs="#zone_103bfa32-d88a-4624-9a75-44a8f9c004dc"/>
+                        <measure n="17" label="17" xml:id="measure_04a750f3-94bc-4ee7-8da2-acf035847ce6" facs="#zone_7ee59686-55d3-4739-b2b0-52fe3f8d7413"/>
+                        <sb/>
+                        <measure n="18" label="18" xml:id="measure_6ae8cbbb-a2b8-4f17-ba00-dc3b7cfd28e6" facs="#zone_7ca07368-3154-42c7-8631-2303a14d178c"/>
+                        <measure n="19" label="19" xml:id="measure_f71af81c-55a7-4685-a69a-735e19afc3cc" facs="#zone_b77b2ee8-2680-4757-b97b-3ee328b174c6"/>
+                        <measure n="20" label="20" xml:id="measure_611fa0fa-2f6a-4285-b07d-855310279bac" facs="#zone_ebed136a-1e53-4f93-afa6-e4b093392ec8"/>
+                        <sb/>
+                        <measure n="21" label="21" xml:id="measure_be3cedff-8a5f-4966-a0f1-547cd002cefa" facs="#zone_b5f35001-cee7-492e-a8e6-ecb891e7aa68"/>
+                        <measure n="22" label="22" xml:id="measure_1e95ca3f-d41d-4599-b563-5f2119b1d5fe" facs="#zone_3001919f-4d29-4762-811d-ca49f9a185c6"/>
+                        <measure n="23" label="23" xml:id="measure_0a51a076-b49d-4254-85b8-d2937bb47a88" facs="#zone_2bbc5945-a47b-4878-938e-92dfe06de399"/>
+                        <measure n="24" label="24" xml:id="measure_d09b4b23-a688-409d-a858-a796e9dfe83b" facs="#zone_df3668ca-5f7b-481a-bab7-eb1a5ed53ac4"/>
+                        <sb/>
+                        <pb/>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
