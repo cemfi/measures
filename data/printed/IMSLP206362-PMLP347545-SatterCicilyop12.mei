@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei">
+    <meiHead>
+        <fileDesc>
+            <titleStmt/>
+            <pubStmt/>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="surface_8de0e6d8-31b3-4e53-a211-3130b1a24d9c" n="1" ulx="0" uly="0" lrx="706" lry="910">
+                <graphic xml:id="graphic_f0584757-560d-4c14-9115-5c9c2665cb4c" target="IMSLP206362-PMLP347545-SatterCicilyop12-0001.jpg" type="facsimile" width="706" height="910"/>
+                <zone xml:id="zone_4924df19-1e1c-418a-b365-3bb57c5cb18b" type="measure" ulx="40" uly="222" lrx="332" lry="433"/>
+                <zone xml:id="zone_e9dc2102-ea2f-46cb-bdd3-24ce3cd849e8" type="measure" ulx="312" uly="222" lrx="495" lry="433"/>
+                <zone xml:id="zone_c72c1206-2f68-4d19-8558-987345e9f6b1" type="measure" ulx="475" uly="222" lrx="669" lry="433"/>
+                <zone xml:id="zone_22706831-d977-4ae1-9e5b-95f252fed553" type="measure" ulx="39" uly="452" lrx="220" lry="654"/>
+                <zone xml:id="zone_290e40bf-2e6a-45a7-81dd-7290ff98f920" type="measure" ulx="200" uly="452" lrx="333" lry="654"/>
+                <zone xml:id="zone_71074c2b-5b38-4904-bed4-d437b9274b30" type="measure" ulx="313" uly="452" lrx="443" lry="654"/>
+                <zone xml:id="zone_ac843afb-3e33-493b-8163-e8f587049ef6" type="measure" ulx="423" uly="452" lrx="604" lry="654"/>
+                <zone xml:id="zone_43f7eca9-ae0a-49a1-b6ae-36c8a6d75445" type="measure" ulx="584" uly="452" lrx="675" lry="654"/>
+                <zone xml:id="zone_049938d1-9778-405c-b4fb-5f6762cc50a9" type="measure" ulx="45" uly="663" lrx="240" lry="871"/>
+                <zone xml:id="zone_d3b02aa3-a76b-42db-a9b4-74b6b1c53a7d" type="measure" ulx="220" uly="663" lrx="315" lry="871"/>
+                <zone xml:id="zone_4f43d338-506e-40a8-90a7-723175e003ab" type="measure" ulx="295" uly="663" lrx="399" lry="871"/>
+                <zone xml:id="zone_60147f05-b963-4365-bc30-d8a9b2c3800d" type="measure" ulx="379" uly="663" lrx="492" lry="871"/>
+                <zone xml:id="zone_fbf0f297-747b-493b-8c03-038a7f2d8d6b" type="measure" ulx="472" uly="663" lrx="581" lry="871"/>
+                <zone xml:id="zone_8b70294e-0198-40d3-a72a-41903b4aabd6" type="measure" ulx="561" uly="663" lrx="666" lry="871"/>
+            </surface>
+            <surface xml:id="surface_4aadaf4d-2eec-45d4-8c3c-12edcb83f7d0" n="2" ulx="0" uly="0" lrx="706" lry="910">
+                <graphic xml:id="graphic_9b11296e-4745-4860-a2e8-fa1b14317bca" target="IMSLP206362-PMLP347545-SatterCicilyop12-0002.jpg" type="facsimile" width="706" height="910"/>
+                <zone xml:id="zone_2aaf0c9c-7378-43fe-a7c5-53711a0d084c" type="measure" ulx="38" uly="36" lrx="255" lry="237"/>
+                <zone xml:id="zone_b4423435-b5a7-468a-a456-3ad73744b4ac" type="measure" ulx="235" uly="36" lrx="404" lry="237"/>
+                <zone xml:id="zone_9f3fc8b8-bd6b-4533-a792-4aa10a155816" type="measure" ulx="384" uly="36" lrx="558" lry="237"/>
+                <zone xml:id="zone_06eb1193-aecd-4584-8176-3106a813a5e0" type="measure" ulx="538" uly="36" lrx="675" lry="237"/>
+                <zone xml:id="zone_e9a7571a-05bd-4e64-bd1a-369bf6b3c1f8" type="measure" ulx="37" uly="240" lrx="253" lry="456"/>
+                <zone xml:id="zone_ba5759df-dedf-4dc6-bf6a-635ac5e1d7b8" type="measure" ulx="233" uly="240" lrx="405" lry="456"/>
+                <zone xml:id="zone_c18e58cd-06a8-4f9d-907e-85785ee35e36" type="measure" ulx="385" uly="240" lrx="559" lry="456"/>
+                <zone xml:id="zone_1f9147c3-f403-4875-8b03-983b908ee39f" type="measure" ulx="539" uly="240" lrx="670" lry="456"/>
+                <zone xml:id="zone_237d51fc-10ca-48fb-85ae-e0ba8c7e86f5" type="measure" ulx="33" uly="460" lrx="293" lry="661"/>
+                <zone xml:id="zone_fabb4c9f-8222-451a-b4e8-42985273eb79" type="measure" ulx="273" uly="460" lrx="477" lry="661"/>
+                <zone xml:id="zone_7604e04f-1e2e-4d11-8c2b-9072cef27d38" type="measure" ulx="457" uly="460" lrx="668" lry="661"/>
+                <zone xml:id="zone_9c1c71d4-dbe3-4408-b6f9-eccbf12ee4b4" type="measure" ulx="30" uly="673" lrx="253" lry="874"/>
+                <zone xml:id="zone_a08a397d-a1cb-4b5e-b53e-72d321499a1c" type="measure" ulx="233" uly="673" lrx="414" lry="874"/>
+                <zone xml:id="zone_aaf88158-e93b-49ac-9c51-6ac977a4f59f" type="measure" ulx="394" uly="673" lrx="509" lry="874"/>
+                <zone xml:id="zone_f94fa174-4bf7-4317-b426-b427e1871203" type="measure" ulx="489" uly="673" lrx="603" lry="874"/>
+                <zone xml:id="zone_cb9c9746-ed84-4ff6-9025-3ee726d349e9" type="measure" ulx="583" uly="673" lrx="668" lry="874"/>
+            </surface>
+            <surface xml:id="surface_35341505-22bf-44fd-9e5b-550f129afcc2" n="3" ulx="0" uly="0" lrx="706" lry="910">
+                <graphic xml:id="graphic_a34e5972-3906-434e-950b-ac281a8d0431" target="IMSLP206362-PMLP347545-SatterCicilyop12-0003.jpg" type="facsimile" width="706" height="910"/>
+                <zone xml:id="zone_01b49249-899d-48ce-8963-68f9b1540055" type="measure" ulx="42" uly="32" lrx="308" lry="244"/>
+                <zone xml:id="zone_c66b6dba-4077-4ac2-9803-d32f29846adc" type="measure" ulx="288" uly="32" lrx="481" lry="244"/>
+                <zone xml:id="zone_32c94ba0-757e-4ee0-8343-e4a55c8d1ddc" type="measure" ulx="461" uly="32" lrx="670" lry="244"/>
+                <zone xml:id="zone_29388b31-954c-4a41-afed-2c6702e282bc" type="measure" ulx="37" uly="253" lrx="275" lry="457"/>
+                <zone xml:id="zone_95b3ee4a-08f7-4416-a769-e743abea29f2" type="measure" ulx="255" uly="253" lrx="422" lry="457"/>
+                <zone xml:id="zone_7b5ba720-8639-44fe-b52d-961ba84cc0cb" type="measure" ulx="402" uly="253" lrx="482" lry="457"/>
+                <zone xml:id="zone_67c590d4-f2ae-4858-a75c-3dcd4f4018c2" type="measure" ulx="462" uly="253" lrx="619" lry="457"/>
+                <zone xml:id="zone_d0c8a9b5-f6d1-45e5-99fb-b16d8c2af122" type="measure" ulx="599" uly="253" lrx="672" lry="457"/>
+                <zone xml:id="zone_73414a0e-08e2-4d3b-84be-07caf3e43460" type="measure" ulx="38" uly="466" lrx="219" lry="680"/>
+                <zone xml:id="zone_1fa8b31c-1cb6-480d-8ce3-128b51d13af7" type="measure" ulx="199" uly="466" lrx="344" lry="680"/>
+                <zone xml:id="zone_c42a5a43-6bc9-402b-abe8-b92541f69fcd" type="measure" ulx="324" uly="466" lrx="411" lry="680"/>
+                <zone xml:id="zone_f41dc9e8-0dc8-485b-a185-9a00d26b0bd2" type="measure" ulx="391" uly="466" lrx="540" lry="680"/>
+                <zone xml:id="zone_32c51944-e70a-4906-87f4-e55420515790" type="measure" ulx="520" uly="466" lrx="671" lry="680"/>
+                <zone xml:id="zone_a61512fc-eb5d-4e70-a50b-877a50206d63" type="measure" ulx="34" uly="683" lrx="243" lry="892"/>
+                <zone xml:id="zone_3070c444-18f7-4f2d-841f-dc73776637c2" type="measure" ulx="223" uly="683" lrx="352" lry="892"/>
+                <zone xml:id="zone_08cbb3d7-f910-4197-a03a-871ccc9270a3" type="measure" ulx="332" uly="683" lrx="426" lry="892"/>
+                <zone xml:id="zone_1a4b92e4-9805-4af1-9640-94887b8715c3" type="measure" ulx="406" uly="683" lrx="505" lry="892"/>
+                <zone xml:id="zone_89ff137a-211d-4fda-81cd-30cb4fa4ab0b" type="measure" ulx="485" uly="683" lrx="586" lry="892"/>
+                <zone xml:id="zone_e9e860a9-c201-4c97-9b94-389190251960" type="measure" ulx="566" uly="683" lrx="669" lry="892"/>
+            </surface>
+            <surface xml:id="surface_5a10d90b-49cb-4b64-862a-f6eddb4c7057" n="4" ulx="0" uly="0" lrx="706" lry="910">
+                <graphic xml:id="graphic_822877d0-79cd-4520-9871-9c8463abc274" target="IMSLP206362-PMLP347545-SatterCicilyop12-0004.jpg" type="facsimile" width="706" height="910"/>
+                <zone xml:id="zone_5fac028c-7d63-445d-91c9-3451a658b7f3" type="measure" ulx="37" uly="51" lrx="255" lry="235"/>
+                <zone xml:id="zone_5727994e-63e9-448b-84d0-dca08db33a76" type="measure" ulx="235" uly="51" lrx="408" lry="235"/>
+                <zone xml:id="zone_a4f9a847-e084-4e60-9fc3-df0500490900" type="measure" ulx="388" uly="51" lrx="556" lry="235"/>
+                <zone xml:id="zone_8cbc4653-2907-44df-915e-823fe63861b8" type="measure" ulx="536" uly="51" lrx="670" lry="235"/>
+                <zone xml:id="zone_fb7bf11d-8442-4638-b328-b72bf2625a46" type="measure" ulx="38" uly="255" lrx="256" lry="458"/>
+                <zone xml:id="zone_436f9a08-8252-46ca-adfa-bab161941856" type="measure" ulx="236" uly="255" lrx="403" lry="458"/>
+                <zone xml:id="zone_295bda6b-bebd-4b07-b4a8-f5c7ca73cf4b" type="measure" ulx="383" uly="255" lrx="558" lry="458"/>
+                <zone xml:id="zone_43e81a84-d924-41b8-92e5-6e27932221dc" type="measure" ulx="538" uly="255" lrx="673" lry="458"/>
+                <zone xml:id="zone_e9c83d90-de3f-4fd2-add9-d458eec62934" type="measure" ulx="39" uly="458" lrx="294" lry="673"/>
+                <zone xml:id="zone_49373794-a0f0-4076-bacb-7a0634fc62ee" type="measure" ulx="274" uly="458" lrx="482" lry="673"/>
+                <zone xml:id="zone_5eac52e1-9113-447c-8b46-6b406c291761" type="measure" ulx="462" uly="458" lrx="670" lry="673"/>
+                <zone xml:id="zone_7216bf4f-8490-4bcd-ab49-c945e8b29c83" type="measure" ulx="37" uly="675" lrx="295" lry="891"/>
+                <zone xml:id="zone_9bf0e357-22a7-47d9-b527-fe48e47d42e2" type="measure" ulx="275" uly="675" lrx="481" lry="891"/>
+                <zone xml:id="zone_3be877f0-dfe2-4b8b-a845-2f1239ed602b" type="measure" ulx="461" uly="675" lrx="544" lry="891"/>
+                <zone xml:id="zone_03f910f7-0859-4cbe-9ec8-38540f621170" type="measure" ulx="524" uly="675" lrx="668" lry="891"/>
+            </surface>
+            <surface xml:id="surface_add51f16-c5ea-4342-85ac-af37645e9204" n="5" ulx="0" uly="0" lrx="706" lry="910">
+                <graphic xml:id="graphic_db5e807f-4cb8-4d36-821b-1c8c132baa42" target="IMSLP206362-PMLP347545-SatterCicilyop12-0005.jpg" type="facsimile" width="706" height="910"/>
+                <zone xml:id="zone_be1480e8-047c-4abf-b69f-9e30f07e4035" type="measure" ulx="40" uly="47" lrx="220" lry="238"/>
+                <zone xml:id="zone_ae739f84-4429-443a-9b2f-3f00383236ce" type="measure" ulx="200" uly="47" lrx="396" lry="238"/>
+                <zone xml:id="zone_8e03fe8a-45a4-4f33-a46b-c7612132a98a" type="measure" ulx="376" uly="47" lrx="479" lry="238"/>
+                <zone xml:id="zone_d78b1fb8-ddb1-43d1-9997-09ba38205d97" type="measure" ulx="459" uly="47" lrx="670" lry="238"/>
+                <zone xml:id="zone_8d939ea2-8a0e-4280-b030-cd8608d57e1b" type="measure" ulx="36" uly="260" lrx="307" lry="454"/>
+                <zone xml:id="zone_63f11572-ea8e-4bb9-b769-a34e69bfcfa7" type="measure" ulx="287" uly="260" lrx="498" lry="454"/>
+                <zone xml:id="zone_1947d0c5-3011-4b59-859b-ba563105cf1f" type="measure" ulx="478" uly="260" lrx="664" lry="454"/>
+                <zone xml:id="zone_d375983d-93d7-408e-9641-d78c50ae6a44" type="measure" ulx="33" uly="455" lrx="216" lry="668"/>
+                <zone xml:id="zone_c9ca61bb-6657-4df1-a43a-254a0e308e87" type="measure" ulx="196" uly="455" lrx="319" lry="668"/>
+                <zone xml:id="zone_e1414478-7f49-46cc-81a8-e27d6d3767e5" type="measure" ulx="299" uly="455" lrx="410" lry="668"/>
+                <zone xml:id="zone_31d61b96-550c-4030-898d-2ecc02ad65e1" type="measure" ulx="390" uly="455" lrx="494" lry="668"/>
+                <zone xml:id="zone_ed98ced7-a270-452e-ad72-c4b5cf7cfee7" type="measure" ulx="474" uly="455" lrx="566" lry="668"/>
+                <zone xml:id="zone_f63f40c3-1edf-4567-a41a-a38950627156" type="measure" ulx="546" uly="455" lrx="672" lry="668"/>
+                <zone xml:id="zone_fdfa7e8d-b69b-459b-aad7-5a11623be919" type="measure" ulx="34" uly="681" lrx="232" lry="897"/>
+                <zone xml:id="zone_40a03455-0972-4722-a2dc-f2a92385a0a3" type="measure" ulx="212" uly="681" lrx="322" lry="897"/>
+                <zone xml:id="zone_93a34653-5bec-4d97-9f99-79bc3063fc44" type="measure" ulx="302" uly="681" lrx="406" lry="897"/>
+                <zone xml:id="zone_14351b7b-26f2-4b14-9b4a-de3c76bc9a7f" type="measure" ulx="386" uly="681" lrx="496" lry="897"/>
+                <zone xml:id="zone_06e9dbe3-fb02-40b6-b87a-2a453fb1dafe" type="measure" ulx="476" uly="681" lrx="582" lry="897"/>
+                <zone xml:id="zone_f2dba801-7a53-485f-b693-19d264024912" type="measure" ulx="562" uly="681" lrx="668" lry="897"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="page_5853964a-6f19-4879-aa0d-216ab59baa69" n="1" label="">
+                <score>
+                    <scoreDef/>
+                    <section>
+                        <pb/>
+                        <measure n="1" label="1" xml:id="measure_f14a82ad-ae44-44b3-bce3-5954f6d529f5" facs="#zone_4924df19-1e1c-418a-b365-3bb57c5cb18b"/>
+                        <measure n="2" label="2" xml:id="measure_34fbcd9d-3f40-4ad3-8554-6303801ed579" facs="#zone_e9dc2102-ea2f-46cb-bdd3-24ce3cd849e8"/>
+                        <measure n="3" label="3" xml:id="measure_714a7643-551b-4e32-923f-028aaab9bd4c" facs="#zone_c72c1206-2f68-4d19-8558-987345e9f6b1"/>
+                        <sb/>
+                        <measure n="4" label="4" xml:id="measure_95b3bf5a-04bf-49cd-8782-8557f731291a" facs="#zone_22706831-d977-4ae1-9e5b-95f252fed553"/>
+                        <measure n="5" label="5" xml:id="measure_873da95c-9876-40c6-be55-9706bb007169" facs="#zone_290e40bf-2e6a-45a7-81dd-7290ff98f920"/>
+                        <measure n="6" label="6" xml:id="measure_e6f15924-ded2-44e5-a047-6b4eccac1a47" facs="#zone_71074c2b-5b38-4904-bed4-d437b9274b30"/>
+                        <measure n="7" label="7" xml:id="measure_04091bb1-ba2d-4c1a-95a7-af6e39cc0543" facs="#zone_ac843afb-3e33-493b-8163-e8f587049ef6"/>
+                        <measure n="8" label="8" xml:id="measure_3b425269-942b-44bb-a17f-37555906fe6f" facs="#zone_43f7eca9-ae0a-49a1-b6ae-36c8a6d75445"/>
+                        <sb/>
+                        <measure n="9" label="9" xml:id="measure_9bd3f87e-c1a8-41a2-98a8-237f744619e8" facs="#zone_049938d1-9778-405c-b4fb-5f6762cc50a9"/>
+                        <measure n="10" label="10" xml:id="measure_986d10a0-1b9f-44f9-b318-bacd2378b9e2" facs="#zone_d3b02aa3-a76b-42db-a9b4-74b6b1c53a7d"/>
+                        <measure n="11" label="11" xml:id="measure_7aae79fa-5665-4140-a903-4d5c73193079" facs="#zone_4f43d338-506e-40a8-90a7-723175e003ab"/>
+                        <measure n="12" label="12" xml:id="measure_1caf06a5-9788-4e81-b458-fe917c6ce09d" facs="#zone_60147f05-b963-4365-bc30-d8a9b2c3800d"/>
+                        <measure n="13" label="13" xml:id="measure_afc6f318-b26f-4f83-8425-ea2b0c80213c" facs="#zone_fbf0f297-747b-493b-8c03-038a7f2d8d6b"/>
+                        <measure n="14" label="14" xml:id="measure_bc9789bf-c407-4642-a291-b46c1215cef5" facs="#zone_8b70294e-0198-40d3-a72a-41903b4aabd6"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="15" label="15" xml:id="measure_8191f3d8-2519-4a93-9317-1bf76b3a5103" facs="#zone_2aaf0c9c-7378-43fe-a7c5-53711a0d084c"/>
+                        <measure n="16" label="16" xml:id="measure_23cf1b15-6736-47b9-a957-caa91925c3e2" facs="#zone_b4423435-b5a7-468a-a456-3ad73744b4ac"/>
+                        <measure n="17" label="17" xml:id="measure_35000b0f-f03c-46cf-b9af-3b2764e08936" facs="#zone_9f3fc8b8-bd6b-4533-a792-4aa10a155816"/>
+                        <measure n="18" label="18" xml:id="measure_fcc610f9-b763-431b-93b3-180989ab6eeb" facs="#zone_06eb1193-aecd-4584-8176-3106a813a5e0"/>
+                        <sb/>
+                        <measure n="19" label="19" xml:id="measure_50c564e2-3727-4e64-aca4-c7bb533a28ef" facs="#zone_e9a7571a-05bd-4e64-bd1a-369bf6b3c1f8"/>
+                        <measure n="20" label="20" xml:id="measure_45d77d70-1fa0-4294-b3e6-96bc86ad0d49" facs="#zone_ba5759df-dedf-4dc6-bf6a-635ac5e1d7b8"/>
+                        <measure n="21" label="21" xml:id="measure_c28a73a2-1125-4379-89e7-749eb0669626" facs="#zone_c18e58cd-06a8-4f9d-907e-85785ee35e36"/>
+                        <measure n="22" label="22" xml:id="measure_fa6284a2-e6c8-4434-9c8b-81ced724c82b" facs="#zone_1f9147c3-f403-4875-8b03-983b908ee39f"/>
+                        <sb/>
+                        <measure n="23" label="23" xml:id="measure_33ddb1b6-1e3b-4fc1-bd02-7cedb1d2c31f" facs="#zone_237d51fc-10ca-48fb-85ae-e0ba8c7e86f5"/>
+                        <measure n="24" label="24" xml:id="measure_93437f91-4e0b-4e58-9917-8535dc01ed5c" facs="#zone_fabb4c9f-8222-451a-b4e8-42985273eb79"/>
+                        <measure n="25" label="25" xml:id="measure_99190287-7977-46ae-8e6f-7d6528abb51a" facs="#zone_7604e04f-1e2e-4d11-8c2b-9072cef27d38"/>
+                        <sb/>
+                        <measure n="26" label="26" xml:id="measure_defc38b9-a012-4d92-aaf1-e3229b59a1b2" facs="#zone_9c1c71d4-dbe3-4408-b6f9-eccbf12ee4b4"/>
+                        <measure n="27" label="27" xml:id="measure_1f65992c-7c1a-44ec-ad6c-2664cb065b79" facs="#zone_a08a397d-a1cb-4b5e-b53e-72d321499a1c"/>
+                        <measure n="28" label="28" xml:id="measure_0ca3bd4b-5182-4c38-8e49-55373946484d" facs="#zone_aaf88158-e93b-49ac-9c51-6ac977a4f59f"/>
+                        <measure n="29" label="29" xml:id="measure_c4b64f24-81dc-47c3-aeb3-07bb54f8152a" facs="#zone_f94fa174-4bf7-4317-b426-b427e1871203"/>
+                        <measure n="30" label="30" xml:id="measure_8012dd07-0a59-4139-a9b3-bb26613f920d" facs="#zone_cb9c9746-ed84-4ff6-9025-3ee726d349e9"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="31" label="31" xml:id="measure_5ee855e6-4d0b-4162-84de-b10b76450481" facs="#zone_01b49249-899d-48ce-8963-68f9b1540055"/>
+                        <measure n="32" label="32" xml:id="measure_c0a744a4-238d-4725-958c-456bb656635b" facs="#zone_c66b6dba-4077-4ac2-9803-d32f29846adc"/>
+                        <measure n="33" label="33" xml:id="measure_87517e58-482e-40c7-94f4-e3cde10ecc7d" facs="#zone_32c94ba0-757e-4ee0-8343-e4a55c8d1ddc"/>
+                        <sb/>
+                        <measure n="34" label="34" xml:id="measure_909236bd-8d72-4863-abd6-cb635f34ae88" facs="#zone_29388b31-954c-4a41-afed-2c6702e282bc"/>
+                        <measure n="35" label="35" xml:id="measure_86ca6196-c9bb-4067-936c-96901ee4d9af" facs="#zone_95b3ee4a-08f7-4416-a769-e743abea29f2"/>
+                        <measure n="36" label="36" xml:id="measure_262bcb75-2ca5-4afa-937c-91be24fea692" facs="#zone_7b5ba720-8639-44fe-b52d-961ba84cc0cb"/>
+                        <measure n="37" label="37" xml:id="measure_c1ee623d-1ce4-4141-ab58-8ff0f6722bb9" facs="#zone_67c590d4-f2ae-4858-a75c-3dcd4f4018c2"/>
+                        <measure n="38" label="38" xml:id="measure_4ac0ebf2-0417-4120-b854-88fc0e1f4ad9" facs="#zone_d0c8a9b5-f6d1-45e5-99fb-b16d8c2af122"/>
+                        <sb/>
+                        <measure n="39" label="39" xml:id="measure_c24605d9-6e0d-4417-88d6-fa4a494d388d" facs="#zone_73414a0e-08e2-4d3b-84be-07caf3e43460"/>
+                        <measure n="40" label="40" xml:id="measure_0c0e0e1f-2395-4d66-b888-0c2f6fa63c41" facs="#zone_1fa8b31c-1cb6-480d-8ce3-128b51d13af7"/>
+                        <measure n="41" label="41" xml:id="measure_60fc000b-dc44-42de-935b-92bfa91c3587" facs="#zone_c42a5a43-6bc9-402b-abe8-b92541f69fcd"/>
+                        <measure n="42" label="42" xml:id="measure_7c7f8263-833f-4489-9a4d-8678b9ebf238" facs="#zone_f41dc9e8-0dc8-485b-a185-9a00d26b0bd2"/>
+                        <measure n="43" label="43" xml:id="measure_a53d81ef-a448-4e33-8230-9b6eb6d8083a" facs="#zone_32c51944-e70a-4906-87f4-e55420515790"/>
+                        <sb/>
+                        <measure n="44" label="44" xml:id="measure_4036b622-0b76-43c5-ba6f-e93f6611a05e" facs="#zone_a61512fc-eb5d-4e70-a50b-877a50206d63"/>
+                        <measure n="45" label="45" xml:id="measure_3953e635-fa9b-41fe-8c54-7c7c9c82c1f2" facs="#zone_3070c444-18f7-4f2d-841f-dc73776637c2"/>
+                        <measure n="46" label="46" xml:id="measure_860157a1-75ef-495b-a53e-9bf1f5a93aa9" facs="#zone_08cbb3d7-f910-4197-a03a-871ccc9270a3"/>
+                        <measure n="47" label="47" xml:id="measure_3d5ab457-2ba4-4a72-90e5-d15eac690bef" facs="#zone_1a4b92e4-9805-4af1-9640-94887b8715c3"/>
+                        <measure n="48" label="48" xml:id="measure_cafebbb4-e3f3-442e-a36a-d6d0cd448082" facs="#zone_89ff137a-211d-4fda-81cd-30cb4fa4ab0b"/>
+                        <measure n="49" label="49" xml:id="measure_08cc05bc-5352-4031-ba9f-1ae22311fac0" facs="#zone_e9e860a9-c201-4c97-9b94-389190251960"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="50" label="50" xml:id="measure_6afc4e18-6a49-4b5e-ba2c-2c0f1d446c87" facs="#zone_5fac028c-7d63-445d-91c9-3451a658b7f3"/>
+                        <measure n="51" label="51" xml:id="measure_d4350c3e-bf91-43a1-ad90-56f6f0d0e47f" facs="#zone_5727994e-63e9-448b-84d0-dca08db33a76"/>
+                        <measure n="52" label="52" xml:id="measure_79d3c488-d989-49f5-a8ae-3a565314a7bb" facs="#zone_a4f9a847-e084-4e60-9fc3-df0500490900"/>
+                        <measure n="53" label="53" xml:id="measure_f5f3a6cd-0860-4731-9240-445c25d450be" facs="#zone_8cbc4653-2907-44df-915e-823fe63861b8"/>
+                        <sb/>
+                        <measure n="54" label="54" xml:id="measure_59258c25-325f-4fc3-8f8f-abf01bbb4d1d" facs="#zone_fb7bf11d-8442-4638-b328-b72bf2625a46"/>
+                        <measure n="55" label="55" xml:id="measure_0793d637-5f01-4629-a48e-0b497c69d69e" facs="#zone_436f9a08-8252-46ca-adfa-bab161941856"/>
+                        <measure n="56" label="56" xml:id="measure_56edcd1c-3f9e-4372-8711-9a180e2dcf57" facs="#zone_295bda6b-bebd-4b07-b4a8-f5c7ca73cf4b"/>
+                        <measure n="57" label="57" xml:id="measure_c152fb27-faab-472e-9e64-9925a93041d4" facs="#zone_43e81a84-d924-41b8-92e5-6e27932221dc"/>
+                        <sb/>
+                        <measure n="58" label="58" xml:id="measure_8e799226-a705-410a-838b-ab83149e9100" facs="#zone_e9c83d90-de3f-4fd2-add9-d458eec62934"/>
+                        <measure n="59" label="59" xml:id="measure_ebba74a6-05d2-4bf2-a58d-370977d70602" facs="#zone_49373794-a0f0-4076-bacb-7a0634fc62ee"/>
+                        <measure n="60" label="60" xml:id="measure_8a7f2036-22c9-4709-9167-f80b6d62fb2a" facs="#zone_5eac52e1-9113-447c-8b46-6b406c291761"/>
+                        <sb/>
+                        <measure n="61" label="61" xml:id="measure_cd4de392-665a-4b6c-9b2f-ca52a2776a18" facs="#zone_7216bf4f-8490-4bcd-ab49-c945e8b29c83"/>
+                        <measure n="62" label="62" xml:id="measure_01ad01c1-fbc8-4d21-8ce1-0ab5836373d7" facs="#zone_9bf0e357-22a7-47d9-b527-fe48e47d42e2"/>
+                        <measure n="63" label="63" xml:id="measure_84061110-8306-4b2d-b237-f9b03b4c31dd" facs="#zone_3be877f0-dfe2-4b8b-a845-2f1239ed602b"/>
+                        <measure n="64" label="64" xml:id="measure_9fb26cf1-dd19-40bf-9100-676cd9f98b6b" facs="#zone_03f910f7-0859-4cbe-9ec8-38540f621170"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="65" label="65" xml:id="measure_3deb3704-882e-48e3-89f6-a2fb2b80c259" facs="#zone_be1480e8-047c-4abf-b69f-9e30f07e4035"/>
+                        <measure n="66" label="66" xml:id="measure_b21c4bee-ae05-4190-81d8-c757b95584a9" facs="#zone_ae739f84-4429-443a-9b2f-3f00383236ce"/>
+                        <measure n="67" label="67" xml:id="measure_ac2a4fce-024f-4b9c-b296-22db41f8f424" facs="#zone_8e03fe8a-45a4-4f33-a46b-c7612132a98a"/>
+                        <measure n="68" label="68" xml:id="measure_efb1d49d-fe8a-414f-a697-9507b906ee5f" facs="#zone_d78b1fb8-ddb1-43d1-9997-09ba38205d97"/>
+                        <sb/>
+                        <measure n="69" label="69" xml:id="measure_c94b5707-b7dd-4d72-a4f0-ed1b78c9424f" facs="#zone_8d939ea2-8a0e-4280-b030-cd8608d57e1b"/>
+                        <measure n="70" label="70" xml:id="measure_00b00071-36ec-4b85-97f8-350c432d1cc0" facs="#zone_63f11572-ea8e-4bb9-b769-a34e69bfcfa7"/>
+                        <measure n="71" label="71" xml:id="measure_53de21f5-1165-48ca-8b71-d5f336d84c7f" facs="#zone_1947d0c5-3011-4b59-859b-ba563105cf1f"/>
+                        <sb/>
+                        <measure n="72" label="72" xml:id="measure_1cdd8fa3-dd25-490f-853f-d34d55443196" facs="#zone_d375983d-93d7-408e-9641-d78c50ae6a44"/>
+                        <measure n="73" label="73" xml:id="measure_7e6fe7af-3c86-4441-852c-1866edaf0ffe" facs="#zone_c9ca61bb-6657-4df1-a43a-254a0e308e87"/>
+                        <measure n="74" label="74" xml:id="measure_a0a49ce6-1bb9-4ba9-84a1-d566e565c545" facs="#zone_e1414478-7f49-46cc-81a8-e27d6d3767e5"/>
+                        <measure n="75" label="75" xml:id="measure_a9c134eb-4c65-46dd-add8-d566a0468a9f" facs="#zone_31d61b96-550c-4030-898d-2ecc02ad65e1"/>
+                        <measure n="76" label="76" xml:id="measure_974bf1e5-fc47-42c2-8f98-ceb6b4e6ba61" facs="#zone_ed98ced7-a270-452e-ad72-c4b5cf7cfee7"/>
+                        <measure n="77" label="77" xml:id="measure_f9390b63-4ba0-48ee-9ec3-72ca4da181cb" facs="#zone_f63f40c3-1edf-4567-a41a-a38950627156"/>
+                        <sb/>
+                        <measure n="78" label="78" xml:id="measure_60b1e9a9-943a-4e8a-b2e1-a6df82b012e1" facs="#zone_fdfa7e8d-b69b-459b-aad7-5a11623be919"/>
+                        <measure n="79" label="79" xml:id="measure_b03aa7fa-9306-42b3-a104-3e87ae902811" facs="#zone_40a03455-0972-4722-a2dc-f2a92385a0a3"/>
+                        <measure n="80" label="80" xml:id="measure_69ba1e08-31e9-4f01-ba66-ad91606f5a19" facs="#zone_93a34653-5bec-4d97-9f99-79bc3063fc44"/>
+                        <measure n="81" label="81" xml:id="measure_a3694db0-2493-4790-a402-64c0c6059c64" facs="#zone_14351b7b-26f2-4b14-9b4a-de3c76bc9a7f"/>
+                        <measure n="82" label="82" xml:id="measure_5082c11d-13a6-4e53-9d67-28c874310204" facs="#zone_06e9dbe3-fb02-40b6-b87a-2a453fb1dafe"/>
+                        <measure n="83" label="83" xml:id="measure_50a590e9-f06c-405b-a035-65ca14b46f60" facs="#zone_f2dba801-7a53-485f-b693-19d264024912"/>
+                        <sb/>
+                        <pb/>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

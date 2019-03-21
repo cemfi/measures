@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei">
+    <meiHead>
+        <fileDesc>
+            <titleStmt/>
+            <pubStmt/>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="surface_a32f3cd4-18f6-4a2b-9999-a5d6caa27216" n="1" ulx="0" uly="0" lrx="4219" lry="6494">
+                <graphic xml:id="graphic_43f934ad-bd68-4a1a-b77a-55451fdafa9a" target="IMSLP317630-PMLP265243-Anonym_A_declarer_mon_affection-0000.jpg" type="facsimile" width="4219" height="6494"/>
+                <zone xml:id="zone_80a31525-49c2-44e9-b965-162354007f03" type="measure" ulx="461" uly="680" lrx="1824" lry="3627"/>
+                <zone xml:id="zone_8c5e0209-9214-451b-be7f-f4150efc00ed" type="measure" ulx="1704" uly="680" lrx="3084" lry="3627"/>
+                <zone xml:id="zone_5e25a691-5cc5-4333-9435-1981edaf115d" type="measure" ulx="2964" uly="680" lrx="4244" lry="3627"/>
+                <zone xml:id="zone_49837e30-8ff9-4da0-8df2-14e5e7affd94" type="measure" ulx="0" uly="3691" lrx="1288" lry="6552"/>
+                <zone xml:id="zone_7202f7ce-5fd1-4ca2-b59f-8ca7d633f3cf" type="measure" ulx="1168" uly="3691" lrx="2358" lry="6552"/>
+                <zone xml:id="zone_4d58f2c2-ebcb-44d3-bb18-0e568491ab36" type="measure" ulx="2238" uly="3691" lrx="3412" lry="6552"/>
+                <zone xml:id="zone_46a193d2-c5f2-42bd-9dc9-2b17860c08e8" type="measure" ulx="3292" uly="3691" lrx="4290" lry="6552"/>
+            </surface>
+            <surface xml:id="surface_036b1c7f-7573-466a-8701-54e03fb41316" n="2" ulx="0" uly="0" lrx="4206" lry="6482">
+                <graphic xml:id="graphic_d0a87f8e-a060-4b09-9d5a-c331d0222647" target="IMSLP317630-PMLP265243-Anonym_A_declarer_mon_affection-0001.jpg" type="facsimile" width="4206" height="6482"/>
+                <zone xml:id="zone_ca523e2f-12ac-44ac-9b62-3e599b9c0a3f" type="measure" ulx="0" uly="169" lrx="1040" lry="3240"/>
+                <zone xml:id="zone_36336324-d102-4bd9-823d-e5bd6d80d5de" type="measure" ulx="920" uly="169" lrx="2057" lry="3240"/>
+                <zone xml:id="zone_0375d0c1-186b-445e-9f2d-3d49b5f220c0" type="measure" ulx="1937" uly="169" lrx="3277" lry="3240"/>
+                <zone xml:id="zone_f9a2f929-87be-4c2f-863e-619164c96c2c" type="measure" ulx="3157" uly="169" lrx="4235" lry="3240"/>
+                <zone xml:id="zone_a4d8bb04-1833-4098-8f18-75ba3ddb9cff" type="measure" ulx="0" uly="3391" lrx="1488" lry="6527"/>
+                <zone xml:id="zone_63b833bf-6c7e-4d44-8a7a-d7e9e30cf5ec" type="measure" ulx="1368" uly="3391" lrx="2231" lry="6527"/>
+                <zone xml:id="zone_09e34411-f330-4587-b258-ab937c9e9ed9" type="measure" ulx="2111" uly="3391" lrx="3086" lry="6527"/>
+                <zone xml:id="zone_38c645bd-52be-48eb-8e60-fc1eb7ff1113" type="measure" ulx="2966" uly="3391" lrx="4232" lry="6527"/>
+            </surface>
+            <surface xml:id="surface_e0ff89c0-2ce5-4ac8-ac83-ba8d939c2be3" n="3" ulx="0" uly="0" lrx="4237" lry="6498">
+                <graphic xml:id="graphic_4af5bf2e-f507-4701-bab3-961f9c7866b4" target="IMSLP317630-PMLP265243-Anonym_A_declarer_mon_affection-0002.jpg" type="facsimile" width="4237" height="6498"/>
+                <zone xml:id="zone_92acf28b-aac0-4c8d-aa2e-f66ec2e67317" type="measure" ulx="0" uly="117" lrx="1333" lry="3224"/>
+                <zone xml:id="zone_daa93d10-2021-4815-89ae-0daf9c6ce8a9" type="measure" ulx="1213" uly="117" lrx="2262" lry="3224"/>
+                <zone xml:id="zone_48216f5b-2681-4de5-95d9-c96f6ad4b5f1" type="measure" ulx="2142" uly="117" lrx="3223" lry="3224"/>
+                <zone xml:id="zone_d72b031e-f966-4513-9b5a-289ca79d8d60" type="measure" ulx="3103" uly="117" lrx="4252" lry="3224"/>
+                <zone xml:id="zone_5112d9b4-fbad-4729-a4cf-222dbfccc807" type="measure" ulx="0" uly="3496" lrx="1347" lry="6530"/>
+                <zone xml:id="zone_e97ba3b2-afa7-43b1-8aa9-df2edcaa393a" type="measure" ulx="1227" uly="3496" lrx="2511" lry="6530"/>
+                <zone xml:id="zone_6905bb99-4e54-43d6-9e53-2f3057581c4b" type="measure" ulx="2391" uly="3496" lrx="3748" lry="6530"/>
+                <zone xml:id="zone_c908e832-f204-4ce1-8f6e-d1b6fc419516" type="measure" ulx="3628" uly="3496" lrx="4253" lry="6530"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="page_cbce584e-5c3e-4209-b4e3-68a6c3a58ff2" n="1" label="">
+                <score>
+                    <scoreDef/>
+                    <section>
+                        <pb/>
+                        <measure n="1" label="1" xml:id="measure_b7f3913c-b3f5-485a-b306-9d60bdbfe2ca" facs="#zone_80a31525-49c2-44e9-b965-162354007f03"/>
+                        <measure n="2" label="2" xml:id="measure_ff6d1325-431e-4369-b854-4aeae8a4adbb" facs="#zone_8c5e0209-9214-451b-be7f-f4150efc00ed"/>
+                        <measure n="3" label="3" xml:id="measure_1fddea90-7043-4ad4-a069-45b15bcf5ee2" facs="#zone_5e25a691-5cc5-4333-9435-1981edaf115d"/>
+                        <sb/>
+                        <measure n="4" label="4" xml:id="measure_4b2b85f2-4fd3-4a2d-ac2d-a11433d44f53" facs="#zone_49837e30-8ff9-4da0-8df2-14e5e7affd94"/>
+                        <measure n="5" label="5" xml:id="measure_78968b52-dd83-4991-8432-1b100179ac15" facs="#zone_7202f7ce-5fd1-4ca2-b59f-8ca7d633f3cf"/>
+                        <measure n="6" label="6" xml:id="measure_76f5dc28-fc7f-43ab-96b6-888abc0b0a5f" facs="#zone_4d58f2c2-ebcb-44d3-bb18-0e568491ab36"/>
+                        <measure n="7" label="7" xml:id="measure_317f0fcc-0495-42a4-8798-00e2f686e1fe" facs="#zone_46a193d2-c5f2-42bd-9dc9-2b17860c08e8"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="8" label="8" xml:id="measure_fe149ea8-b237-49a3-bffb-3b2357f1e86f" facs="#zone_ca523e2f-12ac-44ac-9b62-3e599b9c0a3f"/>
+                        <measure n="9" label="9" xml:id="measure_a231e3d7-39e4-4601-adbb-9f42422c2e15" facs="#zone_36336324-d102-4bd9-823d-e5bd6d80d5de"/>
+                        <measure n="10" label="10" xml:id="measure_c5439f89-0d3d-44cd-8e5f-d30913e9b6b2" facs="#zone_0375d0c1-186b-445e-9f2d-3d49b5f220c0"/>
+                        <measure n="11" label="11" xml:id="measure_47409794-b508-40da-91fb-38af97799e83" facs="#zone_f9a2f929-87be-4c2f-863e-619164c96c2c"/>
+                        <sb/>
+                        <measure n="12" label="12" xml:id="measure_b5017a15-2c4e-4f1a-b7e9-405ef8f92cb4" facs="#zone_a4d8bb04-1833-4098-8f18-75ba3ddb9cff"/>
+                        <measure n="13" label="13" xml:id="measure_70f7c35e-42dd-4e85-842d-f9ea4d98120d" facs="#zone_63b833bf-6c7e-4d44-8a7a-d7e9e30cf5ec"/>
+                        <measure n="14" label="14" xml:id="measure_36711334-951c-4fed-9f4e-d4c846138166" facs="#zone_09e34411-f330-4587-b258-ab937c9e9ed9"/>
+                        <measure n="15" label="15" xml:id="measure_9459ae52-f712-4c80-8084-716038a1b900" facs="#zone_38c645bd-52be-48eb-8e60-fc1eb7ff1113"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="16" label="16" xml:id="measure_886a13b9-290e-424b-b405-429dd5854c9a" facs="#zone_92acf28b-aac0-4c8d-aa2e-f66ec2e67317"/>
+                        <measure n="17" label="17" xml:id="measure_b58b900a-ba6f-4459-9615-cd2e02892647" facs="#zone_daa93d10-2021-4815-89ae-0daf9c6ce8a9"/>
+                        <measure n="18" label="18" xml:id="measure_7c7a124c-53f1-45fa-b633-de1977437f05" facs="#zone_48216f5b-2681-4de5-95d9-c96f6ad4b5f1"/>
+                        <measure n="19" label="19" xml:id="measure_0117c8c4-2ede-4816-b540-05d91b210b59" facs="#zone_d72b031e-f966-4513-9b5a-289ca79d8d60"/>
+                        <sb/>
+                        <measure n="20" label="20" xml:id="measure_45c086ea-f93c-4fce-8692-a010216ec6bd" facs="#zone_5112d9b4-fbad-4729-a4cf-222dbfccc807"/>
+                        <measure n="21" label="21" xml:id="measure_da028c52-07b8-47a7-9def-9529b036e812" facs="#zone_e97ba3b2-afa7-43b1-8aa9-df2edcaa393a"/>
+                        <measure n="22" label="22" xml:id="measure_3d96bd57-5ac4-4d65-ba86-c6c4caca1b4e" facs="#zone_6905bb99-4e54-43d6-9e53-2f3057581c4b"/>
+                        <measure n="23" label="23" xml:id="measure_95b6dc68-442f-4199-859b-855cd950af26" facs="#zone_c908e832-f204-4ce1-8f6e-d1b6fc419516"/>
+                        <sb/>
+                        <pb/>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
