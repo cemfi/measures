@@ -1,10 +1,16 @@
 from glob import glob
 import json
 import os
+import shutil
 from time import strftime
 
 from lxml import etree
+from tqdm import tqdm
 
+image_root = 'E:/Zu Vertakten'
+dst_path = '../exported'
+
+# Template
 dataset = {
     "metadata": {
         "name": "IMSLP Random",
@@ -16,7 +22,8 @@ dataset = {
     "sources": {}
 }
 
-for xml_path in glob('../data/**/*.mei'):
+# Extract data
+for xml_path in tqdm(glob('../data/**/*.mei'), desc='Extract', ncols=80):
     source_name = os.path.splitext(os.path.basename(xml_path))[0]
     score_type = os.path.normpath(xml_path).split(os.sep)[-2]
 
@@ -46,21 +53,14 @@ for xml_path in glob('../data/**/*.mei'):
             lrx = min(int(zone.get('lrx')), page_width - 1)
             lry = min(int(zone.get('lry')), page_height - 1)
 
-            width = lrx - ulx
-            height = lry - uly
-            x = ulx
-            y = uly
-
-            measure = {
+            measures.append({
                 "bbox": {
-                    "x": x,
-                    "y": y,
-                    "width": width,
-                    "height": height
+                    "x": ulx,
+                    "y": uly,
+                    "width": lrx - ulx,
+                    "height": lry - uly
                 }
-            }
-
-            measures.append(measure)
+            })
 
         source['pages'].append({
             "image": image_filename,
@@ -71,5 +71,23 @@ for xml_path in glob('../data/**/*.mei'):
             }
         })
 
-with open('dataset.json', 'w') as fp:
+# Copy image files
+os.makedirs(dst_path, exist_ok=True)
+
+for source in tqdm(dataset['sources'].values(), desc='Copy', ncols=80):
+    src = os.path.join(
+        image_root,
+        source['type'],
+        source['root_dir']
+    )
+    dst = os.path.join(
+        dst_path,
+        'imslp',
+        source['root_dir']
+    )
+
+    shutil.copytree(src, dst)
+
+# Write dataset.json
+with open(os.path.join(dst_path, 'imslp', 'dataset.json'), 'w') as fp:
     json.dump(dict(dataset), fp, indent=2)
