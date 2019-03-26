@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei">
+    <meiHead>
+        <fileDesc>
+            <titleStmt/>
+            <pubStmt/>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="surface_03713a05-948e-43e7-859e-fbe6b7436347" n="1" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_a3a993d8-e90e-411b-87cd-c824a67c37ce" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0000.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_be8afee3-3729-4a6c-ab36-ad8918bc1e17" type="measure" ulx="524" uly="186" lrx="976" lry="2492"/>
+                <zone xml:id="zone_b27cdb20-3d0f-46e8-bd25-4e2f5e85e377" type="measure" ulx="916" uly="186" lrx="1294" lry="2492"/>
+                <zone xml:id="zone_2b24fba5-57a5-4277-92f7-665ff7548726" type="measure" ulx="1234" uly="186" lrx="1630" lry="2492"/>
+                <zone xml:id="zone_be66e524-28b3-4d6a-9d74-1490b2c7e1c5" type="measure" ulx="1570" uly="186" lrx="1920" lry="2492"/>
+                <zone xml:id="zone_2e39eb06-e142-481c-bb3a-401571ae154d" type="measure" ulx="1860" uly="186" lrx="2312" lry="2492"/>
+                <zone xml:id="zone_2a6a4474-6291-4718-b308-ed33972679ee" type="measure" ulx="2252" uly="186" lrx="2652" lry="2492"/>
+                <zone xml:id="zone_09a7068f-b7bb-4653-b7b7-dd46a101776c" type="measure" ulx="2592" uly="186" lrx="3168" lry="2492"/>
+                <zone xml:id="zone_3fda4a8d-6d77-4204-a432-f6af5114e8b5" type="measure" ulx="3108" uly="186" lrx="3404" lry="2492"/>
+            </surface>
+            <surface xml:id="surface_3e7b0196-5f0c-4b0b-8da4-74e7e0eadcbb" n="2" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_9be69292-e5b9-4c00-b7fe-a80569577b16" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0001.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_fdd2a4aa-52ac-4ba0-a713-071ddcce690e" type="measure" ulx="386" uly="216" lrx="666" lry="2466"/>
+                <zone xml:id="zone_0d91fe4a-775c-43f9-9157-39465ef5f69f" type="measure" ulx="606" uly="216" lrx="1136" lry="2466"/>
+                <zone xml:id="zone_968267d1-dfe0-4a62-8a03-cddd5d49121c" type="measure" ulx="1076" uly="216" lrx="1592" lry="2466"/>
+                <zone xml:id="zone_29dbb31c-fdfc-46d3-98ad-4436e09c5891" type="measure" ulx="1532" uly="216" lrx="2036" lry="2466"/>
+                <zone xml:id="zone_12fc80f9-3354-4914-bd46-197c78981561" type="measure" ulx="1976" uly="216" lrx="2534" lry="2466"/>
+                <zone xml:id="zone_f2062ffc-fbb8-45fb-a8e9-b47a88c16248" type="measure" ulx="2474" uly="216" lrx="2982" lry="2466"/>
+                <zone xml:id="zone_9bc8bc55-b62b-4489-a9de-977479094e94" type="measure" ulx="2922" uly="216" lrx="3434" lry="2466"/>
+                <zone xml:id="zone_0a686822-7e5a-4561-8ae2-6b1e7f6c8bbd" type="measure" ulx="3374" uly="216" lrx="3638" lry="2466"/>
+            </surface>
+            <surface xml:id="surface_2cb6619a-b6f1-4e81-8478-feaedd2f5f10" n="3" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_64ddf776-0565-4e8b-99d9-831a8b53c1ce" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0002.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_a255f7b6-7726-4c62-8d49-a6de2a85b23c" type="measure" ulx="300" uly="188" lrx="566" lry="2412"/>
+                <zone xml:id="zone_432ff067-8d1a-47fa-b658-a3cab3278856" type="measure" ulx="506" uly="188" lrx="1096" lry="2412"/>
+                <zone xml:id="zone_8064f734-3de9-4ad1-9370-4d46bced20eb" type="measure" ulx="1036" uly="188" lrx="1602" lry="2412"/>
+                <zone xml:id="zone_938557b8-be8f-4bab-96a6-f82f09587602" type="measure" ulx="1542" uly="188" lrx="2098" lry="2412"/>
+                <zone xml:id="zone_bc093bb0-45e9-45ab-939b-6adde84fb5ae" type="measure" ulx="2038" uly="188" lrx="2502" lry="2412"/>
+                <zone xml:id="zone_be72ea2a-fbce-462e-844c-0e16cb3bc582" type="measure" ulx="2442" uly="188" lrx="2950" lry="2412"/>
+                <zone xml:id="zone_cea693e9-d61b-4000-b422-6edc550d8b75" type="measure" ulx="2890" uly="188" lrx="3462" lry="2412"/>
+            </surface>
+            <surface xml:id="surface_0d6f8bd1-a5e6-408e-aaeb-f7aae48e0c6a" n="4" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_d29b8633-44b9-49dc-9d78-6054839d750a" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0003.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_1831446d-b86a-4335-890c-0260e1734af4" type="measure" ulx="430" uly="250" lrx="898" lry="2450"/>
+                <zone xml:id="zone_42729cc7-3251-475e-b028-0f90f1f89094" type="measure" ulx="838" uly="250" lrx="1268" lry="2450"/>
+                <zone xml:id="zone_d43d0ca2-27cd-4e8f-b820-55448f671484" type="measure" ulx="1208" uly="250" lrx="1616" lry="2450"/>
+                <zone xml:id="zone_4c563266-b3f8-4f3a-97cb-e21dc3c9bb49" type="measure" ulx="1556" uly="250" lrx="2048" lry="2450"/>
+                <zone xml:id="zone_e24a5d06-eab5-4535-8f19-f7faa23cd1f6" type="measure" ulx="1988" uly="250" lrx="2398" lry="2450"/>
+                <zone xml:id="zone_6dd3f89d-6aea-45bd-b0cf-9a52ad285474" type="measure" ulx="2338" uly="250" lrx="2736" lry="2450"/>
+                <zone xml:id="zone_4dea8ac1-4242-41fb-bd11-1c7a1ddbce54" type="measure" ulx="2676" uly="250" lrx="3042" lry="2450"/>
+                <zone xml:id="zone_46459edc-f81d-49cb-a49e-d7339147de5f" type="measure" ulx="2982" uly="250" lrx="3326" lry="2450"/>
+                <zone xml:id="zone_8c115968-2fe3-4b42-8282-d349f85c59a7" type="measure" ulx="3286" uly="234" lrx="3618" lry="2438"/>
+            </surface>
+            <surface xml:id="surface_18659238-bf6f-40b2-b32e-2a99b8745e9e" n="5" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_e2ba266f-44aa-449e-a594-17a457b6b133" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0004.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_c94ec162-3795-44f3-a5b2-1cd1023e5217" type="measure" ulx="310" uly="202" lrx="628" lry="2482"/>
+                <zone xml:id="zone_b466982b-6757-4f55-b71f-7365cd0be518" type="measure" ulx="568" uly="202" lrx="980" lry="2482"/>
+                <zone xml:id="zone_ec5fcb37-1808-4ef9-afd2-1b361c86b10d" type="measure" ulx="920" uly="202" lrx="1370" lry="2482"/>
+                <zone xml:id="zone_950415ee-25ba-4783-9e55-98cef2d9ef51" type="measure" ulx="1310" uly="202" lrx="1908" lry="2482"/>
+                <zone xml:id="zone_6fd2a4b4-af96-4224-bc60-324a98205c26" type="measure" ulx="1848" uly="202" lrx="2424" lry="2482"/>
+                <zone xml:id="zone_ebe0d3fd-91bd-441c-a08f-63b8c9e17c2f" type="measure" ulx="2364" uly="202" lrx="2944" lry="2482"/>
+                <zone xml:id="zone_0dea679e-6944-44b9-9581-762348fb6764" type="measure" ulx="2884" uly="202" lrx="3482" lry="2482"/>
+            </surface>
+            <surface xml:id="surface_20e04c34-abb0-4336-939a-3443990da05a" n="6" ulx="0" uly="0" lrx="3769" lry="2844">
+                <graphic xml:id="graphic_e23bb55d-09dc-469e-8530-14ad4ccdd6e1" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0005.jpg" type="facsimile" width="3769" height="2844"/>
+                <zone xml:id="zone_ca013b13-660a-4d61-b2cf-828d568c0b28" type="measure" ulx="420" uly="258" lrx="836" lry="2454"/>
+                <zone xml:id="zone_1d7a9c6e-a224-4c8f-9687-df760a60d087" type="measure" ulx="776" uly="258" lrx="1366" lry="2454"/>
+                <zone xml:id="zone_0b63bf6f-80e8-44fe-b5d1-e8d366b3a00f" type="measure" ulx="1306" uly="258" lrx="1858" lry="2454"/>
+                <zone xml:id="zone_990437c4-1e4d-4707-834e-6f74ce80b10a" type="measure" ulx="1798" uly="258" lrx="2378" lry="2454"/>
+                <zone xml:id="zone_823cd33a-86d5-4e51-bc53-329083480e1b" type="measure" ulx="2318" uly="258" lrx="2724" lry="2454"/>
+                <zone xml:id="zone_fae7eb9f-ca72-4c9a-829f-b882ef89dd78" type="measure" ulx="2664" uly="258" lrx="3068" lry="2454"/>
+                <zone xml:id="zone_6b50f488-5e5d-4e4f-9acd-23229e62ef9f" type="measure" ulx="2988" uly="258" lrx="3390" lry="2454"/>
+                <zone xml:id="zone_5f864f09-156d-4233-9cf5-02d48f71137d" type="measure" ulx="3310" uly="258" lrx="3652" lry="2454"/>
+            </surface>
+            <surface xml:id="surface_e858c156-ad06-4736-9136-b9069c3104de" n="7" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_3775d431-d577-4041-bf3e-17ed2c216b81" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0006.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_67c5daa6-f704-408a-9dc3-d57a9382aff2" type="measure" ulx="206" uly="330" lrx="766" lry="2530"/>
+                <zone xml:id="zone_6db9da6c-6e90-4776-95a5-86b18513e47d" type="measure" ulx="686" uly="330" lrx="1166" lry="2530"/>
+                <zone xml:id="zone_c904e09d-5738-4e67-ac05-c9ee58ef8f3a" type="measure" ulx="1086" uly="330" lrx="1634" lry="2530"/>
+                <zone xml:id="zone_2cc34e74-e4f9-4b1d-82f4-af670f0e03f7" type="measure" ulx="1554" uly="330" lrx="2032" lry="2530"/>
+                <zone xml:id="zone_bbd0e055-0a37-4fa3-996f-40fa1696450e" type="measure" ulx="1952" uly="330" lrx="2416" lry="2530"/>
+                <zone xml:id="zone_667ccde1-5db6-4bf5-a6fc-b97802543120" type="measure" ulx="2336" uly="330" lrx="2786" lry="2530"/>
+                <zone xml:id="zone_2f26d69b-ae77-43da-87e0-92ac56b62713" type="measure" ulx="2706" uly="330" lrx="3152" lry="2530"/>
+                <zone xml:id="zone_66a4a0f3-c6d6-49cf-bfef-b0948d820de2" type="measure" ulx="3072" uly="330" lrx="3420" lry="2530"/>
+            </surface>
+            <surface xml:id="surface_88f487a5-5fae-464a-aae5-aeac49060539" n="8" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_8e30c1a1-74fc-410b-b57a-d2c0168de585" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0007.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_2c3f9365-9f07-4a3f-a889-fe61b9dbf1a5" type="measure" ulx="412" uly="308" lrx="792" lry="2548"/>
+                <zone xml:id="zone_f51c4493-ce98-4182-bdd5-d92624ac305f" type="measure" ulx="712" uly="308" lrx="1200" lry="2548"/>
+                <zone xml:id="zone_e7e11cf2-54a0-48d5-b4a6-dbdcb6536e41" type="measure" ulx="1120" uly="308" lrx="1634" lry="2548"/>
+                <zone xml:id="zone_b1b1eca5-0894-4808-bf27-f472f917b47c" type="measure" ulx="1554" uly="308" lrx="2092" lry="2548"/>
+                <zone xml:id="zone_5704b3de-b030-4f3d-bb53-24f0a4e83b37" type="measure" ulx="2012" uly="308" lrx="2556" lry="2548"/>
+                <zone xml:id="zone_92900136-9cf7-4bec-9f53-67191ab48cf2" type="measure" ulx="2476" uly="308" lrx="2958" lry="2548"/>
+                <zone xml:id="zone_e7f0ee26-64b1-48ec-9f69-4c776dbd0ebe" type="measure" ulx="2878" uly="308" lrx="3440" lry="2548"/>
+                <zone xml:id="zone_803a26e5-71aa-42e8-a488-b0aaa1498856" type="measure" ulx="3360" uly="308" lrx="3650" lry="2548"/>
+            </surface>
+            <surface xml:id="surface_253c41b6-7751-48fd-a0f4-70763514742a" n="9" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_4af21d1a-f522-457b-aed2-8b2fbbf2dbc1" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0008.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_3997ddd3-5fd7-41d9-919f-75b1ae83ba2f" type="measure" ulx="256" uly="240" lrx="548" lry="2446"/>
+                <zone xml:id="zone_8f13d912-2d26-4f09-91d2-11cd277c524d" type="measure" ulx="468" uly="240" lrx="954" lry="2446"/>
+                <zone xml:id="zone_2301dda6-7133-42f2-82c4-15eee2a6bec1" type="measure" ulx="874" uly="240" lrx="1476" lry="2446"/>
+                <zone xml:id="zone_4cea8956-73e6-453c-b0af-2a57c9ce1711" type="measure" ulx="1396" uly="240" lrx="2098" lry="2446"/>
+                <zone xml:id="zone_312200a9-725c-4066-81b4-967d07273851" type="measure" ulx="2018" uly="240" lrx="2564" lry="2446"/>
+                <zone xml:id="zone_2d38f057-31bd-443e-8de4-539211759719" type="measure" ulx="2484" uly="240" lrx="3004" lry="2446"/>
+                <zone xml:id="zone_9e3c749d-b14b-4841-9250-3293034fd211" type="measure" ulx="2924" uly="240" lrx="3368" lry="2446"/>
+            </surface>
+            <surface xml:id="surface_867b3525-fd06-43e4-a848-15bce7526f82" n="10" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_f4fc7ef9-63c4-4942-bbc0-dc361fc66ff7" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0009.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_de4fee2d-5bc0-40c5-be6d-906c8026c8da" type="measure" ulx="348" uly="206" lrx="762" lry="2454"/>
+                <zone xml:id="zone_3fadbfba-1dc5-4a0f-af3e-98570bb36eba" type="measure" ulx="660" uly="214" lrx="1142" lry="2460"/>
+                <zone xml:id="zone_16e9dcda-0cda-45e3-a207-c855272e21ca" type="measure" ulx="1062" uly="214" lrx="1506" lry="2460"/>
+                <zone xml:id="zone_e566b223-1e24-4ffb-93f1-f621e1caa75d" type="measure" ulx="1426" uly="214" lrx="1912" lry="2460"/>
+                <zone xml:id="zone_5bc04a66-cf7e-481a-a8c9-6bffe1898bcc" type="measure" ulx="1832" uly="214" lrx="2260" lry="2460"/>
+                <zone xml:id="zone_81aa4e7c-37ae-472f-bfc1-74eac95a12c2" type="measure" ulx="2180" uly="214" lrx="2642" lry="2460"/>
+                <zone xml:id="zone_bee6c1b5-a3bc-433c-8985-e903416c813f" type="measure" ulx="2562" uly="214" lrx="3108" lry="2460"/>
+                <zone xml:id="zone_80221a74-24e9-46bb-8dec-95c82dabe146" type="measure" ulx="3028" uly="214" lrx="3562" lry="2460"/>
+            </surface>
+            <surface xml:id="surface_add526bf-ccb7-493b-adc1-b60db27d3b54" n="11" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_1c8a5bd2-ad55-4dd3-b10e-05edc02fbb60" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0010.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_165da537-88c6-42a2-a76e-92358206ec2c" type="measure" ulx="172" uly="288" lrx="590" lry="2486"/>
+                <zone xml:id="zone_0ec17263-2cfb-4fe8-96d8-366459f930ec" type="measure" ulx="510" uly="288" lrx="994" lry="2486"/>
+                <zone xml:id="zone_03a20af9-1b7d-4607-8884-9e3390caff5b" type="measure" ulx="914" uly="288" lrx="1496" lry="2486"/>
+                <zone xml:id="zone_18d173cc-d1b6-49bc-9ad9-564c203fd2a7" type="measure" ulx="1416" uly="288" lrx="1996" lry="2486"/>
+                <zone xml:id="zone_51069dde-7516-4162-896f-9a12b8e28e40" type="measure" ulx="1916" uly="288" lrx="2478" lry="2486"/>
+                <zone xml:id="zone_85f9abb2-db48-42d9-98b2-4afc2e4b9845" type="measure" ulx="2398" uly="288" lrx="2956" lry="2486"/>
+                <zone xml:id="zone_99e88c83-6618-467d-aedc-2bd6970147ee" type="measure" ulx="2876" uly="288" lrx="3424" lry="2486"/>
+            </surface>
+            <surface xml:id="surface_eebdfe33-50de-4139-80d8-2fcd4a876cf6" n="12" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_f3cedef6-9093-4f12-beea-7cbba897e42d" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0011.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_969e9b4f-25ee-4eb6-ba84-673f80bfdca2" type="measure" ulx="416" uly="370" lrx="1038" lry="2570"/>
+                <zone xml:id="zone_fbff5526-9aed-4a09-887b-5a3b59a31927" type="measure" ulx="958" uly="370" lrx="1518" lry="2570"/>
+                <zone xml:id="zone_17bc15b6-43b4-4e01-9d05-492fc0ba3bf3" type="measure" ulx="1438" uly="370" lrx="1982" lry="2570"/>
+                <zone xml:id="zone_f8c58c6a-3a04-4179-a3a6-cf3a1f331725" type="measure" ulx="1902" uly="370" lrx="2436" lry="2570"/>
+                <zone xml:id="zone_8089ae8d-2c92-4c75-9f13-b1722a47f4e1" type="measure" ulx="2356" uly="370" lrx="2836" lry="2570"/>
+                <zone xml:id="zone_f7721577-07ce-47a3-978e-287adf142a2e" type="measure" ulx="2756" uly="370" lrx="3226" lry="2570"/>
+                <zone xml:id="zone_9db5c543-4927-4ca1-b741-643167d9205b" type="measure" ulx="3146" uly="370" lrx="3584" lry="2570"/>
+            </surface>
+            <surface xml:id="surface_1981ad5a-5135-4503-9699-e966f28cc48b" n="13" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_1d147751-3e75-4102-96c0-cc9f500bf42e" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0012.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_926e0271-8801-401b-98eb-8060350aa35e" type="measure" ulx="238" uly="364" lrx="644" lry="2486"/>
+                <zone xml:id="zone_ba93cc6f-eb64-4f1c-a8de-ccba4144e3d9" type="measure" ulx="564" uly="364" lrx="1028" lry="2486"/>
+                <zone xml:id="zone_a9d47975-bbdf-4134-a0b0-8c20f10d7eb8" type="measure" ulx="948" uly="364" lrx="1398" lry="2486"/>
+                <zone xml:id="zone_a95db5cc-2a84-49a1-83c4-a52d5a3c00c1" type="measure" ulx="1318" uly="364" lrx="1942" lry="2486"/>
+                <zone xml:id="zone_24e1f9af-a91f-414e-a351-1d9c9bfbfadd" type="measure" ulx="1862" uly="364" lrx="2440" lry="2486"/>
+                <zone xml:id="zone_6369804c-ea76-406d-8a0d-978003c50bf8" type="measure" ulx="2360" uly="364" lrx="2974" lry="2486"/>
+                <zone xml:id="zone_2a2754f0-a8d2-4b51-8445-1734acda91fa" type="measure" ulx="2894" uly="364" lrx="3502" lry="2486"/>
+            </surface>
+            <surface xml:id="surface_0640365d-2d5b-455f-97fb-9ec57f220781" n="14" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_308e27ee-1ef7-4f11-9bb2-4cfd8d68e65c" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0013.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_b45d32a0-24e1-4529-876c-069e4f95dc27" type="measure" ulx="278" uly="368" lrx="676" lry="2544"/>
+                <zone xml:id="zone_25a35b6d-96b0-49a6-a927-3a9d0c440666" type="measure" ulx="596" uly="368" lrx="1080" lry="2544"/>
+                <zone xml:id="zone_4185df83-6ba3-48c2-a1bf-4b05e1134eec" type="measure" ulx="1000" uly="368" lrx="1560" lry="2544"/>
+                <zone xml:id="zone_20eaeec8-e883-46a0-b73d-e2da99fd3db6" type="measure" ulx="1480" uly="368" lrx="1964" lry="2544"/>
+                <zone xml:id="zone_1ea3d2df-a7eb-4e38-baae-fd0e6f6876e3" type="measure" ulx="1884" uly="368" lrx="2392" lry="2544"/>
+                <zone xml:id="zone_057221df-5493-4ebe-b688-438dce065e93" type="measure" ulx="2312" uly="368" lrx="2802" lry="2544"/>
+                <zone xml:id="zone_80fb9013-3d22-4857-9891-6f14a86d483d" type="measure" ulx="2722" uly="368" lrx="3282" lry="2544"/>
+                <zone xml:id="zone_e23799ab-8436-465e-b758-e78a10f0e216" type="measure" ulx="3202" uly="368" lrx="3580" lry="2544"/>
+            </surface>
+            <surface xml:id="surface_da980ee2-1b6e-4f6a-8577-765039757b6f" n="15" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_c5e326c9-a4d9-41a4-8323-0708e941cca2" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0014.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_105c54e4-916c-4a61-bc54-a2dcaeb60f22" type="measure" ulx="266" uly="228" lrx="570" lry="2436"/>
+                <zone xml:id="zone_223e6829-8a72-4e3c-9f3c-90a806b78c75" type="measure" ulx="490" uly="228" lrx="990" lry="2436"/>
+                <zone xml:id="zone_283ffd5d-94ec-45fe-b5a8-3bedf7637254" type="measure" ulx="910" uly="228" lrx="1494" lry="2436"/>
+                <zone xml:id="zone_ff7371c7-abf2-4f10-8ba0-0d482c8c1278" type="measure" ulx="1414" uly="228" lrx="2068" lry="2436"/>
+                <zone xml:id="zone_f71579d2-8ac2-489e-9ab7-cd597ecdc783" type="measure" ulx="1988" uly="228" lrx="2544" lry="2436"/>
+                <zone xml:id="zone_bcec32b2-1678-463c-aa7f-926c17fcd980" type="measure" ulx="2464" uly="228" lrx="2986" lry="2436"/>
+                <zone xml:id="zone_bb312fd2-1c55-43f3-8cb3-d3440d62cece" type="measure" ulx="2906" uly="228" lrx="3404" lry="2436"/>
+            </surface>
+            <surface xml:id="surface_fd426d2a-df61-4a20-91ce-faa88b852db2" n="16" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_8bb68651-3267-4a85-aace-aed9f6fbbb07" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0015.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_52d89945-f603-4fdc-abae-e1ac06837349" type="measure" ulx="374" uly="222" lrx="928" lry="2544"/>
+                <zone xml:id="zone_4e748fff-0a0a-48c2-9217-91b14adbb34d" type="measure" ulx="848" uly="222" lrx="1388" lry="2544"/>
+                <zone xml:id="zone_e44f828d-2cb2-4052-95ca-97c9833b60a6" type="measure" ulx="1308" uly="222" lrx="1674" lry="2544"/>
+                <zone xml:id="zone_e4a53236-bb99-4af3-8a7a-1e7de01de732" type="measure" ulx="1594" uly="222" lrx="2102" lry="2544"/>
+                <zone xml:id="zone_8b81c5b0-8f16-476b-b964-5866043ee08e" type="measure" ulx="2022" uly="222" lrx="2578" lry="2544"/>
+                <zone xml:id="zone_e3c13ca0-5a0c-4d11-8197-daea224b8b58" type="measure" ulx="2498" uly="222" lrx="3050" lry="2544"/>
+                <zone xml:id="zone_79ec9895-b3ae-46f5-8020-dd30ad07d779" type="measure" ulx="2970" uly="222" lrx="3582" lry="2544"/>
+            </surface>
+            <surface xml:id="surface_05cd8821-2231-4666-8e45-8cd64bdcc8a3" n="17" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_89b50631-b2a7-4d95-ae8d-18c185070b25" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0016.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_5bcd87d5-bafd-4537-9819-03872fa2dc77" type="measure" ulx="282" uly="212" lrx="860" lry="2446"/>
+                <zone xml:id="zone_94220f58-4ef5-46ff-94fd-8cd6abf4c70a" type="measure" ulx="780" uly="212" lrx="1302" lry="2446"/>
+                <zone xml:id="zone_b57d0c6b-a9b0-405f-83fb-8348745f4f4c" type="measure" ulx="1222" uly="212" lrx="1696" lry="2446"/>
+                <zone xml:id="zone_4f6990c9-c930-4220-97f3-c2151adaabde" type="measure" ulx="1616" uly="212" lrx="2154" lry="2446"/>
+                <zone xml:id="zone_1aa5c4be-bcb7-4a04-86dc-b3bc4f779702" type="measure" ulx="2074" uly="212" lrx="2536" lry="2446"/>
+                <zone xml:id="zone_2e8b23dc-4780-4657-ab56-5b635aee37d1" type="measure" ulx="2456" uly="212" lrx="2942" lry="2446"/>
+                <zone xml:id="zone_728f6522-a7b1-497c-8f1b-ede62c9793ab" type="measure" ulx="2862" uly="212" lrx="3416" lry="2446"/>
+            </surface>
+            <surface xml:id="surface_f11c6186-f356-4ceb-9e31-21e0a67febdd" n="18" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_1dfadbe7-7766-411c-bb14-0fcfa068f05c" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0017.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_6f46b121-6dee-4d08-af44-fe2712f45d7f" type="measure" ulx="338" uly="352" lrx="686" lry="2450"/>
+                <zone xml:id="zone_9c0c0080-f59a-4b73-856b-6616222ef713" type="measure" ulx="606" uly="352" lrx="1058" lry="2450"/>
+                <zone xml:id="zone_f092c79f-f54d-4609-bf35-25b831dcb122" type="measure" ulx="978" uly="352" lrx="1632" lry="2450"/>
+                <zone xml:id="zone_ab43979f-6853-4820-827c-c663255c9991" type="measure" ulx="1552" uly="352" lrx="2006" lry="2450"/>
+                <zone xml:id="zone_f2484284-9734-4d90-a8b1-97a91ee4f1ff" type="measure" ulx="1926" uly="352" lrx="2414" lry="2450"/>
+                <zone xml:id="zone_f3e88973-9d10-4c83-a970-05cb6ca3cd70" type="measure" ulx="2334" uly="352" lrx="2818" lry="2450"/>
+                <zone xml:id="zone_dd3b45ac-ae02-4a13-9009-39fcee93f0d6" type="measure" ulx="2738" uly="352" lrx="3518" lry="2450"/>
+            </surface>
+            <surface xml:id="surface_7d1ef676-e7e6-4ff4-b5c8-014572bba342" n="19" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_e2b5be2d-f99b-4127-ba23-80dcc4c2a41d" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0018.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_249b866a-af18-4ca7-9f42-a7bbf3a72b05" type="measure" ulx="306" uly="338" lrx="812" lry="2478"/>
+                <zone xml:id="zone_81ebe283-2f46-4747-b487-c5ac7f6356ec" type="measure" ulx="732" uly="338" lrx="1314" lry="2478"/>
+                <zone xml:id="zone_e2d31014-598b-4dbb-a820-a1781a774ca3" type="measure" ulx="1234" uly="338" lrx="1796" lry="2478"/>
+                <zone xml:id="zone_a292faae-5fb6-4128-8755-f5c8453b813d" type="measure" ulx="1716" uly="338" lrx="2236" lry="2478"/>
+                <zone xml:id="zone_3a884020-2c53-4d27-a366-bd5fa89d40ec" type="measure" ulx="2156" uly="338" lrx="2666" lry="2478"/>
+                <zone xml:id="zone_5602429e-8ed1-4123-a7d2-d4c47e355dd0" type="measure" ulx="2586" uly="338" lrx="3092" lry="2478"/>
+                <zone xml:id="zone_8a489a86-d11d-403c-9cf6-a491656eff96" type="measure" ulx="3012" uly="338" lrx="3390" lry="2478"/>
+            </surface>
+            <surface xml:id="surface_c8b3e8f0-496c-4de8-bf95-446e53bafd14" n="20" ulx="0" uly="0" lrx="3801" lry="2844">
+                <graphic xml:id="graphic_288ccbe1-972f-443c-a49c-72479361ac42" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0019.jpg" type="facsimile" width="3801" height="2844"/>
+                <zone xml:id="zone_6c6e3636-d24c-4208-97b0-23be5da1fe67" type="measure" ulx="358" uly="334" lrx="1042" lry="2474"/>
+                <zone xml:id="zone_2b02f196-a6eb-4831-aa78-ed35c25cd62b" type="measure" ulx="962" uly="334" lrx="1720" lry="2474"/>
+                <zone xml:id="zone_c5927ef2-a59c-464d-adfe-b957afba7498" type="measure" ulx="1640" uly="334" lrx="2510" lry="2474"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="page_a6035605-75c0-43b7-9fe3-448f100ae9aa" n="1" label="">
+                <score>
+                    <scoreDef/>
+                    <section>
+                        <pb/>
+                        <measure n="1" label="1" xml:id="measure_54ae93b2-922d-4dbb-b0cb-bd1a6db8a1aa" facs="#zone_be8afee3-3729-4a6c-ab36-ad8918bc1e17"/>
+                        <measure n="2" label="2" xml:id="measure_a4c6a834-08e7-41d5-b2b0-e91c74a961a0" facs="#zone_b27cdb20-3d0f-46e8-bd25-4e2f5e85e377"/>
+                        <measure n="3" label="3" xml:id="measure_4a124259-5db8-4797-8bbd-3f3031c9f76e" facs="#zone_2b24fba5-57a5-4277-92f7-665ff7548726"/>
+                        <measure n="4" label="4" xml:id="measure_3a4c3d82-d47d-432b-95d6-f90dc2d9895f" facs="#zone_be66e524-28b3-4d6a-9d74-1490b2c7e1c5"/>
+                        <measure n="5" label="5" xml:id="measure_def11123-f60b-458e-8407-61072c72c4a9" facs="#zone_2e39eb06-e142-481c-bb3a-401571ae154d"/>
+                        <measure n="6" label="6" xml:id="measure_874230fc-23f0-4271-b33a-1e01f4f69a8e" facs="#zone_2a6a4474-6291-4718-b308-ed33972679ee"/>
+                        <measure n="7" label="7" xml:id="measure_b54e0aaa-8f4d-4306-9aa1-57284b9d23ab" facs="#zone_09a7068f-b7bb-4653-b7b7-dd46a101776c"/>
+                        <measure n="8" label="8" xml:id="measure_049fade0-910f-4e56-bccc-d94fdeaa6697" facs="#zone_3fda4a8d-6d77-4204-a432-f6af5114e8b5"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="9" label="9" xml:id="measure_0e85966c-0f79-4b06-a3e7-93bd6e51faba" facs="#zone_fdd2a4aa-52ac-4ba0-a713-071ddcce690e"/>
+                        <measure n="10" label="10" xml:id="measure_a5ac07c2-186e-4238-a6e9-77139d65a896" facs="#zone_0d91fe4a-775c-43f9-9157-39465ef5f69f"/>
+                        <measure n="11" label="11" xml:id="measure_359ed332-fa31-45af-83b0-1d20c618db79" facs="#zone_968267d1-dfe0-4a62-8a03-cddd5d49121c"/>
+                        <measure n="12" label="12" xml:id="measure_03d6bfc4-f3ae-4cc3-b7b8-2886a89b0cde" facs="#zone_29dbb31c-fdfc-46d3-98ad-4436e09c5891"/>
+                        <measure n="13" label="13" xml:id="measure_6ab012a0-6b3b-44ac-a711-db6bf4f81642" facs="#zone_12fc80f9-3354-4914-bd46-197c78981561"/>
+                        <measure n="14" label="14" xml:id="measure_2f4e866e-67e6-4326-9c81-54c8cb223475" facs="#zone_f2062ffc-fbb8-45fb-a8e9-b47a88c16248"/>
+                        <measure n="15" label="15" xml:id="measure_0c8a00f9-3c8a-403b-8f87-bb7050bc325e" facs="#zone_9bc8bc55-b62b-4489-a9de-977479094e94"/>
+                        <measure n="16" label="16" xml:id="measure_48925471-5b66-411e-bf9c-b9407f7bc932" facs="#zone_0a686822-7e5a-4561-8ae2-6b1e7f6c8bbd"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="17" label="17" xml:id="measure_6416c4e2-1688-44bf-835b-db1555d9bdb5" facs="#zone_a255f7b6-7726-4c62-8d49-a6de2a85b23c"/>
+                        <measure n="18" label="18" xml:id="measure_134a9c75-2576-4548-bcaf-d8b82d6555ee" facs="#zone_432ff067-8d1a-47fa-b658-a3cab3278856"/>
+                        <measure n="19" label="19" xml:id="measure_808a0c9d-a7fe-4830-bdc3-5ff53cab8faf" facs="#zone_8064f734-3de9-4ad1-9370-4d46bced20eb"/>
+                        <measure n="20" label="20" xml:id="measure_773e0fcb-0799-41f4-86e8-c4582a9a71c2" facs="#zone_938557b8-be8f-4bab-96a6-f82f09587602"/>
+                        <measure n="21" label="21" xml:id="measure_a8f95412-ed12-4222-aa7c-b58d2d89096c" facs="#zone_bc093bb0-45e9-45ab-939b-6adde84fb5ae"/>
+                        <measure n="22" label="22" xml:id="measure_0a26e67a-2d19-47c2-bb9e-c40178ab8a86" facs="#zone_be72ea2a-fbce-462e-844c-0e16cb3bc582"/>
+                        <measure n="23" label="23" xml:id="measure_9ca6124c-15d1-4c44-8b3d-ee339de9073d" facs="#zone_cea693e9-d61b-4000-b422-6edc550d8b75"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="24" label="24" xml:id="measure_77115767-1e68-41ca-9719-09405072aa05" facs="#zone_1831446d-b86a-4335-890c-0260e1734af4"/>
+                        <measure n="25" label="25" xml:id="measure_7d71c82c-6f1e-4721-8dfb-00421a4efab2" facs="#zone_42729cc7-3251-475e-b028-0f90f1f89094"/>
+                        <measure n="26" label="26" xml:id="measure_45b1c752-0bf4-47ae-b018-4d0fa7ef8216" facs="#zone_d43d0ca2-27cd-4e8f-b820-55448f671484"/>
+                        <measure n="27" label="27" xml:id="measure_94821514-3e75-4949-afb3-e518117da243" facs="#zone_4c563266-b3f8-4f3a-97cb-e21dc3c9bb49"/>
+                        <measure n="28" label="28" xml:id="measure_312d2a4c-d1b2-40a2-9909-a9a60a53aaeb" facs="#zone_e24a5d06-eab5-4535-8f19-f7faa23cd1f6"/>
+                        <measure n="29" label="29" xml:id="measure_21bf36ad-7533-421c-8847-40da85bae375" facs="#zone_6dd3f89d-6aea-45bd-b0cf-9a52ad285474"/>
+                        <measure n="30" label="30" xml:id="measure_4084af11-e05a-419e-93b4-3102234e3c09" facs="#zone_4dea8ac1-4242-41fb-bd11-1c7a1ddbce54"/>
+                        <measure n="31" label="31" xml:id="measure_580d5898-3f8a-4929-8d92-6dc53f1e8e3b" facs="#zone_46459edc-f81d-49cb-a49e-d7339147de5f"/>
+                        <measure n="32" label="32" xml:id="measure_7993fa92-cf0d-4f2f-b12b-19d88161567b" facs="#zone_8c115968-2fe3-4b42-8282-d349f85c59a7"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="33" label="33" xml:id="measure_074b7bc3-107b-4fea-ba49-40edaf1d851c" facs="#zone_c94ec162-3795-44f3-a5b2-1cd1023e5217"/>
+                        <measure n="34" label="34" xml:id="measure_416f33b2-91ba-4516-b9b5-18b55b0fdb02" facs="#zone_b466982b-6757-4f55-b71f-7365cd0be518"/>
+                        <measure n="35" label="35" xml:id="measure_45903154-2e23-405e-b37f-42a51247eeef" facs="#zone_ec5fcb37-1808-4ef9-afd2-1b361c86b10d"/>
+                        <measure n="36" label="36" xml:id="measure_02b19c2d-4189-42d7-bac9-d633ddb7c0f8" facs="#zone_950415ee-25ba-4783-9e55-98cef2d9ef51"/>
+                        <measure n="37" label="37" xml:id="measure_2c3a5b65-2d22-4700-9961-d98604fd14a6" facs="#zone_6fd2a4b4-af96-4224-bc60-324a98205c26"/>
+                        <measure n="38" label="38" xml:id="measure_c0ceb2b4-8725-46bb-8de4-73189e17b691" facs="#zone_ebe0d3fd-91bd-441c-a08f-63b8c9e17c2f"/>
+                        <measure n="39" label="39" xml:id="measure_90dc7155-c6e3-4630-a09f-306eb477d97b" facs="#zone_0dea679e-6944-44b9-9581-762348fb6764"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="40" label="40" xml:id="measure_d2a86188-0ca1-434b-a645-f37301e57d95" facs="#zone_ca013b13-660a-4d61-b2cf-828d568c0b28"/>
+                        <measure n="41" label="41" xml:id="measure_3e8289e9-61d0-4228-9155-8e29524c68c0" facs="#zone_1d7a9c6e-a224-4c8f-9687-df760a60d087"/>
+                        <measure n="42" label="42" xml:id="measure_ed56eb28-6b40-4f43-8118-9559f1cec499" facs="#zone_0b63bf6f-80e8-44fe-b5d1-e8d366b3a00f"/>
+                        <measure n="43" label="43" xml:id="measure_1cf2b777-3e52-4420-b950-fd27794ff30a" facs="#zone_990437c4-1e4d-4707-834e-6f74ce80b10a"/>
+                        <measure n="44" label="44" xml:id="measure_6af85839-764e-407f-bc70-b876bbbd6246" facs="#zone_823cd33a-86d5-4e51-bc53-329083480e1b"/>
+                        <measure n="45" label="45" xml:id="measure_24a0c8fc-fd98-4a45-8056-fd73eb5f23dc" facs="#zone_fae7eb9f-ca72-4c9a-829f-b882ef89dd78"/>
+                        <measure n="46" label="46" xml:id="measure_f66b74e2-14ff-4c20-a585-fb54586b48c1" facs="#zone_6b50f488-5e5d-4e4f-9acd-23229e62ef9f"/>
+                        <measure n="47" label="47" xml:id="measure_2b5b526e-88dc-4245-aea4-fcfda0f92dad" facs="#zone_5f864f09-156d-4233-9cf5-02d48f71137d"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="48" label="48" xml:id="measure_f993d910-ce7b-43d5-8421-ec950fc5bf5b" facs="#zone_67c5daa6-f704-408a-9dc3-d57a9382aff2"/>
+                        <measure n="49" label="49" xml:id="measure_70fc4ad5-c714-4586-859a-f673e5d16377" facs="#zone_6db9da6c-6e90-4776-95a5-86b18513e47d"/>
+                        <measure n="50" label="50" xml:id="measure_ec992def-d165-4542-8e99-d9c39fabb4a3" facs="#zone_c904e09d-5738-4e67-ac05-c9ee58ef8f3a"/>
+                        <measure n="51" label="51" xml:id="measure_8493292a-d4c2-4fe6-95d7-36d1edc11851" facs="#zone_2cc34e74-e4f9-4b1d-82f4-af670f0e03f7"/>
+                        <measure n="52" label="52" xml:id="measure_3ddcc2a2-47e7-4a38-af72-07b83877338d" facs="#zone_bbd0e055-0a37-4fa3-996f-40fa1696450e"/>
+                        <measure n="53" label="53" xml:id="measure_cd822d0d-4a0e-4d40-bde5-6b88716dd886" facs="#zone_667ccde1-5db6-4bf5-a6fc-b97802543120"/>
+                        <measure n="54" label="54" xml:id="measure_595a9108-5272-4711-aa84-2643fc7818f9" facs="#zone_2f26d69b-ae77-43da-87e0-92ac56b62713"/>
+                        <measure n="55" label="55" xml:id="measure_32a264b8-3cc2-4b06-a496-fca2227d0e17" facs="#zone_66a4a0f3-c6d6-49cf-bfef-b0948d820de2"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="56" label="56" xml:id="measure_4350fa75-c931-4ae9-b992-6fc04702a5e9" facs="#zone_2c3f9365-9f07-4a3f-a889-fe61b9dbf1a5"/>
+                        <measure n="57" label="57" xml:id="measure_51f90739-34dc-4f58-aa1b-eadab5be89c0" facs="#zone_f51c4493-ce98-4182-bdd5-d92624ac305f"/>
+                        <measure n="58" label="58" xml:id="measure_46e67725-61b7-4528-91d7-835daa88998d" facs="#zone_e7e11cf2-54a0-48d5-b4a6-dbdcb6536e41"/>
+                        <measure n="59" label="59" xml:id="measure_c412a2ef-16d9-4d09-ba1e-db397e61197b" facs="#zone_b1b1eca5-0894-4808-bf27-f472f917b47c"/>
+                        <measure n="60" label="60" xml:id="measure_dad0289d-9cf8-40d3-aec8-711ea857b2f2" facs="#zone_5704b3de-b030-4f3d-bb53-24f0a4e83b37"/>
+                        <measure n="61" label="61" xml:id="measure_c0e18dba-70df-4458-bcb0-9085fca4fcfb" facs="#zone_92900136-9cf7-4bec-9f53-67191ab48cf2"/>
+                        <measure n="62" label="62" xml:id="measure_792630fd-78d6-47d0-a46f-e01ca5161331" facs="#zone_e7f0ee26-64b1-48ec-9f69-4c776dbd0ebe"/>
+                        <measure n="63" label="63" xml:id="measure_f1b09e61-886b-446b-9680-b37335a3938d" facs="#zone_803a26e5-71aa-42e8-a488-b0aaa1498856"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="64" label="64" xml:id="measure_0c764467-5641-46fc-85e2-2923abfe7489" facs="#zone_3997ddd3-5fd7-41d9-919f-75b1ae83ba2f"/>
+                        <measure n="65" label="65" xml:id="measure_328249ed-b52e-42b5-a959-d674d52b0004" facs="#zone_8f13d912-2d26-4f09-91d2-11cd277c524d"/>
+                        <measure n="66" label="66" xml:id="measure_1ea9b4c0-56c4-4fc1-bf5f-bfe83bf1ff4d" facs="#zone_2301dda6-7133-42f2-82c4-15eee2a6bec1"/>
+                        <measure n="67" label="67" xml:id="measure_c8eebc0c-60e5-488d-859f-23a34e53d254" facs="#zone_4cea8956-73e6-453c-b0af-2a57c9ce1711"/>
+                        <measure n="68" label="68" xml:id="measure_a077cae6-7cd4-42a4-b2e5-c09001389722" facs="#zone_312200a9-725c-4066-81b4-967d07273851"/>
+                        <measure n="69" label="69" xml:id="measure_7b1b2fa9-c406-4422-886c-5a6ca676a3c1" facs="#zone_2d38f057-31bd-443e-8de4-539211759719"/>
+                        <measure n="70" label="70" xml:id="measure_42388a61-a269-4bda-9e71-daecc3ea3a51" facs="#zone_9e3c749d-b14b-4841-9250-3293034fd211"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="71" label="71" xml:id="measure_d04ab1df-9b62-4fcc-8ab5-13e16f246519" facs="#zone_de4fee2d-5bc0-40c5-be6d-906c8026c8da"/>
+                        <measure n="72" label="72" xml:id="measure_021fca98-e0db-4909-a9f8-bff4b706ba3b" facs="#zone_3fadbfba-1dc5-4a0f-af3e-98570bb36eba"/>
+                        <measure n="73" label="73" xml:id="measure_dae314a6-1e7e-4085-a950-f2cdfe2c98ba" facs="#zone_16e9dcda-0cda-45e3-a207-c855272e21ca"/>
+                        <measure n="74" label="74" xml:id="measure_7515a1fa-441c-43dc-8259-0c4d83b0fc11" facs="#zone_e566b223-1e24-4ffb-93f1-f621e1caa75d"/>
+                        <measure n="75" label="75" xml:id="measure_62730fc5-6e70-41d9-acd3-15430edfac98" facs="#zone_5bc04a66-cf7e-481a-a8c9-6bffe1898bcc"/>
+                        <measure n="76" label="76" xml:id="measure_ac24b56e-fb21-4d4f-a5c6-e6a18489c3e2" facs="#zone_81aa4e7c-37ae-472f-bfc1-74eac95a12c2"/>
+                        <measure n="77" label="77" xml:id="measure_964c1952-0325-4a5d-b17a-a10c77cb4cbc" facs="#zone_bee6c1b5-a3bc-433c-8985-e903416c813f"/>
+                        <measure n="78" label="78" xml:id="measure_33f195bf-0214-4570-a876-db106626f5d6" facs="#zone_80221a74-24e9-46bb-8dec-95c82dabe146"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="79" label="79" xml:id="measure_1c8b6ff2-313d-4e6d-93e8-b13e7212e640" facs="#zone_165da537-88c6-42a2-a76e-92358206ec2c"/>
+                        <measure n="80" label="80" xml:id="measure_09dfbab9-2368-4bfc-a3b6-fc6b497cde8d" facs="#zone_0ec17263-2cfb-4fe8-96d8-366459f930ec"/>
+                        <measure n="81" label="81" xml:id="measure_fa17d2b0-236b-41f0-8d99-957b8f6d0511" facs="#zone_03a20af9-1b7d-4607-8884-9e3390caff5b"/>
+                        <measure n="82" label="82" xml:id="measure_dde8ed8a-cff0-4fe2-8c43-3900779e51f6" facs="#zone_18d173cc-d1b6-49bc-9ad9-564c203fd2a7"/>
+                        <measure n="83" label="83" xml:id="measure_45df1520-4475-4810-b63d-178e1a464a71" facs="#zone_51069dde-7516-4162-896f-9a12b8e28e40"/>
+                        <measure n="84" label="84" xml:id="measure_a53717e0-1b80-4df4-913a-e7ecf21b1403" facs="#zone_85f9abb2-db48-42d9-98b2-4afc2e4b9845"/>
+                        <measure n="85" label="85" xml:id="measure_92bfbcfb-2e20-4a0e-9232-ce51492d09fd" facs="#zone_99e88c83-6618-467d-aedc-2bd6970147ee"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="86" label="86" xml:id="measure_e7a3997e-e6d6-4f56-a5f8-f3ad155c3dd6" facs="#zone_969e9b4f-25ee-4eb6-ba84-673f80bfdca2"/>
+                        <measure n="87" label="87" xml:id="measure_cf2b6619-bb17-4240-881c-b724b46f3635" facs="#zone_fbff5526-9aed-4a09-887b-5a3b59a31927"/>
+                        <measure n="88" label="88" xml:id="measure_15984ec1-1306-4fd3-b936-dc44a967ded9" facs="#zone_17bc15b6-43b4-4e01-9d05-492fc0ba3bf3"/>
+                        <measure n="89" label="89" xml:id="measure_0b42c2f8-79a6-46d0-a2b8-39af263db09f" facs="#zone_f8c58c6a-3a04-4179-a3a6-cf3a1f331725"/>
+                        <measure n="90" label="90" xml:id="measure_5c398d2d-999c-4f89-86e0-67274f80c4f2" facs="#zone_8089ae8d-2c92-4c75-9f13-b1722a47f4e1"/>
+                        <measure n="91" label="91" xml:id="measure_545f9f47-ec29-4bf7-82f5-3eab9ec7312d" facs="#zone_f7721577-07ce-47a3-978e-287adf142a2e"/>
+                        <measure n="92" label="92" xml:id="measure_f9fd39a8-6c7a-4e9c-81a7-ba3624c1e1bd" facs="#zone_9db5c543-4927-4ca1-b741-643167d9205b"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="93" label="93" xml:id="measure_6d51886c-4f5e-493a-a458-ad3d6bda489f" facs="#zone_926e0271-8801-401b-98eb-8060350aa35e"/>
+                        <measure n="94" label="94" xml:id="measure_2d85973c-fee9-492f-8180-ba1ab167c650" facs="#zone_ba93cc6f-eb64-4f1c-a8de-ccba4144e3d9"/>
+                        <measure n="95" label="95" xml:id="measure_323289c2-583e-410d-a85c-22c4d5ebee9e" facs="#zone_a9d47975-bbdf-4134-a0b0-8c20f10d7eb8"/>
+                        <measure n="96" label="96" xml:id="measure_37bc9c1d-5d9a-45bb-b049-03b73fb50378" facs="#zone_a95db5cc-2a84-49a1-83c4-a52d5a3c00c1"/>
+                        <measure n="97" label="97" xml:id="measure_bb603704-f264-4593-bce4-6bc65baf2b35" facs="#zone_24e1f9af-a91f-414e-a351-1d9c9bfbfadd"/>
+                        <measure n="98" label="98" xml:id="measure_b4e2b58c-36e4-4ff5-9da2-0c52e85d5744" facs="#zone_6369804c-ea76-406d-8a0d-978003c50bf8"/>
+                        <measure n="99" label="99" xml:id="measure_a0aaa898-b9f7-4b0c-addf-8ace579476ce" facs="#zone_2a2754f0-a8d2-4b51-8445-1734acda91fa"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="100" label="100" xml:id="measure_073159e1-7a66-4668-bfd0-0781ff21b1a3" facs="#zone_b45d32a0-24e1-4529-876c-069e4f95dc27"/>
+                        <measure n="101" label="101" xml:id="measure_773b85f0-2e75-46da-b662-ebf714307cbe" facs="#zone_25a35b6d-96b0-49a6-a927-3a9d0c440666"/>
+                        <measure n="102" label="102" xml:id="measure_050eafe5-c35c-4af5-81f7-04af18986b57" facs="#zone_4185df83-6ba3-48c2-a1bf-4b05e1134eec"/>
+                        <measure n="103" label="103" xml:id="measure_74136a40-27b7-41fb-859b-47289859b4a0" facs="#zone_20eaeec8-e883-46a0-b73d-e2da99fd3db6"/>
+                        <measure n="104" label="104" xml:id="measure_747343fd-9bbe-4919-b3ee-d915b0ba2892" facs="#zone_1ea3d2df-a7eb-4e38-baae-fd0e6f6876e3"/>
+                        <measure n="105" label="105" xml:id="measure_94948aab-f553-460e-a0f3-583b4f26c98f" facs="#zone_057221df-5493-4ebe-b688-438dce065e93"/>
+                        <measure n="106" label="106" xml:id="measure_ea92adb9-e397-4864-bdb8-b50bbe5cb075" facs="#zone_80fb9013-3d22-4857-9891-6f14a86d483d"/>
+                        <measure n="107" label="107" xml:id="measure_c30c0222-4124-43ee-8a55-1276e9a252d2" facs="#zone_e23799ab-8436-465e-b758-e78a10f0e216"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="108" label="108" xml:id="measure_08d9cd2e-46eb-478f-ae0c-e7952e5cfe46" facs="#zone_105c54e4-916c-4a61-bc54-a2dcaeb60f22"/>
+                        <measure n="109" label="109" xml:id="measure_39efb3a9-ca1f-4d15-8316-a30d98240566" facs="#zone_223e6829-8a72-4e3c-9f3c-90a806b78c75"/>
+                        <measure n="110" label="110" xml:id="measure_5c5ea3f1-5f6f-4b50-b623-4f2d272c2c2a" facs="#zone_283ffd5d-94ec-45fe-b5a8-3bedf7637254"/>
+                        <measure n="111" label="111" xml:id="measure_7329d92e-d0eb-4e00-8a4f-d5abcf3a212c" facs="#zone_ff7371c7-abf2-4f10-8ba0-0d482c8c1278"/>
+                        <measure n="112" label="112" xml:id="measure_643483f2-8d7d-48dd-8e0c-0a17725eef7f" facs="#zone_f71579d2-8ac2-489e-9ab7-cd597ecdc783"/>
+                        <measure n="113" label="113" xml:id="measure_1bacb979-9473-488e-94b7-24314b83914b" facs="#zone_bcec32b2-1678-463c-aa7f-926c17fcd980"/>
+                        <measure n="114" label="114" xml:id="measure_3bd52255-f2c3-4160-a5b0-b66358883134" facs="#zone_bb312fd2-1c55-43f3-8cb3-d3440d62cece"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="115" label="115" xml:id="measure_fa7018dd-491e-4060-832e-6974e7b7c584" facs="#zone_52d89945-f603-4fdc-abae-e1ac06837349"/>
+                        <measure n="116" label="116" xml:id="measure_fe3957fb-fb72-4079-aff9-3dc0ea3388e2" facs="#zone_4e748fff-0a0a-48c2-9217-91b14adbb34d"/>
+                        <measure n="117" label="117" xml:id="measure_626ebd01-e7ef-4daf-a871-88b8cb59a8f3" facs="#zone_e44f828d-2cb2-4052-95ca-97c9833b60a6"/>
+                        <measure n="118" label="118" xml:id="measure_025217fe-dc53-4a9f-b9c1-b31526d205d4" facs="#zone_e4a53236-bb99-4af3-8a7a-1e7de01de732"/>
+                        <measure n="119" label="119" xml:id="measure_b905ecf6-fa2c-4868-91c6-8b998a937845" facs="#zone_8b81c5b0-8f16-476b-b964-5866043ee08e"/>
+                        <measure n="120" label="120" xml:id="measure_29635128-f7dd-4c7d-8edb-2f3fc2cd6548" facs="#zone_e3c13ca0-5a0c-4d11-8197-daea224b8b58"/>
+                        <measure n="121" label="121" xml:id="measure_d842e193-20c8-4e46-9391-48494fc84401" facs="#zone_79ec9895-b3ae-46f5-8020-dd30ad07d779"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="122" label="122" xml:id="measure_27bfd09d-bbe3-45a5-8a9f-86d88e736588" facs="#zone_5bcd87d5-bafd-4537-9819-03872fa2dc77"/>
+                        <measure n="123" label="123" xml:id="measure_8409c4c0-362e-4859-865f-accf4910197b" facs="#zone_94220f58-4ef5-46ff-94fd-8cd6abf4c70a"/>
+                        <measure n="124" label="124" xml:id="measure_23a11206-7df8-4a36-b506-82ecb394a160" facs="#zone_b57d0c6b-a9b0-405f-83fb-8348745f4f4c"/>
+                        <measure n="125" label="125" xml:id="measure_ead08544-0add-48be-b243-b5d50f18916b" facs="#zone_4f6990c9-c930-4220-97f3-c2151adaabde"/>
+                        <measure n="126" label="126" xml:id="measure_81e30c00-b652-4c3c-8829-3f2e208026fd" facs="#zone_1aa5c4be-bcb7-4a04-86dc-b3bc4f779702"/>
+                        <measure n="127" label="127" xml:id="measure_082e64ea-c426-4ac7-8df5-6c9efeb74ee9" facs="#zone_2e8b23dc-4780-4657-ab56-5b635aee37d1"/>
+                        <measure n="128" label="128" xml:id="measure_286ed4c9-16c2-4db5-9fd3-1c0345b879f7" facs="#zone_728f6522-a7b1-497c-8f1b-ede62c9793ab"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="129" label="129" xml:id="measure_d25ae748-1a5a-4c31-a6dc-8321a6e8cfac" facs="#zone_6f46b121-6dee-4d08-af44-fe2712f45d7f"/>
+                        <measure n="130" label="130" xml:id="measure_fcac1819-bf23-4c7f-a723-ef4c54bbd2a2" facs="#zone_9c0c0080-f59a-4b73-856b-6616222ef713"/>
+                        <measure n="131" label="131" xml:id="measure_a54e790f-09b2-41ad-a311-d53d52f6d865" facs="#zone_f092c79f-f54d-4609-bf35-25b831dcb122"/>
+                        <measure n="132" label="132" xml:id="measure_e9ad8d88-d52b-4537-b66e-cb6ad7a486b5" facs="#zone_ab43979f-6853-4820-827c-c663255c9991"/>
+                        <measure n="133" label="133" xml:id="measure_0cbf3eaa-1adb-4fda-bab7-3540ca273a46" facs="#zone_f2484284-9734-4d90-a8b1-97a91ee4f1ff"/>
+                        <measure n="134" label="134" xml:id="measure_0d478fc0-dfe4-454f-98bd-850eb334ff7e" facs="#zone_f3e88973-9d10-4c83-a970-05cb6ca3cd70"/>
+                        <measure n="135" label="135" xml:id="measure_fa4cc0be-e3c4-4879-9d18-700fcbb2590e" facs="#zone_dd3b45ac-ae02-4a13-9009-39fcee93f0d6"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="136" label="136" xml:id="measure_64aa732d-6ce4-46bc-b710-e014c8669ff7" facs="#zone_249b866a-af18-4ca7-9f42-a7bbf3a72b05"/>
+                        <measure n="137" label="137" xml:id="measure_c0dad664-3a08-48f0-b00e-db3b60d1e7ec" facs="#zone_81ebe283-2f46-4747-b487-c5ac7f6356ec"/>
+                        <measure n="138" label="138" xml:id="measure_9358b808-0e88-4b0e-bbd0-48cfd07c3d9f" facs="#zone_e2d31014-598b-4dbb-a820-a1781a774ca3"/>
+                        <measure n="139" label="139" xml:id="measure_5455b576-78c2-458d-9a18-3b24280a9a2f" facs="#zone_a292faae-5fb6-4128-8755-f5c8453b813d"/>
+                        <measure n="140" label="140" xml:id="measure_5f784642-5cbd-42a8-84d7-cee4aa4f0d40" facs="#zone_3a884020-2c53-4d27-a366-bd5fa89d40ec"/>
+                        <measure n="141" label="141" xml:id="measure_e9e7a69e-64bd-463c-98b7-e313a4020f09" facs="#zone_5602429e-8ed1-4123-a7d2-d4c47e355dd0"/>
+                        <measure n="142" label="142" xml:id="measure_88338d6b-9f5a-4a49-abea-7802130a3b1a" facs="#zone_8a489a86-d11d-403c-9cf6-a491656eff96"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="143" label="143" xml:id="measure_0a94c9e7-8767-4125-98d9-db0414677998" facs="#zone_6c6e3636-d24c-4208-97b0-23be5da1fe67"/>
+                        <measure n="144" label="144" xml:id="measure_c052cc5e-9e1a-45dc-be93-0e0fc018e751" facs="#zone_2b02f196-a6eb-4831-aa78-ed35c25cd62b"/>
+                        <measure n="145" label="145" xml:id="measure_443b0fbe-0f31-4c13-ba3b-dad8b1b538f7" facs="#zone_c5927ef2-a59c-464d-adfe-b957afba7498"/>
+                        <sb/>
+                        <pb/>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
