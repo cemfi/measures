@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei">
+    <meiHead>
+        <fileDesc>
+            <titleStmt/>
+            <pubStmt/>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="surface_8c2bb333-8bfe-4533-abf7-e28d4f94134c" n="1" ulx="0" uly="0" lrx="2940" lry="2055">
+                <graphic xml:id="graphic_c4eccb58-9a05-440b-83cc-1d62fc14c3c9" target="IMSLP104031-PMLP212609-gerson-part_4-m_je_t_aime-0000.jpg" type="facsimile" width="2940" height="2055"/>
+                <zone xml:id="zone_67f34fd4-9800-4f8e-9df6-06dc546c6b87" type="measure" ulx="234" uly="100" lrx="462" lry="464">
+                    <point x="462" y="464"/>
+                    <point x="234" y="462"/>
+                    <point x="234" y="100"/>
+                    <point x="462" y="100"/>
+                </zone>
+                <zone xml:id="zone_55f09bc2-65d8-4673-9ce3-1f910cf6d649" type="measure" ulx="422" uly="100" lrx="620" lry="464">
+                    <point x="620" y="464"/>
+                    <point x="422" y="464"/>
+                    <point x="422" y="100"/>
+                    <point x="620" y="100"/>
+                </zone>
+                <zone xml:id="zone_f3bcf7f8-65ef-49c4-8a86-fadd97489345" type="measure" ulx="580" uly="100" lrx="776" lry="464">
+                    <point x="776" y="464"/>
+                    <point x="580" y="464"/>
+                    <point x="580" y="100"/>
+                    <point x="776" y="100"/>
+                </zone>
+                <zone xml:id="zone_cfb30002-8733-4847-94b4-d9bb90e5db7f" type="measure" ulx="736" uly="100" lrx="910" lry="464">
+                    <point x="910" y="464"/>
+                    <point x="736" y="464"/>
+                    <point x="736" y="100"/>
+                    <point x="910" y="100"/>
+                </zone>
+                <zone xml:id="zone_20d81642-3b8d-454a-9662-9e3feb33d955" type="measure" ulx="870" uly="100" lrx="1032" lry="464">
+                    <point x="1032" y="464"/>
+                    <point x="870" y="464"/>
+                    <point x="870" y="100"/>
+                    <point x="1032" y="100"/>
+                </zone>
+                <zone xml:id="zone_32aa7d95-fb99-4715-a923-cec4d1126641" type="measure" ulx="992" uly="100" lrx="1192" lry="464">
+                    <point x="1192" y="464"/>
+                    <point x="992" y="464"/>
+                    <point x="992" y="100"/>
+                    <point x="1192" y="100"/>
+                </zone>
+                <zone xml:id="zone_0c44b6b7-f94c-4397-b4c1-fe951630f518" type="measure" ulx="1152" uly="100" lrx="1342" lry="464">
+                    <point x="1342" y="464"/>
+                    <point x="1152" y="464"/>
+                    <point x="1152" y="100"/>
+                    <point x="1342" y="100"/>
+                </zone>
+                <zone xml:id="zone_2906b251-c9f7-4dd7-9451-6a73154debf7" type="measure" ulx="1302" uly="100" lrx="1470" lry="464">
+                    <point x="1470" y="464"/>
+                    <point x="1302" y="464"/>
+                    <point x="1302" y="100"/>
+                    <point x="1470" y="100"/>
+                </zone>
+                <zone xml:id="zone_87fe0975-47ba-4b9c-95a9-07ee6112b16f" type="measure" ulx="1430" uly="100" lrx="1614" lry="464">
+                    <point x="1614" y="464"/>
+                    <point x="1430" y="464"/>
+                    <point x="1430" y="100"/>
+                    <point x="1614" y="100"/>
+                </zone>
+                <zone xml:id="zone_27a8dad4-3b57-4c0a-93eb-94273071a6d4" type="measure" ulx="1574" uly="100" lrx="1808" lry="464">
+                    <point x="1808" y="464"/>
+                    <point x="1574" y="464"/>
+                    <point x="1574" y="100"/>
+                    <point x="1808" y="100"/>
+                </zone>
+                <zone xml:id="zone_fcf4bdf7-7738-4160-bfee-9026c0401126" type="measure" ulx="1768" uly="100" lrx="1984" lry="464">
+                    <point x="1982" y="464"/>
+                    <point x="1768" y="464"/>
+                    <point x="1768" y="100"/>
+                    <point x="1984" y="100"/>
+                </zone>
+                <zone xml:id="zone_4f642614-89c9-4d33-82f8-10a6fa5fd595" type="measure" ulx="1942" uly="100" lrx="2110" lry="464">
+                    <point x="2110" y="464"/>
+                    <point x="1942" y="464"/>
+                    <point x="1944" y="100"/>
+                    <point x="2110" y="100"/>
+                </zone>
+                <zone xml:id="zone_9ff2ca71-48e8-4ad3-ac08-873577df5c2f" type="measure" ulx="2070" uly="100" lrx="2238" lry="464">
+                    <point x="2238" y="464"/>
+                    <point x="2070" y="464"/>
+                    <point x="2070" y="100"/>
+                    <point x="2238" y="100"/>
+                </zone>
+                <zone xml:id="zone_92b40ed0-0c4e-4f8a-a6fe-4757ffb991a1" type="measure" ulx="2198" uly="100" lrx="2360" lry="464">
+                    <point x="2360" y="464"/>
+                    <point x="2198" y="464"/>
+                    <point x="2198" y="100"/>
+                    <point x="2360" y="100"/>
+                </zone>
+                <zone xml:id="zone_8a7c45fa-426b-4905-b5db-38b64664e366" type="measure" ulx="2320" uly="100" lrx="2544" lry="464">
+                    <point x="2544" y="464"/>
+                    <point x="2320" y="464"/>
+                    <point x="2320" y="100"/>
+                    <point x="2544" y="102"/>
+                </zone>
+                <zone xml:id="zone_992645ea-78b8-4ed3-8e40-7196ed7a554d" type="measure" ulx="2504" uly="102" lrx="2710" lry="464">
+                    <point x="2710" y="464"/>
+                    <point x="2504" y="464"/>
+                    <point x="2504" y="102"/>
+                    <point x="2710" y="102"/>
+                </zone>
+                <zone xml:id="zone_2f5c1816-8e47-4374-895d-e8ad2219ad4c" type="measure" ulx="2670" uly="102" lrx="2852" lry="464">
+                    <point x="2852" y="102"/>
+                    <point x="2852" y="464"/>
+                    <point x="2670" y="464"/>
+                    <point x="2670" y="102"/>
+                </zone>
+                <zone xml:id="zone_9ef0a90a-029e-40f2-80ab-7ea2fc5072ad" type="measure" ulx="86" uly="464" lrx="324" lry="824">
+                    <point x="322" y="824"/>
+                    <point x="86" y="824"/>
+                    <point x="86" y="464"/>
+                    <point x="324" y="464"/>
+                </zone>
+                <zone xml:id="zone_4042ee09-bfca-4668-88bf-780d64b4dab7" type="measure" ulx="282" uly="464" lrx="496" lry="826">
+                    <point x="494" y="826"/>
+                    <point x="282" y="824"/>
+                    <point x="284" y="464"/>
+                    <point x="496" y="466"/>
+                </zone>
+                <zone xml:id="zone_a0337023-6b66-43fa-a4c3-0f73efe9b749" type="measure" ulx="454" uly="466" lrx="790" lry="826">
+                    <point x="790" y="826"/>
+                    <point x="454" y="826"/>
+                    <point x="456" y="466"/>
+                    <point x="790" y="466"/>
+                </zone>
+                <zone xml:id="zone_fb2d518a-7508-42b3-8ae3-dc37bd0e8c9f" type="measure" ulx="750" uly="466" lrx="1126" lry="826">
+                    <point x="1124" y="826"/>
+                    <point x="750" y="826"/>
+                    <point x="750" y="466"/>
+                    <point x="1126" y="466"/>
+                </zone>
+                <zone xml:id="zone_2a18b20e-5ef5-4c2b-b93d-1468be2a1f10" type="measure" ulx="1084" uly="466" lrx="1428" lry="828">
+                    <point x="1426" y="828"/>
+                    <point x="1084" y="826"/>
+                    <point x="1086" y="466"/>
+                    <point x="1428" y="468"/>
+                </zone>
+                <zone xml:id="zone_ea5cc5f6-d386-4265-8fb1-7eefcfb2338a" type="measure" ulx="1386" uly="468" lrx="1576" lry="828">
+                    <point x="1576" y="828"/>
+                    <point x="1386" y="828"/>
+                    <point x="1388" y="468"/>
+                    <point x="1576" y="468"/>
+                </zone>
+                <zone xml:id="zone_c550daf2-650d-40bd-b3ce-3573a3058895" type="measure" ulx="1536" uly="468" lrx="1772" lry="828">
+                    <point x="1772" y="828"/>
+                    <point x="1536" y="828"/>
+                    <point x="1536" y="468"/>
+                    <point x="1772" y="468"/>
+                </zone>
+                <zone xml:id="zone_7b6875b7-69d6-4585-85cf-49b4149e8fc7" type="measure" ulx="1732" uly="468" lrx="1938" lry="830">
+                    <point x="1936" y="830"/>
+                    <point x="1732" y="828"/>
+                    <point x="1732" y="468"/>
+                    <point x="1938" y="470"/>
+                </zone>
+                <zone xml:id="zone_efb38fa6-39e6-4389-a343-d30c21877690" type="measure" ulx="1896" uly="470" lrx="2126" lry="830">
+                    <point x="2124" y="830"/>
+                    <point x="1896" y="830"/>
+                    <point x="1898" y="470"/>
+                    <point x="2126" y="470"/>
+                </zone>
+                <zone xml:id="zone_64c22868-b6f9-46db-b867-0943bbba4ee6" type="measure" ulx="2084" uly="470" lrx="2294" lry="830">
+                    <point x="2294" y="830"/>
+                    <point x="2084" y="830"/>
+                    <point x="2086" y="470"/>
+                    <point x="2294" y="470"/>
+                </zone>
+                <zone xml:id="zone_cd5c455d-47d9-40e7-9c9d-3945db63c488" type="measure" ulx="2254" uly="470" lrx="2576" lry="830">
+                    <point x="2574" y="830"/>
+                    <point x="2254" y="830"/>
+                    <point x="2254" y="470"/>
+                    <point x="2576" y="470"/>
+                </zone>
+                <zone xml:id="zone_b3832dcd-b0de-412b-bcc1-34e73ea11065" type="measure" ulx="2534" uly="470" lrx="2854" lry="832">
+                    <point x="2854" y="472"/>
+                    <point x="2852" y="832"/>
+                    <point x="2534" y="830"/>
+                    <point x="2536" y="470"/>
+                </zone>
+                <zone xml:id="zone_c7697381-0368-4396-9bcc-8eb6138afa87" type="measure" ulx="90" uly="810" lrx="368" lry="1160">
+                    <point x="368" y="1160"/>
+                    <point x="92" y="1160"/>
+                    <point x="90" y="810"/>
+                    <point x="366" y="810"/>
+                </zone>
+                <zone xml:id="zone_aaaa0ecf-274c-4cc6-86ca-70aae1835ee4" type="measure" ulx="326" uly="810" lrx="634" lry="1160">
+                    <point x="634" y="1160"/>
+                    <point x="328" y="1160"/>
+                    <point x="326" y="810"/>
+                    <point x="634" y="810"/>
+                </zone>
+                <zone xml:id="zone_c8d6d3bd-b350-4556-b184-0923dad83a21" type="measure" ulx="594" uly="810" lrx="864" lry="1160">
+                    <point x="864" y="1160"/>
+                    <point x="594" y="1160"/>
+                    <point x="594" y="810"/>
+                    <point x="864" y="810"/>
+                </zone>
+                <zone xml:id="zone_373f3fed-95d8-4826-b6c6-84d393e60f61" type="measure" ulx="824" uly="808" lrx="1142" lry="1160">
+                    <point x="1142" y="1160"/>
+                    <point x="824" y="1160"/>
+                    <point x="824" y="810"/>
+                    <point x="1142" y="808"/>
+                </zone>
+                <zone xml:id="zone_66995927-daa6-4267-b26e-8a011d59644b" type="measure" ulx="1102" uly="808" lrx="1386" lry="1160">
+                    <point x="1386" y="1160"/>
+                    <point x="1102" y="1160"/>
+                    <point x="1102" y="808"/>
+                    <point x="1384" y="808"/>
+                </zone>
+                <zone xml:id="zone_f194c7ab-0faf-46e5-b9a1-4e69573f6ef5" type="measure" ulx="1344" uly="808" lrx="1586" lry="1160">
+                    <point x="1586" y="1160"/>
+                    <point x="1346" y="1160"/>
+                    <point x="1344" y="808"/>
+                    <point x="1586" y="808"/>
+                </zone>
+                <zone xml:id="zone_c35764a3-e453-475b-9aaa-ed7e8a461f3d" type="measure" ulx="1546" uly="808" lrx="1702" lry="1160">
+                    <point x="1702" y="1160"/>
+                    <point x="1546" y="1160"/>
+                    <point x="1546" y="808"/>
+                    <point x="1702" y="808"/>
+                </zone>
+                <zone xml:id="zone_695d99d0-610f-4808-be9e-50fbace292cf" type="measure" ulx="1662" uly="808" lrx="2068" lry="1160">
+                    <point x="2068" y="1160"/>
+                    <point x="1662" y="1160"/>
+                    <point x="1662" y="808"/>
+                    <point x="2068" y="808"/>
+                </zone>
+                <zone xml:id="zone_6a0dd02e-062b-4b0b-8c3a-11fa2f9cb528" type="measure" ulx="2028" uly="808" lrx="2418" lry="1160">
+                    <point x="2418" y="1158"/>
+                    <point x="2028" y="1160"/>
+                    <point x="2028" y="808"/>
+                    <point x="2416" y="808"/>
+                </zone>
+                <zone xml:id="zone_6326c54f-1be6-414b-a6f2-b507ffccf570" type="measure" ulx="2376" uly="808" lrx="2830" lry="1158">
+                    <point x="2830" y="1158"/>
+                    <point x="2378" y="1158"/>
+                    <point x="2376" y="808"/>
+                    <point x="2830" y="808"/>
+                </zone>
+                <zone xml:id="zone_a0e637c4-8ec2-49c8-920f-98df7dbd80c6" type="measure" ulx="68" uly="1162" lrx="496" lry="1550">
+                    <point x="488" y="1550"/>
+                    <point x="68" y="1540"/>
+                    <point x="78" y="1162"/>
+                    <point x="496" y="1174"/>
+                </zone>
+                <zone xml:id="zone_98c96a09-b39c-426a-aba2-bf9c5dafad7b" type="measure" ulx="448" uly="1172" lrx="798" lry="1558">
+                    <point x="788" y="1558"/>
+                    <point x="448" y="1548"/>
+                    <point x="458" y="1172"/>
+                    <point x="798" y="1180"/>
+                </zone>
+                <zone xml:id="zone_365f9712-21bf-42f0-ba5a-3bd43896d564" type="measure" ulx="748" uly="1180" lrx="1002" lry="1562">
+                    <point x="992" y="1562"/>
+                    <point x="748" y="1556"/>
+                    <point x="758" y="1180"/>
+                    <point x="1002" y="1186"/>
+                </zone>
+                <zone xml:id="zone_b601f443-8570-4be6-a530-68c32000e896" type="measure" ulx="952" uly="1184" lrx="1260" lry="1568">
+                    <point x="1252" y="1568"/>
+                    <point x="952" y="1562"/>
+                    <point x="962" y="1184"/>
+                    <point x="1260" y="1192"/>
+                </zone>
+                <zone xml:id="zone_bd794b50-0e36-486e-b438-d3e252ca2c61" type="measure" ulx="1212" uly="1192" lrx="1602" lry="1578">
+                    <point x="1594" y="1578"/>
+                    <point x="1212" y="1568"/>
+                    <point x="1220" y="1192"/>
+                    <point x="1602" y="1200"/>
+                </zone>
+                <zone xml:id="zone_802616b3-c745-416e-a99c-a477d978298b" type="measure" ulx="1554" uly="1200" lrx="1914" lry="1584">
+                    <point x="1906" y="1584"/>
+                    <point x="1554" y="1576"/>
+                    <point x="1562" y="1200"/>
+                    <point x="1914" y="1208"/>
+                </zone>
+                <zone xml:id="zone_679d9e08-afb0-45d6-a27f-1432b7e8fce9" type="measure" ulx="1898" uly="1176" lrx="2086" lry="1614">
+                    <point x="2086" y="1614"/>
+                    <point x="1898" y="1614"/>
+                    <point x="1898" y="1178"/>
+                    <point x="2084" y="1176"/>
+                </zone>
+                <zone xml:id="zone_c676f9d5-0ad7-429f-b565-5102e2509a74" type="measure" ulx="2044" uly="1176" lrx="2294" lry="1614">
+                    <point x="2294" y="1612"/>
+                    <point x="2046" y="1614"/>
+                    <point x="2044" y="1176"/>
+                    <point x="2292" y="1176"/>
+                </zone>
+                <zone xml:id="zone_04c8bbde-5b57-47f1-adac-a90dabefc43c" type="measure" ulx="2252" uly="1176" lrx="2396" lry="1612">
+                    <point x="2396" y="1612"/>
+                    <point x="2254" y="1612"/>
+                    <point x="2252" y="1176"/>
+                    <point x="2394" y="1176"/>
+                </zone>
+                <zone xml:id="zone_cdcb6e99-cabc-41bd-9d3f-e742632fc49a" type="measure" ulx="2354" uly="1176" lrx="2584" lry="1612">
+                    <point x="2584" y="1612"/>
+                    <point x="2356" y="1612"/>
+                    <point x="2354" y="1176"/>
+                    <point x="2582" y="1176"/>
+                </zone>
+                <zone xml:id="zone_13e1da98-1e13-47cb-8cda-c2a9370b44ad" type="measure" ulx="2542" uly="1174" lrx="2726" lry="1612">
+                    <point x="2726" y="1612"/>
+                    <point x="2544" y="1612"/>
+                    <point x="2542" y="1176"/>
+                    <point x="2724" y="1174"/>
+                </zone>
+                <zone xml:id="zone_74995a94-fb74-45b4-abf9-24f713847026" type="measure" ulx="2684" uly="1174" lrx="2798" lry="1612">
+                    <point x="2798" y="1610"/>
+                    <point x="2686" y="1612"/>
+                    <point x="2684" y="1174"/>
+                    <point x="2796" y="1174"/>
+                </zone>
+                <zone xml:id="zone_8f6708d6-57c8-4f01-bc50-277aabb208d5" type="measure" ulx="2756" uly="1174" lrx="2872" lry="1612">
+                    <point x="2872" y="1610"/>
+                    <point x="2758" y="1612"/>
+                    <point x="2756" y="1174"/>
+                    <point x="2872" y="1174"/>
+                </zone>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="page_1d2d66c3-b53c-467a-9523-9bc1b0c56e26" n="1" label="">
+                <score>
+                    <scoreDef/>
+                    <section>
+                        <pb/>
+                        <measure n="1" label="1" xml:id="measure_066eb763-7cad-4801-8305-a31911121f66" facs="#zone_67f34fd4-9800-4f8e-9df6-06dc546c6b87"/>
+                        <measure n="2" label="2" xml:id="measure_3fcb13c6-efac-425a-9726-f963ab64ab21" facs="#zone_55f09bc2-65d8-4673-9ce3-1f910cf6d649"/>
+                        <measure n="3" label="3" xml:id="measure_c3b4e65a-66be-46d2-b940-02d7234f150e" facs="#zone_f3bcf7f8-65ef-49c4-8a86-fadd97489345"/>
+                        <measure n="4" label="4" xml:id="measure_11efcf07-6c78-4e17-ab8f-7a8a0cc76bf2" facs="#zone_cfb30002-8733-4847-94b4-d9bb90e5db7f"/>
+                        <measure n="5" label="5" xml:id="measure_cefde5be-2a2b-4fdd-96aa-2ac6ea837467" facs="#zone_20d81642-3b8d-454a-9662-9e3feb33d955"/>
+                        <measure n="6" label="6" xml:id="measure_cd874fa2-0c45-42fd-bdc7-811b56da9e19" facs="#zone_32aa7d95-fb99-4715-a923-cec4d1126641"/>
+                        <measure n="7" label="7" xml:id="measure_928725ec-e3e8-4fd8-86de-f49396c0a066" facs="#zone_0c44b6b7-f94c-4397-b4c1-fe951630f518"/>
+                        <measure n="8" label="8" xml:id="measure_689afc80-0d77-4412-8602-00902198d2c4" facs="#zone_2906b251-c9f7-4dd7-9451-6a73154debf7"/>
+                        <measure n="9" label="9" xml:id="measure_9ce4499b-f3f9-4c44-9f85-2ed453b1fb35" facs="#zone_87fe0975-47ba-4b9c-95a9-07ee6112b16f"/>
+                        <measure n="10" label="10" xml:id="measure_5805e88c-0497-487c-b906-7a936a246073" facs="#zone_27a8dad4-3b57-4c0a-93eb-94273071a6d4"/>
+                        <measure n="11" label="11" xml:id="measure_d502ded4-c93d-42d9-8d84-db2be17077bf" facs="#zone_fcf4bdf7-7738-4160-bfee-9026c0401126"/>
+                        <measure n="12" label="12" xml:id="measure_23c2cf5c-6b0e-4b68-9c2b-1b819e0f455d" facs="#zone_4f642614-89c9-4d33-82f8-10a6fa5fd595"/>
+                        <measure n="13" label="13" xml:id="measure_f3496553-4fc8-4889-8b1d-1fa40309f66c" facs="#zone_9ff2ca71-48e8-4ad3-ac08-873577df5c2f"/>
+                        <measure n="14" label="14" xml:id="measure_d60a5664-b7b3-4b8d-9351-0647a5e757ec" facs="#zone_92b40ed0-0c4e-4f8a-a6fe-4757ffb991a1"/>
+                        <measure n="15" label="15" xml:id="measure_91d90505-b907-42ba-b7fa-20969bebb3eb" facs="#zone_8a7c45fa-426b-4905-b5db-38b64664e366"/>
+                        <measure n="16" label="16" xml:id="measure_5f911e6a-39c8-442f-a4a2-97a13a3ea574" facs="#zone_992645ea-78b8-4ed3-8e40-7196ed7a554d"/>
+                        <measure n="17" label="17" xml:id="measure_9b064607-284c-4a21-b5e6-87569809a7d2" facs="#zone_2f5c1816-8e47-4374-895d-e8ad2219ad4c"/>
+                        <sb/>
+                        <measure n="18" label="18" xml:id="measure_3afec723-0f8f-46d9-a148-fce7964e901a" facs="#zone_9ef0a90a-029e-40f2-80ab-7ea2fc5072ad"/>
+                        <measure n="19" label="19" xml:id="measure_7118550f-f15f-4062-9ae3-053ef4a50ac2" facs="#zone_4042ee09-bfca-4668-88bf-780d64b4dab7"/>
+                        <measure n="20" label="20" xml:id="measure_6239ed14-0a61-4a61-87e8-82155b0da05f" facs="#zone_a0337023-6b66-43fa-a4c3-0f73efe9b749"/>
+                        <measure n="21" label="21" xml:id="measure_8b994709-74f3-4980-a152-2019ca44c8bc" facs="#zone_fb2d518a-7508-42b3-8ae3-dc37bd0e8c9f"/>
+                        <measure n="22" label="22" xml:id="measure_946589c0-62a4-4533-9987-a5dff8266a48" facs="#zone_2a18b20e-5ef5-4c2b-b93d-1468be2a1f10"/>
+                        <measure n="23" label="23" xml:id="measure_716e401d-5191-43b0-9c79-16c64a11cded" facs="#zone_ea5cc5f6-d386-4265-8fb1-7eefcfb2338a"/>
+                        <measure n="24" label="24" xml:id="measure_ab155d43-dcc4-405c-9ec3-4836278e8e16" facs="#zone_c550daf2-650d-40bd-b3ce-3573a3058895"/>
+                        <measure n="25" label="25" xml:id="measure_570833e8-bf3f-4e77-9309-827c6179ff18" facs="#zone_7b6875b7-69d6-4585-85cf-49b4149e8fc7"/>
+                        <measure n="26" label="26" xml:id="measure_35c256d5-0dbb-4bca-bcb9-39751e2e12c1" facs="#zone_efb38fa6-39e6-4389-a343-d30c21877690"/>
+                        <measure n="27" label="27" xml:id="measure_5a6317e0-c57e-4365-a869-11c4634e1c34" facs="#zone_64c22868-b6f9-46db-b867-0943bbba4ee6"/>
+                        <measure n="28" label="28" xml:id="measure_7b5b8ac2-fa65-499f-9233-5a0ef240c888" facs="#zone_cd5c455d-47d9-40e7-9c9d-3945db63c488"/>
+                        <measure n="29" label="29" xml:id="measure_9ff51dd4-a0b2-4183-b7f3-9f2d0ff7cad0" facs="#zone_b3832dcd-b0de-412b-bcc1-34e73ea11065"/>
+                        <sb/>
+                        <measure n="30" label="30" xml:id="measure_926b802a-6827-4902-8492-cf2b45fbd8d7" facs="#zone_c7697381-0368-4396-9bcc-8eb6138afa87"/>
+                        <measure n="31" label="31" xml:id="measure_93f26764-2ec5-470d-8d89-bacfb53c51ba" facs="#zone_aaaa0ecf-274c-4cc6-86ca-70aae1835ee4"/>
+                        <measure n="32" label="32" xml:id="measure_cec09c41-79ea-4a28-be6e-6e6d50e404eb" facs="#zone_c8d6d3bd-b350-4556-b184-0923dad83a21"/>
+                        <measure n="33" label="33" xml:id="measure_7108ffcf-411c-4b09-8c12-78de9eb19eaf" facs="#zone_373f3fed-95d8-4826-b6c6-84d393e60f61"/>
+                        <measure n="34" label="34" xml:id="measure_07b270a0-3a78-42f3-af4b-f3574d56f1c9" facs="#zone_66995927-daa6-4267-b26e-8a011d59644b"/>
+                        <measure n="35" label="35" xml:id="measure_e2ad96d8-ceb5-4c14-809d-33e7ac785cf8" facs="#zone_f194c7ab-0faf-46e5-b9a1-4e69573f6ef5"/>
+                        <measure n="36" label="36" xml:id="measure_b3befd95-f44b-417d-8b58-b0b8f348765a" facs="#zone_c35764a3-e453-475b-9aaa-ed7e8a461f3d"/>
+                        <measure n="37" label="37" xml:id="measure_9ca2ddcf-495c-489d-b73a-8d24247018de" facs="#zone_695d99d0-610f-4808-be9e-50fbace292cf"/>
+                        <measure n="38" label="38" xml:id="measure_e7ca0b2f-e916-46f9-b404-12bfd5e39e42" facs="#zone_6a0dd02e-062b-4b0b-8c3a-11fa2f9cb528"/>
+                        <measure n="39" label="39" xml:id="measure_6fbe665b-bf1d-4959-9653-d8cff3cc880d" facs="#zone_6326c54f-1be6-414b-a6f2-b507ffccf570"/>
+                        <sb/>
+                        <measure n="40" label="40" xml:id="measure_d9860fbb-4d9a-4a4f-a4d6-f2322da3b54f" facs="#zone_a0e637c4-8ec2-49c8-920f-98df7dbd80c6"/>
+                        <measure n="41" label="41" xml:id="measure_14d5151f-69ca-437f-919a-003035e21b24" facs="#zone_98c96a09-b39c-426a-aba2-bf9c5dafad7b"/>
+                        <measure n="42" label="42" xml:id="measure_ec86fc4c-2ad0-4414-8f87-aabfdf136aaa" facs="#zone_365f9712-21bf-42f0-ba5a-3bd43896d564"/>
+                        <measure n="43" label="43" xml:id="measure_a906cf58-a2c6-490b-8347-2579140c4ff1" facs="#zone_b601f443-8570-4be6-a530-68c32000e896"/>
+                        <measure n="44" label="44" xml:id="measure_c5f77004-b804-47de-acf3-c8622d544dcf" facs="#zone_bd794b50-0e36-486e-b438-d3e252ca2c61"/>
+                        <measure n="45" label="45" xml:id="measure_250354b4-40a6-4645-a4fd-e91b875f0f42" facs="#zone_802616b3-c745-416e-a99c-a477d978298b"/>
+                        <measure n="46" label="46" xml:id="measure_bbb781a9-d8f5-4a79-9fee-106e947a52d2" facs="#zone_679d9e08-afb0-45d6-a27f-1432b7e8fce9"/>
+                        <measure n="47" label="47" xml:id="measure_5240c851-1204-4cf7-8060-10be53ff6346" facs="#zone_c676f9d5-0ad7-429f-b565-5102e2509a74"/>
+                        <measure n="48" label="48" xml:id="measure_6973ae3d-a66e-4341-9f56-7ac4c9d46560" facs="#zone_04c8bbde-5b57-47f1-adac-a90dabefc43c"/>
+                        <measure n="49" label="49" xml:id="measure_afd2da4f-18bc-4c7f-beb4-4701dea06fd2" facs="#zone_cdcb6e99-cabc-41bd-9d3f-e742632fc49a"/>
+                        <measure n="50" label="50" xml:id="measure_7708fe8f-c8f0-458a-a43c-7d641432de57" facs="#zone_13e1da98-1e13-47cb-8cda-c2a9370b44ad"/>
+                        <measure n="51" label="51" xml:id="measure_43e1b9c2-8e78-432f-a638-d5ea60ea8aa4" facs="#zone_74995a94-fb74-45b4-abf9-24f713847026"/>
+                        <measure n="52" label="52" xml:id="measure_a54f68e5-2733-4430-acd2-2f67f24e42a6" facs="#zone_8f6708d6-57c8-4f01-bc50-277aabb208d5"/>
+                        <sb/>
+                        <pb/>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
