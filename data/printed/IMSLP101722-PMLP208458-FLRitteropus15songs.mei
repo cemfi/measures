@@ -8,51 +8,6 @@
     </meiHead>
     <music>
         <facsimile>
-            <surface xml:id="surface_b3eecc36-fa3f-4dbb-9820-94f7bfdbf601" n="1" ulx="0" uly="0" lrx="650" lry="932">
-                <graphic xml:id="graphic_3cb2d985-8054-45f6-970d-e473a26148d5" target="IMSLP08991-Brahms_-_Op._32__No._2__Vol._2_-0000.jpg" type="facsimile" width="650" height="932"/>
-                <zone xml:id="zone_91544f1d-50a0-404a-b859-89f7b7a35f63" type="measure" ulx="91" uly="121" lrx="388" lry="329"/>
-                <zone xml:id="zone_ecd87d2b-5346-43bb-928f-2ff75830ec10" type="measure" ulx="362" uly="121" lrx="584" lry="329"/>
-                <zone xml:id="zone_d27ea6a4-aff2-4c56-a88a-e48f3a6bcfb1" type="measure" ulx="45" uly="326" lrx="266" lry="516"/>
-                <zone xml:id="zone_53eab538-7510-4a6b-a3bc-33ba22d2379f" type="measure" ulx="240" uly="326" lrx="428" lry="516"/>
-                <zone xml:id="zone_0f118a80-afb7-48af-8918-10954507f789" type="measure" ulx="402" uly="326" lrx="590" lry="516"/>
-                <zone xml:id="zone_88e961c7-ba56-4fd0-84f5-2f32e37372cd" type="measure" ulx="47" uly="523" lrx="282" lry="698"/>
-                <zone xml:id="zone_2059f891-cd54-4eb0-b84c-ecd45e0097f0" type="measure" ulx="256" uly="523" lrx="450" lry="698"/>
-                <zone xml:id="zone_61e758a5-de6d-4996-8676-b4404918bced" type="measure" ulx="424" uly="523" lrx="594" lry="698"/>
-                <zone xml:id="zone_6e469d5d-412f-497f-83ec-9aaf8332c47d" type="measure" ulx="45" uly="703" lrx="258" lry="894"/>
-                <zone xml:id="zone_ab89bf00-5960-4851-8a35-1932ea4d8513" type="measure" ulx="232" uly="703" lrx="406" lry="894"/>
-                <zone xml:id="zone_9a852ba2-73a7-4ca9-a928-4f61dfb2d337" type="measure" ulx="380" uly="703" lrx="594" lry="894"/>
-            </surface>
-            <surface xml:id="surface_a857b16c-c8d2-4028-b32c-6611f59e3919" n="2" ulx="0" uly="0" lrx="650" lry="932">
-                <graphic xml:id="graphic_f2cdaec4-3b1d-4508-83b9-23741d2d5504" target="IMSLP08991-Brahms_-_Op._32__No._2__Vol._2_-0001.jpg" type="facsimile" width="650" height="932"/>
-                <zone xml:id="zone_889b27a1-407e-4a76-ba30-be6158625d65" type="measure" ulx="60" uly="54" lrx="291" lry="257"/>
-                <zone xml:id="zone_754db4af-a3f2-4d63-a1e5-01c4eecc90ba" type="measure" ulx="265" uly="54" lrx="458" lry="257"/>
-                <zone xml:id="zone_cead7c99-d869-427c-bd0b-4213b2f0081d" type="measure" ulx="432" uly="54" lrx="607" lry="257"/>
-                <zone xml:id="zone_8c530163-f830-45be-8e0a-bf4ca01da5f2" type="measure" ulx="59" uly="267" lrx="294" lry="463"/>
-                <zone xml:id="zone_01ffc0cb-0489-4a8a-943a-fef942fdda0e" type="measure" ulx="268" uly="267" lrx="464" lry="463"/>
-                <zone xml:id="zone_52e11536-46a6-47c3-9c8b-f314ad3c2d6f" type="measure" ulx="438" uly="267" lrx="606" lry="463"/>
-                <zone xml:id="zone_3a1604b3-98e7-4ae0-91ea-10d1d9d452ef" type="measure" ulx="61" uly="475" lrx="287" lry="668"/>
-                <zone xml:id="zone_041e2dc9-b452-4dc2-901a-44585edec78b" type="measure" ulx="261" uly="475" lrx="447" lry="668"/>
-                <zone xml:id="zone_84d76e98-5fc9-493e-8453-0b9d4eebf165" type="measure" ulx="421" uly="475" lrx="605" lry="668"/>
-                <zone xml:id="zone_0d461665-6b49-4da9-853d-97b88312eaf1" type="measure" ulx="59" uly="674" lrx="300" lry="888"/>
-                <zone xml:id="zone_276e00a2-b2e9-4d0f-8987-5aac660377e1" type="measure" ulx="274" uly="674" lrx="461" lry="888"/>
-                <zone xml:id="zone_6209ebaf-b329-41eb-8d72-8910ce9aaaa5" type="measure" ulx="435" uly="674" lrx="604" lry="888"/>
-            </surface>
-            <surface xml:id="surface_ba1153ac-1ce9-46cc-a201-8f9f74371d47" n="3" ulx="0" uly="0" lrx="650" lry="932">
-                <graphic xml:id="graphic_5e8d3710-cec1-412b-85f0-4226692c8e90" target="IMSLP08991-Brahms_-_Op._32__No._2__Vol._2_-0002.jpg" type="facsimile" width="650" height="932"/>
-                <zone xml:id="zone_04451ba8-f819-4dcf-97ff-f5e8c5ee5bb1" type="measure" ulx="34" uly="60" lrx="265" lry="267"/>
-                <zone xml:id="zone_8cad7b70-d388-48dc-85c6-7601c925cc4b" type="measure" ulx="239" uly="60" lrx="431" lry="267"/>
-                <zone xml:id="zone_8c55a027-3fcd-48d9-b9fc-3effc682bc69" type="measure" ulx="405" uly="60" lrx="581" lry="267"/>
-                <zone xml:id="zone_49686290-3440-47e1-9595-1e6c1a37c196" type="measure" ulx="35" uly="280" lrx="271" lry="490"/>
-                <zone xml:id="zone_afe553d2-8719-4280-9c02-38791f2048bd" type="measure" ulx="245" uly="280" lrx="435" lry="490"/>
-                <zone xml:id="zone_4094ab28-0e8e-4229-ac07-c246dc44e22d" type="measure" ulx="409" uly="280" lrx="585" lry="490"/>
-                <zone xml:id="zone_e8c7e27e-4e99-452f-bb34-861edc89a1a0" type="measure" ulx="32" uly="499" lrx="267" lry="717"/>
-                <zone xml:id="zone_0b64168b-b2fd-4614-b156-41d4401a526c" type="measure" ulx="241" uly="499" lrx="428" lry="717"/>
-                <zone xml:id="zone_aa3227c2-e8ee-4ee4-ae10-94d8871101b4" type="measure" ulx="402" uly="499" lrx="593" lry="717"/>
-                <zone xml:id="zone_e1ad7647-f3f0-489c-aa26-257d8e3fe792" type="measure" ulx="28" uly="719" lrx="239" lry="888"/>
-                <zone xml:id="zone_3c31ad99-758c-4fb1-a9f6-59163dd7312b" type="measure" ulx="213" uly="719" lrx="375" lry="888"/>
-                <zone xml:id="zone_36a0aff1-ba7f-48cf-91d9-fa4c33bc981e" type="measure" ulx="349" uly="719" lrx="498" lry="888"/>
-                <zone xml:id="zone_6d62350a-5ad1-4859-b123-b7de7a711b6a" type="measure" ulx="472" uly="719" lrx="586" lry="888"/>
-            </surface>
             <surface xml:id="surface_f9b22f46-b4ca-444e-8e88-2af69f3fcf46" n="1" ulx="0" uly="0" lrx="830" lry="1080">
                 <graphic xml:id="graphic_b4ac2d37-1137-4e53-b879-5702dc499538" target="IMSLP101722-PMLP208458-FLRitteropus15songs-0001.jpg" type="facsimile" width="830" height="1080"/>
                 <zone xml:id="zone_09ebe2a1-d8a1-49d5-abf5-fdaec6c9efe7" type="measure" ulx="193" uly="235" lrx="435" lry="465"/>
