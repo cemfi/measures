@@ -8,18 +8,6 @@
     </meiHead>
     <music>
         <facsimile>
-            <surface xml:id="surface_4b2742f5-1d0b-4519-86fc-7d9df767d039" n="1" ulx="0" uly="0" lrx="1660" lry="2320">
-                <graphic xml:id="graphic_6cd6195a-2c87-4545-9f28-c7deda59ba43" target="IMSLP273575-PMLP444065-6._Gl__ck-0000.jpg" type="facsimile" width="1660" height="2320"/> 
-            </surface>
-            <surface xml:id="surface_6cf000db-b576-437d-bdd7-7959d9eed4d1" n="2" ulx="0" uly="0" lrx="1660" lry="2320">
-                <graphic xml:id="graphic_5f1f767a-42b7-4152-8e1d-c28f4a7f1481" target="IMSLP273575-PMLP444065-6._Gl__ck-0001.jpg" type="facsimile" width="1660" height="2320"/> 
-            </surface>
-            <surface xml:id="surface_c9f8c417-1b82-41f8-a426-b43bf4370fa1" n="3" ulx="0" uly="0" lrx="1660" lry="2320">
-                <graphic xml:id="graphic_1a233f0b-d141-4d7c-bc65-947e5b073c7d" target="IMSLP273575-PMLP444065-6._Gl__ck-0002.jpg" type="facsimile" width="1660" height="2320"/> 
-            </surface>
-            <surface xml:id="surface_bb850a32-c481-4482-9ac2-fba2c60ebfd2" n="4" ulx="0" uly="0" lrx="1660" lry="2320">
-                <graphic xml:id="graphic_221cc095-8f78-4888-9a53-3824d197eb71" target="IMSLP273575-PMLP444065-6._Gl__ck-0003.jpg" type="facsimile" width="1660" height="2320"/> 
-            </surface>
             <surface xml:id="surface_173a4258-5c7e-4415-ac49-ed7fb7cf5eb1" n="5" ulx="0" uly="0" lrx="1716" lry="2110">
                 <graphic xml:id="graphic_c79f82b8-661d-4532-be52-9aad38c2c5d1" target="IMSLP290305-PMLP471279-FWachs_La_coupe-0002.jpg" type="facsimile" width="1716" height="2110"/>
                 <zone xml:id="zone_fb666adc-abe4-4ed6-9aad-1b1787df017a" type="measure" ulx="202" uly="417" lrx="529" lry="722"/>

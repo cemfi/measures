@@ -8,30 +8,6 @@
     </meiHead>
     <music>
         <facsimile>
-            <surface xml:id="surface_5179da93-5bfd-46b7-ab37-ae8ae40ec7d4" n="1" ulx="0" uly="0" lrx="2472" lry="3495">
-                <graphic xml:id="graphic_6671f820-daa4-4d48-895f-d1e811b8544a" target="IMSLP08631-Zadora_A_Paganini_Caprice-0000.jpg" type="facsimile" width="2472" height="3495"/> 
-            </surface>
-            <surface xml:id="surface_2f78ccec-0723-409d-8ba6-562f5fef2757" n="2" ulx="0" uly="0" lrx="2472" lry="3495">
-                <graphic xml:id="graphic_a4de0b5d-e0d9-44b2-952f-bc66d4bf2746" target="IMSLP08631-Zadora_A_Paganini_Caprice-0001.jpg" type="facsimile" width="2472" height="3495"/> 
-            </surface>
-            <surface xml:id="surface_938b736c-3415-4b4d-ab8a-a9ce752b0f91" n="3" ulx="0" uly="0" lrx="2472" lry="3495">
-                <graphic xml:id="graphic_f7ff5093-64ec-455d-9f2f-9c1279c3a2bf" target="IMSLP08631-Zadora_A_Paganini_Caprice-0002.jpg" type="facsimile" width="2472" height="3495"/> 
-            </surface>
-            <surface xml:id="surface_5f6095e1-5341-45d4-aede-16d319da605b" n="4" ulx="0" uly="0" lrx="2472" lry="3495">
-                <graphic xml:id="graphic_d0c98727-a04e-4e42-a37e-b7f81a5aaff2" target="IMSLP08631-Zadora_A_Paganini_Caprice-0003.jpg" type="facsimile" width="2472" height="3495"/> 
-            </surface>
-            <surface xml:id="surface_cc7d4387-b7f3-4cc9-b47b-45c7be16729d" n="5" ulx="0" uly="0" lrx="2472" lry="3495">
-                <graphic xml:id="graphic_56efa89a-5052-4774-b3ad-5f10e77cae04" target="IMSLP08631-Zadora_A_Paganini_Caprice-0004.jpg" type="facsimile" width="2472" height="3495"/> 
-            </surface>
-            <surface xml:id="surface_d6a028c6-3399-46a6-b31e-17209089848a" n="6" ulx="0" uly="0" lrx="2472" lry="3495">
-                <graphic xml:id="graphic_0dbf0206-f155-4b5b-9c0b-eecb9e5fd266" target="IMSLP08631-Zadora_A_Paganini_Caprice-0005.jpg" type="facsimile" width="2472" height="3495"/> 
-            </surface>
-            <surface xml:id="surface_3b2f7707-b0ef-48c7-b696-33b6d56a0158" n="7" ulx="0" uly="0" lrx="2472" lry="3495">
-                <graphic xml:id="graphic_d46b1692-f3b4-432b-83b9-757ab5cc72a2" target="IMSLP08631-Zadora_A_Paganini_Caprice-0006.jpg" type="facsimile" width="2472" height="3495"/> 
-            </surface>
-            <surface xml:id="surface_a93eeed7-8a6b-4624-90a3-f0feb1a2855c" n="8" ulx="0" uly="0" lrx="2472" lry="3495">
-                <graphic xml:id="graphic_7a879079-dff4-4e25-8343-05471dcc2d02" target="IMSLP08631-Zadora_A_Paganini_Caprice-0007.jpg" type="facsimile" width="2472" height="3495"/> 
-            </surface>
             <surface xml:id="surface_b3eecc36-fa3f-4dbb-9820-94f7bfdbf601" n="9" ulx="0" uly="0" lrx="650" lry="932">
                 <graphic xml:id="graphic_3cb2d985-8054-45f6-970d-e473a26148d5" target="IMSLP08991-Brahms_-_Op._32__No._2__Vol._2_-0000.jpg" type="facsimile" width="650" height="932"/>
                 <zone xml:id="zone_91544f1d-50a0-404a-b859-89f7b7a35f63" type="measure" ulx="91" uly="121" lrx="388" lry="329"/>

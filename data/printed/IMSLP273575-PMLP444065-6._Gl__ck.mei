@@ -8,21 +8,6 @@
     </meiHead>
     <music>
         <facsimile>
-            <surface xml:id="surface_8bf1cf43-bf8d-45f4-94dd-dbda8ec684db" n="1" ulx="0" uly="0" lrx="1660" lry="2320">
-                <graphic xml:id="graphic_99042aea-289b-456a-9a6f-f45cf2bf941f" target="IMSLP273573-PMLP444065-4._J__nglingsklage-0000.jpg" type="facsimile" width="1660" height="2320"/>
-            </surface>
-            <surface xml:id="surface_805ec9ba-7e25-4bd2-8460-fe125c93924e" n="2" ulx="0" uly="0" lrx="1660" lry="2320">
-                <graphic xml:id="graphic_4002efeb-c51d-40ce-8add-1978e668efe8" target="IMSLP273573-PMLP444065-4._J__nglingsklage-0001.jpg" type="facsimile" width="1660" height="2320"/>
-            </surface>
-            <surface xml:id="surface_cf5995c4-6601-40d1-bde7-7a9b40556c6a" n="3" ulx="0" uly="0" lrx="1660" lry="2320">
-                <graphic xml:id="graphic_c8d115c0-64e3-4592-b828-9980cfda98ad" target="IMSLP273573-PMLP444065-4._J__nglingsklage-0002.jpg" type="facsimile" width="1660" height="2320"/>
-            </surface>
-            <surface xml:id="surface_b7ecb6e7-7651-4966-bf1d-1ba43e87c09f" n="4" ulx="0" uly="0" lrx="1660" lry="2320">
-                <graphic xml:id="graphic_6b8b2a6e-ebf1-4783-8175-e9b9dff54791" target="IMSLP273574-PMLP444065-5._Beim_Scheiden-0000.jpg" type="facsimile" width="1660" height="2320"/>
-            </surface>
-            <surface xml:id="surface_1a53b8b3-bce9-4034-a017-39c48888d6be" n="5" ulx="0" uly="0" lrx="1660" lry="2320">
-                <graphic xml:id="graphic_5a1f4607-3412-45f8-86d1-861f9a504965" target="IMSLP273574-PMLP444065-5._Beim_Scheiden-0001.jpg" type="facsimile" width="1660" height="2320"/>
-            </surface>
             <surface xml:id="surface_4b2742f5-1d0b-4519-86fc-7d9df767d039" n="6" ulx="0" uly="0" lrx="1660" lry="2320">
                 <graphic xml:id="graphic_6cd6195a-2c87-4545-9f28-c7deda59ba43" target="IMSLP273575-PMLP444065-6._Gl__ck-0000.jpg" type="facsimile" width="1660" height="2320"/>
                 <zone xml:id="zone_04ec520e-a401-4436-82be-b696e93350a0" type="measure" ulx="130" uly="200" lrx="641" lry="543"/>

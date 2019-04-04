@@ -8,66 +8,6 @@
     </meiHead>
     <music>
         <facsimile>
-            <surface xml:id="surface_03713a05-948e-43e7-859e-fbe6b7436347" n="1" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_a3a993d8-e90e-411b-87cd-c824a67c37ce" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0000.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_3e7b0196-5f0c-4b0b-8da4-74e7e0eadcbb" n="2" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_9be69292-e5b9-4c00-b7fe-a80569577b16" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0001.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_2cb6619a-b6f1-4e81-8478-feaedd2f5f10" n="3" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_64ddf776-0565-4e8b-99d9-831a8b53c1ce" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0002.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_0d6f8bd1-a5e6-408e-aaeb-f7aae48e0c6a" n="4" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_d29b8633-44b9-49dc-9d78-6054839d750a" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0003.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_18659238-bf6f-40b2-b32e-2a99b8745e9e" n="5" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_e2ba266f-44aa-449e-a594-17a457b6b133" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0004.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_20e04c34-abb0-4336-939a-3443990da05a" n="6" ulx="0" uly="0" lrx="3769" lry="2844">
-                <graphic xml:id="graphic_e23bb55d-09dc-469e-8530-14ad4ccdd6e1" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0005.jpg" type="facsimile" width="3769" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_e858c156-ad06-4736-9136-b9069c3104de" n="7" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_3775d431-d577-4041-bf3e-17ed2c216b81" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0006.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_88f487a5-5fae-464a-aae5-aeac49060539" n="8" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_8e30c1a1-74fc-410b-b57a-d2c0168de585" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0007.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_253c41b6-7751-48fd-a0f4-70763514742a" n="9" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_4af21d1a-f522-457b-aed2-8b2fbbf2dbc1" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0008.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_867b3525-fd06-43e4-a848-15bce7526f82" n="10" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_f4fc7ef9-63c4-4942-bbc0-dc361fc66ff7" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0009.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_add526bf-ccb7-493b-adc1-b60db27d3b54" n="11" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_1c8a5bd2-ad55-4dd3-b10e-05edc02fbb60" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0010.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_eebdfe33-50de-4139-80d8-2fcd4a876cf6" n="12" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_f3cedef6-9093-4f12-beea-7cbba897e42d" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0011.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_1981ad5a-5135-4503-9699-e966f28cc48b" n="13" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_1d147751-3e75-4102-96c0-cc9f500bf42e" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0012.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_0640365d-2d5b-455f-97fb-9ec57f220781" n="14" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_308e27ee-1ef7-4f11-9bb2-4cfd8d68e65c" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0013.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_da980ee2-1b6e-4f6a-8577-765039757b6f" n="15" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_c5e326c9-a4d9-41a4-8323-0708e941cca2" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0014.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_fd426d2a-df61-4a20-91ce-faa88b852db2" n="16" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_8bb68651-3267-4a85-aace-aed9f6fbbb07" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0015.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_05cd8821-2231-4666-8e45-8cd64bdcc8a3" n="17" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_89b50631-b2a7-4d95-ae8d-18c185070b25" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0016.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_f11c6186-f356-4ceb-9e31-21e0a67febdd" n="18" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_1dfadbe7-7766-411c-bb14-0fcfa068f05c" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0017.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_7d1ef676-e7e6-4ff4-b5c8-014572bba342" n="19" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_e2b5be2d-f99b-4127-ba23-80dcc4c2a41d" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0018.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
-            <surface xml:id="surface_c8b3e8f0-496c-4de8-bf95-446e53bafd14" n="20" ulx="0" uly="0" lrx="3801" lry="2844">
-                <graphic xml:id="graphic_288ccbe1-972f-443c-a49c-72479361ac42" target="IMSLP400884-PMLP648989--Mus.1-F-82_22-6-_Mario_in_Numidia._Saggio_nocchier_s_ammira-0019.jpg" type="facsimile" width="3801" height="2844"/> 
-            </surface>
             <surface xml:id="surface_2fa4d753-aa72-4e7b-a1f1-c297e46ca183" n="21" ulx="0" uly="0" lrx="3769" lry="2844">
                 <graphic xml:id="graphic_f3371311-707a-4405-a135-e6626d7429c6" target="IMSLP400887-PMLP648989--Mus.1-F-82_22-9-_Mario_in_Numidia._Al_mio_cor_parlar_non_sento-0000.jpg" type="facsimile" width="3769" height="2844"/>
                 <zone xml:id="zone_5a64b7f5-708b-4e94-98e6-66ef84eb872e" type="measure" ulx="470" uly="502" lrx="1170" lry="2474"/>
