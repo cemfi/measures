@@ -577,8 +577,8 @@
                 <zone xml:id="zone_28e4979c-53ae-4000-b6fe-a6e6f951bbb4" type="measure" ulx="758" uly="393" lrx="899" lry="561"/>
                 <zone xml:id="zone_78b5fa15-740c-49ac-93f6-8cd5e77ea923" type="measure" ulx="57" uly="541" lrx="267" lry="662"/>
                 <zone xml:id="zone_66aba824-64a2-473e-baab-c3900b43095d" type="measure" ulx="247" uly="541" lrx="370" lry="662"/>
-                <zone xml:id="zone_3acb154f-cdf3-42e8-8b40-4964e2ccded5" type="measure" ulx="350" uly="541" lrx="389" lry="662"/>
-                <zone xml:id="zone_d3057e43-fa99-464a-b63a-100e51d9987c" type="measure" ulx="369" uly="541" lrx="509" lry="662"/>
+                <zone xml:id="zone_3acb154f-cdf3-42e8-8b40-4964e2ccded5" type="measure" ulx="350" uly="569" lrx="389" lry="645"/>
+                <zone xml:id="zone_d3057e43-fa99-464a-b63a-100e51d9987c" type="measure" ulx="377" uly="581" lrx="504" lry="662"/>
                 <zone xml:id="zone_1cd25a97-ac55-45ca-8aa7-64d5dbd0d6b1" type="measure" ulx="489" uly="541" lrx="671" lry="662"/>
                 <zone xml:id="zone_278867f4-0e79-4098-a4b6-b45481e83962" type="measure" ulx="651" uly="541" lrx="764" lry="662"/>
                 <zone xml:id="zone_664b5bd0-9204-4015-98aa-0cce7634323c" type="measure" ulx="744" uly="541" lrx="883" lry="662"/>

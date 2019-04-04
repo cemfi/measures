@@ -297,63 +297,9 @@
                 <zone xml:id="zone_4cbcb9a6-2d83-488a-b1b4-70105fa58c8b" type="measure" ulx="1242" uly="75" lrx="1544" lry="1687"/>
                 <zone xml:id="zone_a1d90f60-9ba1-4248-9dcd-ab52872f33ec" type="measure" ulx="1468" uly="75" lrx="1712" lry="1687"/>
                 <zone xml:id="zone_92fe2900-5d0e-4fae-92c0-7f9c8137e474" type="measure" ulx="1636" uly="75" lrx="1863" lry="1687"/>
-                <zone xml:id="zone_34ed9304-e548-4c97-b4fa-79b6844dfa9b" type="measure" ulx="1787" uly="75" lrx="2091" lry="1687">
-                    <point x="1787" y="1687"/>
-                    <point x="2091" y="1687"/>
-                    <point x="1966" y="75"/>
-                    <point x="1787" y="75"/>
-                </zone>
-                <zone xml:id="zone_ae4938a0-4a8d-4ae2-b8b9-706898bca67e" type="measure" ulx="1890" uly="75" lrx="2215" lry="1687">
-                    <point x="2015" y="1687"/>
-                    <point x="2215" y="1687"/>
-                    <point x="2150" y="75"/>
-                    <point x="1890" y="75"/>
-                </zone>
-                <zone xml:id="zone_7b191b92-8063-481b-bdc6-cc200ec79d32" type="measure" ulx="2074" uly="75" lrx="2312" lry="1687">
-                    <point x="2139" y="1687"/>
-                    <point x="2312" y="1687"/>
-                    <point x="2312" y="75"/>
-                    <point x="2074" y="75"/>
-                </zone>
-            </surface>
-            <surface xml:id="surface_76703e20-843a-44ed-b32c-918800f61bb6" n="27" ulx="0" uly="0" lrx="1000" lry="1443">
-                <graphic xml:id="graphic_fd786d36-b6d0-4790-b449-6bd6fc493490" target="IMSLP108695-PMLP221035-graun_semiramide_ov_B.I.28_306034735-0004.jpg" type="facsimile" width="1000" height="1443"/>
-            </surface>
-            <surface xml:id="surface_dfab56be-b2d8-4339-80f3-9abcc653c614" n="28" ulx="0" uly="0" lrx="1000" lry="1443">
-                <graphic xml:id="graphic_554616f7-8148-4607-bcae-4f24153f8f0c" target="IMSLP108695-PMLP221035-graun_semiramide_ov_B.I.28_306034735-0005.jpg" type="facsimile" width="1000" height="1443"/>
-            </surface>
-            <surface xml:id="surface_e858b919-326b-4149-8df0-8f53a41c2bd4" n="29" ulx="0" uly="0" lrx="1000" lry="1443">
-                <graphic xml:id="graphic_565bafda-1da8-432a-aa5e-f28e380d4e72" target="IMSLP108695-PMLP221035-graun_semiramide_ov_B.I.28_306034735-0006.jpg" type="facsimile" width="1000" height="1443"/>
-            </surface>
-            <surface xml:id="surface_99b7a47e-dca5-425b-975a-f6c6c9105d5d" n="30" ulx="0" uly="0" lrx="1000" lry="1443">
-                <graphic xml:id="graphic_b0e0d220-c9d9-4d54-bce1-49805579aec3" target="IMSLP108695-PMLP221035-graun_semiramide_ov_B.I.28_306034735-0007.jpg" type="facsimile" width="1000" height="1443"/>
-            </surface>
-            <surface xml:id="surface_5cecec39-380c-49f5-a02a-441d69e9654a" n="31" ulx="0" uly="0" lrx="1000" lry="1443">
-                <graphic xml:id="graphic_df568d73-964b-4977-b644-f511d88fba0f" target="IMSLP108695-PMLP221035-graun_semiramide_ov_B.I.28_306034735-0008.jpg" type="facsimile" width="1000" height="1443"/>
-            </surface>
-            <surface xml:id="surface_057afd99-da9d-4db2-a2aa-25d536db63c7" n="32" ulx="0" uly="0" lrx="1000" lry="1443">
-                <graphic xml:id="graphic_d9bb8651-63fe-42a2-9f57-7c5613c675da" target="IMSLP108695-PMLP221035-graun_semiramide_ov_B.I.28_306034735-0009.jpg" type="facsimile" width="1000" height="1443"/>
-            </surface>
-            <surface xml:id="surface_3ea87b90-f164-4be9-86c8-cb53f9d4c3b0" n="33" ulx="0" uly="0" lrx="1000" lry="1443">
-                <graphic xml:id="graphic_3e094197-3f1b-4170-8834-73819e731c91" target="IMSLP108695-PMLP221035-graun_semiramide_ov_B.I.28_306034735-0010.jpg" type="facsimile" width="1000" height="1443"/>
-            </surface>
-            <surface xml:id="surface_2ad35d89-2981-4408-95ed-2b67d3ea5a75" n="34" ulx="0" uly="0" lrx="1000" lry="1443">
-                <graphic xml:id="graphic_6baa4c8a-baa8-4fdf-b0d1-555eeb705ae0" target="IMSLP108695-PMLP221035-graun_semiramide_ov_B.I.28_306034735-0011.jpg" type="facsimile" width="1000" height="1443"/>
-            </surface>
-            <surface xml:id="surface_baff5d20-ba65-47ec-900a-9531797e2c77" n="35" ulx="0" uly="0" lrx="1000" lry="1443">
-                <graphic xml:id="graphic_15f9c3be-c47c-421d-8095-2c338e5a351d" target="IMSLP108695-PMLP221035-graun_semiramide_ov_B.I.28_306034735-0012.jpg" type="facsimile" width="1000" height="1443"/>
-            </surface>
-            <surface xml:id="surface_12453a91-275a-4fe4-b2de-cb701018a3c9" n="36" ulx="0" uly="0" lrx="1000" lry="1443">
-                <graphic xml:id="graphic_9c10b8fe-d938-4c7f-8b6c-199461dc7460" target="IMSLP108695-PMLP221035-graun_semiramide_ov_B.I.28_306034735-0013.jpg" type="facsimile" width="1000" height="1443"/>
-            </surface>
-            <surface xml:id="surface_9bdb7265-9d51-4e87-b7c9-a509e817e6d7" n="37" ulx="0" uly="0" lrx="1000" lry="1443">
-                <graphic xml:id="graphic_5cf3a7bb-56ce-4e3b-8449-16eb8f4e7d8c" target="IMSLP108695-PMLP221035-graun_semiramide_ov_B.I.28_306034735-0014.jpg" type="facsimile" width="1000" height="1443"/>
-            </surface>
-            <surface xml:id="surface_4a1bd902-b8fb-4c8d-a24a-65d813ac74b3" n="38" ulx="0" uly="0" lrx="1000" lry="1443">
-                <graphic xml:id="graphic_0dbbfe8b-a7b1-4497-8c72-c02bbb289f01" target="IMSLP108695-PMLP221035-graun_semiramide_ov_B.I.28_306034735-0015.jpg" type="facsimile" width="1000" height="1443"/>
-            </surface>
-            <surface xml:id="surface_29ca2f5b-d67f-46db-9048-c9364f8b4e52" n="39" ulx="0" uly="0" lrx="1000" lry="1443">
-                <graphic xml:id="graphic_6e3c47d7-57a5-483e-8d44-cd8c154213ec" target="IMSLP108695-PMLP221035-graun_semiramide_ov_B.I.28_306034735-0016.jpg" type="facsimile" width="1000" height="1443"/>
+                <zone xml:id="zone_34ed9304-e548-4c97-b4fa-79b6844dfa9b" type="measure" ulx="1787" uly="75" lrx="2059" lry="1687"/>
+                <zone xml:id="zone_ae4938a0-4a8d-4ae2-b8b9-706898bca67e" type="measure" ulx="1943" uly="75" lrx="2177" lry="1687"/>
+                <zone xml:id="zone_7b191b92-8063-481b-bdc6-cc200ec79d32" type="measure" ulx="2105" uly="75" lrx="2291" lry="1687"/>
             </surface>
         </facsimile>
         <body>

@@ -562,8 +562,8 @@
                 <zone xml:id="zone_5185c58d-55ce-476e-aaa3-06f9eb4079df" type="measure" ulx="245" uly="662" lrx="383" lry="774"/>
                 <zone xml:id="zone_56a11bd3-37c6-4c7f-b3ba-dacd3e784cb4" type="measure" ulx="363" uly="662" lrx="458" lry="774"/>
                 <zone xml:id="zone_fb14cdfb-a299-497e-b0e0-b6563f6483ba" type="measure" ulx="438" uly="662" lrx="543" lry="774"/>
-                <zone xml:id="zone_ab00ed41-d904-4d33-bcdf-7473e7d2f3a4" type="measure" ulx="523" uly="662" lrx="562" lry="774"/>
-                <zone xml:id="zone_646b2f22-3f4b-4a3a-a01d-60fd7b65f1a7" type="measure" ulx="542" uly="662" lrx="707" lry="774"/>
+                <zone xml:id="zone_ab00ed41-d904-4d33-bcdf-7473e7d2f3a4" type="measure" ulx="533" uly="662" lrx="578" lry="774"/>
+                <zone xml:id="zone_646b2f22-3f4b-4a3a-a01d-60fd7b65f1a7" type="measure" ulx="567" uly="662" lrx="707" lry="774"/>
                 <zone xml:id="zone_aab5b751-e9a3-4e8c-8f3e-f4978febb39b" type="measure" ulx="687" uly="662" lrx="816" lry="774"/>
                 <zone xml:id="zone_c4a60901-911a-4b44-aacc-b52a399ff44c" type="measure" ulx="796" uly="662" lrx="934" lry="774"/>
             </surface>
@@ -1554,7 +1554,6 @@
                 <zone xml:id="zone_34267619-b5e6-4104-9bb0-9ca47a6b9972" type="measure" ulx="378" uly="539" lrx="517" lry="646"/>
                 <zone xml:id="zone_11e88d84-87c4-4d48-9a3a-1eae1c2269b7" type="measure" ulx="497" uly="539" lrx="661" lry="646"/>
                 <zone xml:id="zone_351ad341-eb0d-4c89-ab55-299aa3c28f2a" type="measure" ulx="641" uly="539" lrx="812" lry="646"/>
-                <zone xml:id="zone_4600511b-3f75-42ed-b98e-d1ce7d058e12" type="measure" ulx="792" uly="539" lrx="826" lry="646"/>
                 <zone xml:id="zone_b1681ada-0192-4125-868c-e61d90a99173" type="measure" ulx="806" uly="539" lrx="935" lry="646"/>
                 <zone xml:id="zone_570b7d61-fd41-46ad-ad22-0b8b52db9059" type="measure" ulx="55" uly="626" lrx="269" lry="692"/>
                 <zone xml:id="zone_c3009708-ece0-40b1-ac7e-8bf236fe1d97" type="measure" ulx="249" uly="626" lrx="498" lry="692"/>
