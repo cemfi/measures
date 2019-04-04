@@ -10,6 +10,9 @@ from tqdm import tqdm
 image_root = 'E:/Zu Vertakten'
 dst_path = '../exported'
 
+# Remove target folder
+shutil.rmtree(dst_path, ignore_errors=True)
+
 # Template
 dataset = {
     "metadata": {
