@@ -8,42 +8,6 @@
     </meiHead>
     <music>
         <facsimile>
-            <surface xml:id="surface_cae1dc50-c336-4e7e-a366-f6f88c87be21" n="1" ulx="0" uly="0" lrx="1000" lry="1624">
-                <graphic xml:id="graphic_3f088a89-c917-40df-8f8b-f35463bb12c8" target="IMSLP326756-PMLP528933-336767374-0004.jpg" type="facsimile" width="1000" height="1624"/>
-            </surface>
-            <surface xml:id="surface_b5349c69-1184-45c7-b203-94244a396469" n="2" ulx="0" uly="0" lrx="1000" lry="1624">
-                <graphic xml:id="graphic_31cc667b-a091-4800-8016-1fd752677443" target="IMSLP326756-PMLP528933-336767374-0005.jpg" type="facsimile" width="1000" height="1624"/>
-            </surface>
-            <surface xml:id="surface_0a239137-a423-4e48-a451-ad063a73ee6a" n="3" ulx="0" uly="0" lrx="1000" lry="1624">
-                <graphic xml:id="graphic_4572cab8-3c02-4b2c-a235-1fd08bc5594e" target="IMSLP326756-PMLP528933-336767374-0006.jpg" type="facsimile" width="1000" height="1624"/>
-            </surface>
-            <surface xml:id="surface_220f5bd0-9600-48e4-87c5-c637b325a7ac" n="4" ulx="0" uly="0" lrx="1000" lry="1624">
-                <graphic xml:id="graphic_59dded17-019a-43f2-997a-0e3626afe79e" target="IMSLP326756-PMLP528933-336767374-0007.jpg" type="facsimile" width="1000" height="1624"/>
-            </surface>
-            <surface xml:id="surface_2d142a1c-f88a-4a2f-b4f6-ca63bee2a379" n="5" ulx="0" uly="0" lrx="1000" lry="1624">
-                <graphic xml:id="graphic_41fa6b7a-aa99-4539-9f68-8a744cb6d3ed" target="IMSLP326756-PMLP528933-336767374-0008.jpg" type="facsimile" width="1000" height="1624"/>
-            </surface>
-            <surface xml:id="surface_a584993a-9fea-436e-a6ff-36f4eb45775d" n="6" ulx="0" uly="0" lrx="1000" lry="1624">
-                <graphic xml:id="graphic_29c3c65d-6861-4827-be7f-b27e6a15141b" target="IMSLP326756-PMLP528933-336767374-0009.jpg" type="facsimile" width="1000" height="1624"/>
-            </surface>
-            <surface xml:id="surface_d1ba51f9-3b63-4f53-ade7-559c791a1e7c" n="7" ulx="0" uly="0" lrx="1000" lry="1624">
-                <graphic xml:id="graphic_6fd5fbae-0a70-47e9-a267-9e1d55c23c4f" target="IMSLP326756-PMLP528933-336767374-0010.jpg" type="facsimile" width="1000" height="1624"/>
-            </surface>
-            <surface xml:id="surface_77d5f77d-db62-4536-8882-f55ec00069bf" n="8" ulx="0" uly="0" lrx="1000" lry="1624">
-                <graphic xml:id="graphic_1b528991-a994-445f-8ad6-3de125a2c543" target="IMSLP326756-PMLP528933-336767374-0011.jpg" type="facsimile" width="1000" height="1624"/>
-            </surface>
-            <surface xml:id="surface_e73858d6-ff7d-4d3d-bf64-ba85a097958b" n="9" ulx="0" uly="0" lrx="1000" lry="1624">
-                <graphic xml:id="graphic_1f198376-054c-41ea-96d5-cf97785c20bd" target="IMSLP326756-PMLP528933-336767374-0012.jpg" type="facsimile" width="1000" height="1624"/>
-            </surface>
-            <surface xml:id="surface_ea4207aa-c47d-48de-bc67-9b0fa67bd656" n="10" ulx="0" uly="0" lrx="1000" lry="1624">
-                <graphic xml:id="graphic_96068ec7-b026-4961-90be-9bf8d1a6d271" target="IMSLP326756-PMLP528933-336767374-0013.jpg" type="facsimile" width="1000" height="1624"/>
-            </surface>
-            <surface xml:id="surface_b31ea348-7e1f-466e-b7cb-04249601dced" n="11" ulx="0" uly="0" lrx="1000" lry="1624">
-                <graphic xml:id="graphic_1fdda364-c973-4ae4-b127-e88315b8bf7c" target="IMSLP326756-PMLP528933-336767374-0014.jpg" type="facsimile" width="1000" height="1624"/>
-            </surface>
-            <surface xml:id="surface_84856fe3-de8e-4bd9-8e26-4204001b95a8" n="12" ulx="0" uly="0" lrx="1000" lry="1624">
-                <graphic xml:id="graphic_8493b3cd-7eae-404c-9886-5a602766d3ea" target="IMSLP326756-PMLP528933-336767374-0015.jpg" type="facsimile" width="1000" height="1624"/>
-            </surface>
             <surface xml:id="surface_e65b9048-f2ff-40fc-92b0-e83db96657f7" n="13" ulx="0" uly="0" lrx="1000" lry="1627">
                 <graphic xml:id="graphic_04b4fdc6-e77b-4037-84cf-c20c1ee01d44" target="IMSLP327047-PMLP529384-Anon_347499317-0000.jpg" type="facsimile" width="1000" height="1627"/>
                 <zone xml:id="zone_b3a15203-862f-4217-a8ee-de5cd916f9b4" type="measure" ulx="153" uly="107" lrx="331" lry="578"/>

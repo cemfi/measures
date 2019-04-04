@@ -524,30 +524,6 @@
                 <zone xml:id="zone_d16a7126-f263-4b03-9322-1152bdb3ed41" type="measure" ulx="247" uly="362" lrx="377" lry="569"/>
                 <zone xml:id="zone_88a7c927-808a-419b-8ee7-7e93b5a5e689" type="measure" ulx="367" uly="362" lrx="493" lry="569"/>
             </surface>
-            <surface xml:id="surface_10dd9a8d-b9af-4dba-babb-bf988a9df300" n="28" ulx="0" uly="0" lrx="1274" lry="1760">
-                <graphic xml:id="graphic_828632b1-4bff-4a60-861b-ef4bb09093c7" target="IMSLP232482-PMLP378524-Notturno_con_variazioni_for_harp_and_violin-Naderman-harp_part-0001.jpg" type="facsimile" width="1274" height="1760"/>
-            </surface>
-            <surface xml:id="surface_356c23cd-f5eb-40f3-b88b-402711c38b91" n="29" ulx="0" uly="0" lrx="1270" lry="1868">
-                <graphic xml:id="graphic_b5bf75e6-be6e-474b-80d4-0694fcdbb9ba" target="IMSLP232482-PMLP378524-Notturno_con_variazioni_for_harp_and_violin-Naderman-harp_part-0002.jpg" type="facsimile" width="1270" height="1868"/>
-            </surface>
-            <surface xml:id="surface_c6ad3854-0af7-4dcf-8d2d-4176cf82c064" n="30" ulx="0" uly="0" lrx="1300" lry="1800">
-                <graphic xml:id="graphic_477bff2a-7666-496f-b400-ab44187081ce" target="IMSLP232482-PMLP378524-Notturno_con_variazioni_for_harp_and_violin-Naderman-harp_part-0003.jpg" type="facsimile" width="1300" height="1800"/>
-            </surface>
-            <surface xml:id="surface_5f4b8ef7-9699-47c6-bfaf-da3570d245cf" n="31" ulx="0" uly="0" lrx="1296" lry="1894">
-                <graphic xml:id="graphic_af2ae2d5-6aee-454d-bcaa-b75ec793693c" target="IMSLP232482-PMLP378524-Notturno_con_variazioni_for_harp_and_violin-Naderman-harp_part-0004.jpg" type="facsimile" width="1296" height="1894"/>
-            </surface>
-            <surface xml:id="surface_643aca7d-8bd3-4052-bb0e-d64a8a992642" n="32" ulx="0" uly="0" lrx="1256" lry="1826">
-                <graphic xml:id="graphic_5c28559c-0918-4e6e-b9fa-62b32d963ab3" target="IMSLP232482-PMLP378524-Notturno_con_variazioni_for_harp_and_violin-Naderman-harp_part-0005.jpg" type="facsimile" width="1256" height="1826"/>
-            </surface>
-            <surface xml:id="surface_eaceef08-9adb-47f7-87bd-d22a4746bdc5" n="33" ulx="0" uly="0" lrx="1276" lry="1856">
-                <graphic xml:id="graphic_27d41461-c58c-4ca9-a5d8-f587f76bbad5" target="IMSLP232482-PMLP378524-Notturno_con_variazioni_for_harp_and_violin-Naderman-harp_part-0006.jpg" type="facsimile" width="1276" height="1856"/>
-            </surface>
-            <surface xml:id="surface_7885f159-ffa7-40a9-9531-a4edec2652de" n="34" ulx="0" uly="0" lrx="1302" lry="1796">
-                <graphic xml:id="graphic_863cb44a-5261-49dd-8775-e3b0cdd996d5" target="IMSLP232482-PMLP378524-Notturno_con_variazioni_for_harp_and_violin-Naderman-harp_part-0007.jpg" type="facsimile" width="1302" height="1796"/>
-            </surface>
-            <surface xml:id="surface_3800f548-15c1-47b8-9c60-ef4cdbd4ec8b" n="35" ulx="0" uly="0" lrx="1284" lry="1850">
-                <graphic xml:id="graphic_bae23b6c-e9e7-4b0d-a1a1-91b53e523f7a" target="IMSLP232482-PMLP378524-Notturno_con_variazioni_for_harp_and_violin-Naderman-harp_part-0008.jpg" type="facsimile" width="1284" height="1850"/>
-            </surface>
         </facsimile>
         <body>
             <mdiv xml:id="page_a78c4899-e39c-45ff-8464-d4d8ec9a0bd7" n="1" label="">
