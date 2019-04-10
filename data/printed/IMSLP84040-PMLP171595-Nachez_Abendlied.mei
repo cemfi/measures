@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei">
+    <meiHead>
+        <fileDesc>
+            <titleStmt/>
+            <pubStmt/>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="surface_ee506e5e-1802-4955-8072-ced5fcb65a9c" n="1" ulx="0" uly="0" lrx="3958" lry="5278">
+                <graphic xml:id="graphic_8bc198b8-55f8-436f-b73a-d45defbddea1" target="IMSLP84040-PMLP171595-Nachez_Abendlied-0001.jpg" type="facsimile" width="3958" height="5278"/>
+                <zone xml:id="zone_bb1a2808-7a47-416d-a0b2-6bc54b90c889" type="measure" ulx="111" uly="1054" lrx="1189" lry="2468"/>
+                <zone xml:id="zone_79b858ca-9c3b-46ea-ba7f-634b54bfd2ff" type="measure" ulx="1149" uly="1054" lrx="1769" lry="2468"/>
+                <zone xml:id="zone_e2ca1b29-3299-4668-848f-99764c650fe0" type="measure" ulx="1729" uly="1054" lrx="2481" lry="2468"/>
+                <zone xml:id="zone_d769e1e3-75ba-4174-8f5c-f4c61a813737" type="measure" ulx="2441" uly="1054" lrx="3211" lry="2468"/>
+                <zone xml:id="zone_ce58b98e-abc2-457b-8c8b-fa17c0501a5b" type="measure" ulx="3171" uly="1054" lrx="3985" lry="2468"/>
+                <zone xml:id="zone_b541a46e-21db-44ba-8963-cf2858a29bef" type="measure" ulx="111" uly="2428" lrx="679" lry="3866"/>
+                <zone xml:id="zone_9ec863f9-ea1c-4eda-bc0e-6f894b3a8669" type="measure" ulx="639" uly="2428" lrx="1361" lry="3866"/>
+                <zone xml:id="zone_01b67133-53a7-4025-b867-48b8083375c0" type="measure" ulx="1321" uly="2428" lrx="1993" lry="3866"/>
+                <zone xml:id="zone_b0f95190-a038-4511-bc46-2e9890b6b720" type="measure" ulx="1953" uly="2428" lrx="2689" lry="3866"/>
+                <zone xml:id="zone_1eadecc8-b72a-47b2-9f29-2852c7421c1a" type="measure" ulx="2649" uly="2428" lrx="3236" lry="3866"/>
+                <zone xml:id="zone_af101194-9841-45e6-afd3-e62edb5fd98c" type="measure" ulx="3196" uly="2428" lrx="3985" lry="3866"/>
+                <zone xml:id="zone_f2665685-9467-4fe7-a9b0-1b37a0d79f9a" type="measure" ulx="111" uly="3826" lrx="921" lry="5168"/>
+                <zone xml:id="zone_96de04fc-7438-4ad3-b896-3956d4830480" type="measure" ulx="881" uly="3826" lrx="1738" lry="5168"/>
+                <zone xml:id="zone_db9f2469-2310-4a99-83f4-a36ba66b7405" type="measure" ulx="1698" uly="3826" lrx="2225" lry="5168"/>
+                <zone xml:id="zone_be95ba7f-a642-447f-a04c-256a107d3e20" type="measure" ulx="2185" uly="3826" lrx="3012" lry="5168"/>
+                <zone xml:id="zone_518c7718-8621-483a-bbf1-93f26bf54706" type="measure" ulx="2972" uly="3826" lrx="3985" lry="5168"/>
+            </surface>
+            <surface xml:id="surface_5fa19666-d833-4f20-b25b-6006e7a39e5d" n="2" ulx="0" uly="0" lrx="3970" lry="5326">
+                <graphic xml:id="graphic_74218b84-20da-46b5-9ded-b398af3cfde8" target="IMSLP84040-PMLP171595-Nachez_Abendlied-0002.jpg" type="facsimile" width="3970" height="5326"/>
+                <zone xml:id="zone_9c42b181-3594-4bca-ba93-d83537cf2fba" type="measure" ulx="38" uly="167" lrx="851" lry="1424"/>
+                <zone xml:id="zone_9f7377f4-59da-4747-b994-553c47503aad" type="measure" ulx="811" uly="167" lrx="1548" lry="1424"/>
+                <zone xml:id="zone_2dc22ed0-1eff-439c-bbee-57af02a6135b" type="measure" ulx="1508" uly="167" lrx="2207" lry="1424"/>
+                <zone xml:id="zone_abe5ab85-e839-4434-8748-6250e9501028" type="measure" ulx="2167" uly="167" lrx="2983" lry="1424"/>
+                <zone xml:id="zone_b635f3a4-099b-44f0-8eec-9f362200778f" type="measure" ulx="2943" uly="167" lrx="3898" lry="1424"/>
+                <zone xml:id="zone_97b8cb60-de8f-41a0-baf9-1e9a5a8f7a00" type="measure" ulx="38" uly="1384" lrx="980" lry="2752"/>
+                <zone xml:id="zone_3b202321-7ecf-4528-8c02-47895db7f17b" type="measure" ulx="940" uly="1384" lrx="1742" lry="2752"/>
+                <zone xml:id="zone_594c22e5-d0ff-4928-8983-f0c9f01e9483" type="measure" ulx="1702" uly="1384" lrx="2385" lry="2752"/>
+                <zone xml:id="zone_14e32333-e978-4cf7-ad49-dcd04897b430" type="measure" ulx="2345" uly="1384" lrx="3138" lry="2752"/>
+                <zone xml:id="zone_be68cee2-3942-484a-90ca-56d3f2d5a5dd" type="measure" ulx="3098" uly="1384" lrx="3898" lry="2752"/>
+                <zone xml:id="zone_27f0c1ec-af47-4b5b-902c-940aabd00af3" type="measure" ulx="38" uly="2712" lrx="896" lry="4019"/>
+                <zone xml:id="zone_2076b3d7-15ac-4e07-b234-5c09547bcd9d" type="measure" ulx="856" uly="2712" lrx="1594" lry="4019"/>
+                <zone xml:id="zone_a9bed11e-106d-4662-a7dd-c41fe9d2900e" type="measure" ulx="1554" uly="2712" lrx="2371" lry="4019"/>
+                <zone xml:id="zone_3a58409f-f1dd-4b21-9e0c-e25f614dbeb1" type="measure" ulx="2331" uly="2712" lrx="3010" lry="4019"/>
+                <zone xml:id="zone_c9be2316-7985-4eeb-8409-6c25c16a06b8" type="measure" ulx="2970" uly="2712" lrx="3898" lry="4019"/>
+                <zone xml:id="zone_81a648a0-d340-4f9e-a477-f8b278ef3ea5" type="measure" ulx="38" uly="3979" lrx="968" lry="5226"/>
+                <zone xml:id="zone_d903f1dd-e7d8-4366-89d7-ccc24fe2ac74" type="measure" ulx="928" uly="3979" lrx="1683" lry="5226"/>
+                <zone xml:id="zone_a5fe9d15-228c-4fe8-9a76-2021a8d93529" type="measure" ulx="1643" uly="3979" lrx="2097" lry="5226"/>
+                <zone xml:id="zone_33eb802c-a243-4ba6-8106-5e995dce48c4" type="measure" ulx="2057" uly="3979" lrx="2836" lry="5226"/>
+                <zone xml:id="zone_19aa8482-7ba3-41d7-8bee-82ee4e4af5c4" type="measure" ulx="2796" uly="3979" lrx="3535" lry="5226"/>
+                <zone xml:id="zone_125fc775-bc7b-4416-9621-204471cd35f3" type="measure" ulx="3495" uly="3979" lrx="3898" lry="5226"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="page_b304ed45-c547-4663-a121-ed3915885483" n="1" label="">
+                <score>
+                    <scoreDef/>
+                    <section>
+                        <pb/>
+                        <measure n="1" label="1" xml:id="measure_7614a1fb-1f2d-4b1e-92ca-8e3cd8323379" facs="#zone_bb1a2808-7a47-416d-a0b2-6bc54b90c889"/>
+                        <measure n="2" label="2" xml:id="measure_e454579b-6e9b-42a2-b76c-496bc499279f" facs="#zone_79b858ca-9c3b-46ea-ba7f-634b54bfd2ff"/>
+                        <measure n="3" label="3" xml:id="measure_45486653-f0b4-42dd-91ff-d3e62f4d5c2e" facs="#zone_e2ca1b29-3299-4668-848f-99764c650fe0"/>
+                        <measure n="4" label="4" xml:id="measure_e8af91c0-7e3a-40c7-90d0-1f28ee67c096" facs="#zone_d769e1e3-75ba-4174-8f5c-f4c61a813737"/>
+                        <measure n="5" label="5" xml:id="measure_a9ec15c5-55e1-417a-ac14-a3827477317d" facs="#zone_ce58b98e-abc2-457b-8c8b-fa17c0501a5b"/>
+                        <sb/>
+                        <measure n="6" label="6" xml:id="measure_3978c151-9033-4cb5-a89a-c13881618dc7" facs="#zone_b541a46e-21db-44ba-8963-cf2858a29bef"/>
+                        <measure n="7" label="7" xml:id="measure_51f37951-78b9-49f3-ac17-f685876651eb" facs="#zone_9ec863f9-ea1c-4eda-bc0e-6f894b3a8669"/>
+                        <measure n="8" label="8" xml:id="measure_e6ee439a-f251-4a8a-8d0a-856f11905e27" facs="#zone_01b67133-53a7-4025-b867-48b8083375c0"/>
+                        <measure n="9" label="9" xml:id="measure_a85ebc86-b7f4-4218-95ab-ddcc3c2089a8" facs="#zone_b0f95190-a038-4511-bc46-2e9890b6b720"/>
+                        <measure n="10" label="10" xml:id="measure_56854878-1f01-4ffd-95f4-b9d333d8204d" facs="#zone_1eadecc8-b72a-47b2-9f29-2852c7421c1a"/>
+                        <measure n="11" label="11" xml:id="measure_64304215-51ff-4545-9fd0-f26db375df0e" facs="#zone_af101194-9841-45e6-afd3-e62edb5fd98c"/>
+                        <sb/>
+                        <measure n="12" label="12" xml:id="measure_f96b4e99-2def-4484-816e-e38f23615882" facs="#zone_f2665685-9467-4fe7-a9b0-1b37a0d79f9a"/>
+                        <measure n="13" label="13" xml:id="measure_05231bf9-5436-4685-b438-013613c5dc40" facs="#zone_96de04fc-7438-4ad3-b896-3956d4830480"/>
+                        <measure n="14" label="14" xml:id="measure_b7ae107e-17c2-4969-8eb5-c286e7559887" facs="#zone_db9f2469-2310-4a99-83f4-a36ba66b7405"/>
+                        <measure n="15" label="15" xml:id="measure_fd9a0452-3657-4ad0-b099-4c7e759bf155" facs="#zone_be95ba7f-a642-447f-a04c-256a107d3e20"/>
+                        <measure n="16" label="16" xml:id="measure_db7fa7a8-d52b-47c2-967b-5ec28ecd4314" facs="#zone_518c7718-8621-483a-bbf1-93f26bf54706"/>
+                        <sb/>
+                        <pb/>
+                        <measure n="17" label="17" xml:id="measure_b4a811a8-6d75-4923-b55a-0be9360e3437" facs="#zone_9c42b181-3594-4bca-ba93-d83537cf2fba"/>
+                        <measure n="18" label="18" xml:id="measure_78f71065-df90-4737-832d-f474e4db285d" facs="#zone_9f7377f4-59da-4747-b994-553c47503aad"/>
+                        <measure n="19" label="19" xml:id="measure_1318fa5f-7592-423e-9b62-c6fb83e7c2ac" facs="#zone_2dc22ed0-1eff-439c-bbee-57af02a6135b"/>
+                        <measure n="20" label="20" xml:id="measure_5c5bf60d-bcea-4f1a-b982-319336c04371" facs="#zone_abe5ab85-e839-4434-8748-6250e9501028"/>
+                        <measure n="21" label="21" xml:id="measure_b96851a3-0fc7-4cdb-8950-f6a5b6b02ace" facs="#zone_b635f3a4-099b-44f0-8eec-9f362200778f"/>
+                        <sb/>
+                        <measure n="22" label="22" xml:id="measure_eb220d36-ffc9-487b-b156-e018a534de74" facs="#zone_97b8cb60-de8f-41a0-baf9-1e9a5a8f7a00"/>
+                        <measure n="23" label="23" xml:id="measure_08a34744-1b9d-4393-9a45-2567e0a0326c" facs="#zone_3b202321-7ecf-4528-8c02-47895db7f17b"/>
+                        <measure n="24" label="24" xml:id="measure_4e798b14-8cfd-4e9f-b6ad-b8494d826113" facs="#zone_594c22e5-d0ff-4928-8983-f0c9f01e9483"/>
+                        <measure n="25" label="25" xml:id="measure_fea2fd46-38a1-4333-8ba5-c9eff2907afe" facs="#zone_14e32333-e978-4cf7-ad49-dcd04897b430"/>
+                        <measure n="26" label="26" xml:id="measure_16723473-ccbc-4628-91a1-2bd658f76c0d" facs="#zone_be68cee2-3942-484a-90ca-56d3f2d5a5dd"/>
+                        <sb/>
+                        <measure n="27" label="27" xml:id="measure_414a43c6-c08d-4f15-a4a9-d7acbfc41b9f" facs="#zone_27f0c1ec-af47-4b5b-902c-940aabd00af3"/>
+                        <measure n="28" label="28" xml:id="measure_e5866d58-20d4-4382-8bf8-87348fbc5737" facs="#zone_2076b3d7-15ac-4e07-b234-5c09547bcd9d"/>
+                        <measure n="29" label="29" xml:id="measure_e28a0d48-8377-424b-bce6-6ff37eab6175" facs="#zone_a9bed11e-106d-4662-a7dd-c41fe9d2900e"/>
+                        <measure n="30" label="30" xml:id="measure_94d6face-5563-4028-a1d2-863c827de1c4" facs="#zone_3a58409f-f1dd-4b21-9e0c-e25f614dbeb1"/>
+                        <measure n="31" label="31" xml:id="measure_57d7a4f6-3d16-4aa7-9d0e-4a04fcbf702a" facs="#zone_c9be2316-7985-4eeb-8409-6c25c16a06b8"/>
+                        <sb/>
+                        <measure n="32" label="32" xml:id="measure_b5fd06cb-cf2d-4ef2-82a5-1c4a1285232e" facs="#zone_81a648a0-d340-4f9e-a477-f8b278ef3ea5"/>
+                        <measure n="33" label="33" xml:id="measure_ae2f7602-7a41-46a9-8cd0-e4912a1f0bed" facs="#zone_d903f1dd-e7d8-4366-89d7-ccc24fe2ac74"/>
+                        <measure n="34" label="34" xml:id="measure_e1a16a3b-a41c-493b-8d3a-f7c9797d8a62" facs="#zone_a5fe9d15-228c-4fe8-9a76-2021a8d93529"/>
+                        <measure n="35" label="35" xml:id="measure_5b7bf2c6-449e-44d1-8ee9-8aeebf5c3d50" facs="#zone_33eb802c-a243-4ba6-8106-5e995dce48c4"/>
+                        <measure n="36" label="36" xml:id="measure_1f9bdaef-5691-438e-b901-8c828f051d13" facs="#zone_19aa8482-7ba3-41d7-8bee-82ee4e4af5c4"/>
+                        <measure n="37" label="37" xml:id="measure_517b9dbe-5303-4da4-9cd7-839979a78796" facs="#zone_125fc775-bc7b-4416-9621-204471cd35f3"/>
+                        <sb/>
+                        <pb/>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
